@@ -1,0 +1,439 @@
+[
+  {
+    "id": "amd-ryzen7-5800X3D",
+    "title": "AMD Ryzen 7 5800X3D",
+    "price": 380,
+    "discount": 20,
+    "rating": 4.9,
+    "reviews": 280,
+    "image": [
+      "https://i.imgur.com/hGWdJJh.jpg",
+      "https://i.imgur.com/JQ44UTD.jpg",
+      "https://i.imgur.com/WKViypj.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM4",
+      "Speed": "3.4-4.5 GHz",
+      "Cores": "8/16",
+      "TDP": "105 W"
+    }
+  },
+  {
+    "id": "amd-ryzen7-5800X",
+    "title": "AMD Ryzen 7 5800X",
+    "price": 330,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 182,
+    "image": [
+      "https://i.imgur.com/hGWdJJh.jpg",
+      "https://i.imgur.com/JQ44UTD.jpg",
+      "https://i.imgur.com/WKViypj.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM4",
+      "Speed": "3.8-4.7 GHz",
+      "Cores": "8/16",
+      "TDP": "105 W"
+    }
+  },
+  {
+    "id": "amd-ryzen5-7600x",
+    "title": "AMD Ryzen 5 7600X",
+    "price": 250,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 124,
+    "image": [
+      "https://i.imgur.com/ElrPyUo.jpg",
+      "https://i.imgur.com/1Hn8S7Z.jpg",
+      "https://i.imgur.com/c0nSkix.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "4.7-5.3 GHz",
+      "Cores": "6/12",
+      "TDP": "105 W"
+    }
+  },
+  {
+    "id": "amd-ryzen5-7600",
+    "title": "AMD Ryzen 5 7600",
+    "price": 240,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 90,
+    "image": [
+      "https://i.imgur.com/ElrPyUo.jpg",
+      "https://i.imgur.com/1Hn8S7Z.jpg",
+      "https://i.imgur.com/c0nSkix.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "3.8-5.1 GHz",
+      "Cores": "6/12",
+      "TDP": "65 W"
+    }
+  },
+  {
+    "id": "amd-ryzen7-7800x3d",
+    "title": "AMD Ryzen 7 7800X3D",
+    "price": 420,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 90,
+    "image": [
+      "https://i.imgur.com/pDpeE7G.jpg",
+      "https://i.imgur.com/c0nSkix.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "4.2-5 GHz",
+      "Cores": "8/16",
+      "TDP": "120 W"
+    }
+  },
+  {
+    "id": "amd-ryzen7-7700",
+    "title": "AMD Ryzen 7 7700",
+    "price": 280,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 130,
+    "image": [
+      "https://i.imgur.com/pDpeE7G.jpg",
+      "https://i.imgur.com/c0nSkix.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "3.8-5.3 GHz",
+      "Cores": "8/16",
+      "TDP": "65 W"
+    }
+  },
+  {
+    "id": "amd-ryzen7-7700x",
+    "title": "AMD Ryzen 7 7700X",
+    "price": 300,
+    "discount": 20,
+    "rating": 4.8,
+    "reviews": 156,
+    "image": [
+      "https://i.imgur.com/pDpeE7G.jpg",
+      "https://i.imgur.com/c0nSkix.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "4.5-5.4 GHz",
+      "Cores": "8/16",
+      "TDP": "105 W"
+    }
+  },
+  {
+    "id": "amd-ryzen9-7950x",
+    "title": "AMD Ryzen 9 7950X",
+    "price": 700,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 95,
+    "image": [
+      "https://i.imgur.com/xawVNCN.jpg",
+      "https://i.imgur.com/U6f5UV5.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "4.2-5.7 GHz",
+      "Cores": "16/32",
+      "TDP": "120 W"
+    }
+  },
+  {
+    "id": "amd-ryzen9-7900x",
+    "title": "AMD Ryzen 9 7900X",
+    "price": 600,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 105,
+    "image": [
+      "https://i.imgur.com/xawVNCN.jpg",
+      "https://i.imgur.com/U6f5UV5.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "4.7-5.6 GHz",
+      "Cores": "12/24",
+      "TDP": "170 W"
+    }
+  },
+  {
+    "id": "amd-ryzen9-7900",
+    "title": "AMD Ryzen 9 7900",
+    "price": 530,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 102,
+    "image": [
+      "https://i.imgur.com/xawVNCN.jpg",
+      "https://i.imgur.com/U6f5UV5.jpg",
+      "https://i.imgur.com/EefhYlW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "AMD",
+      "Socket": "AM5",
+      "Speed": "3.7-5.4 GHz",
+      "Cores": "12/24",
+      "TDP": "65 W"
+    }
+  },
+  {
+    "id": "intel-i7-12700k",
+    "title": "Intel Core i7-12700K",
+    "price": 480,
+    "discount": 30,
+    "rating": 3.5,
+    "reviews": 318,
+    "image": [
+      "https://i.imgur.com/DmCrhtP.jpg",
+      "https://i.imgur.com/GdFvSBh.jpg",
+      "https://i.imgur.com/FbNaeVV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.6-5 GHz",
+      "Cores": "12/20",
+      "TDP": "190 W"
+    }
+  },
+  {
+    "id": "intel-i7-12700kf",
+    "title": "Intel Core i7-12700KF",
+    "price": 470,
+    "discount": 20,
+    "rating": 3.2,
+    "reviews": 204,
+    "image": [
+      "https://i.imgur.com/DmCrhtP.jpg",
+      "https://i.imgur.com/GdFvSBh.jpg",
+      "https://i.imgur.com/FbNaeVV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.6-5 GHz",
+      "Cores": "12/20",
+      "TDP": "190 W"
+    }
+  },
+  {
+    "id": "intel-i7-12700",
+    "title": "Intel Core i7-12700",
+    "price": 460,
+    "discount": 0,
+    "rating": 3.4,
+    "reviews": 170,
+    "image": [
+      "https://i.imgur.com/DmCrhtP.jpg",
+      "https://i.imgur.com/GdFvSBh.jpg",
+      "https://i.imgur.com/FbNaeVV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "2.1-4.9 GHz",
+      "Cores": "12/20",
+      "TDP": "180 W"
+    }
+  },
+  {
+    "id": "intel-i5-13400f",
+    "title": "Intel Core i5-13400F",
+    "price": 220,
+    "discount": 0,
+    "rating": 2.8,
+    "reviews": 182,
+    "image": [
+      "https://i.imgur.com/2fH1eSX.jpg",
+      "https://i.imgur.com/Yc1ocZ6.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "2.5-4.6 GHz",
+      "Cores": "10/16",
+      "TDP": "150 W"
+    }
+  },
+  {
+    "id": "intel-i5-13600k",
+    "title": "Intel Core i5-13600K",
+    "price": 320,
+    "discount": 0,
+    "rating": 3,
+    "reviews": 154,
+    "image": [
+      "https://i.imgur.com/2fH1eSX.jpg",
+      "https://i.imgur.com/Yc1ocZ6.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.5-5.1 GHz",
+      "Cores": "14/20",
+      "TDP": "180 W"
+    }
+  },
+  {
+    "id": "intel-i5-13500",
+    "title": "Intel Core i5-13500",
+    "price": 280,
+    "discount": 0,
+    "rating": 3.2,
+    "reviews": 122,
+    "image": [
+      "https://i.imgur.com/2fH1eSX.jpg",
+      "https://i.imgur.com/Yc1ocZ6.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "2.5-4.8 GHz",
+      "Cores": "14/20",
+      "TDP": "150 W"
+    }
+  },
+  {
+    "id": "intel-i7-13700kf",
+    "title": "Intel Core i7-13700KF",
+    "price": 450,
+    "discount": 0,
+    "rating": 2.5,
+    "reviews": 242,
+    "image": [
+      "https://i.imgur.com/Ns2wdv5.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.4-5.4 GHz",
+      "Cores": "16/24",
+      "TDP": "250 W"
+    }
+  },
+  {
+    "id": "intel-i7-13700k",
+    "title": "Intel Core i7-13700K",
+    "price": 460,
+    "discount": 10,
+    "rating": 2.8,
+    "reviews": 185,
+    "image": [
+      "https://i.imgur.com/Ns2wdv5.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.4-5.4 GHz",
+      "Cores": "16/24",
+      "TDP": "250 W"
+    }
+  },
+  {
+    "id": "intel-i7-13700",
+    "title": "Intel Core i7-13700",
+    "price": 420,
+    "discount": 0,
+    "rating": 3.8,
+    "reviews": 119,
+    "image": [
+      "https://i.imgur.com/Ns2wdv5.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "2.1-5.2 GHz",
+      "Cores": "16/24",
+      "TDP": "220 W"
+    }
+  },
+  {
+    "id": "intel-i9-13900k",
+    "title": "Intel Core i9-13900K",
+    "price": 680,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 219,
+    "image": [
+      "https://i.imgur.com/izbTm9M.jpg",
+      "https://i.imgur.com/At0QuJI.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.0-5.8 GHz",
+      "Cores": "24/32",
+      "TDP": "250 W"
+    }
+  },
+  {
+    "id": "intel-i9-13900kf",
+    "title": "Intel Core i9-13900KF",
+    "price": 660,
+    "discount": 0,
+    "rating": 3.8,
+    "reviews": 119,
+    "image": [
+      "https://i.imgur.com/izbTm9M.jpg",
+      "https://i.imgur.com/At0QuJI.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "3.0-5.8 GHz",
+      "Cores": "24/32",
+      "TDP": "250 W"
+    }
+  },
+  {
+    "id": "intel-i9-13900",
+    "title": "Intel Core i9-13900",
+    "price": 640,
+    "discount": 0,
+    "rating": 3.5,
+    "reviews": 98,
+    "image": [
+      "https://i.imgur.com/izbTm9M.jpg",
+      "https://i.imgur.com/At0QuJI.jpg",
+      "https://i.imgur.com/V8WYpVt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Intel",
+      "Socket": "1700",
+      "Speed": "2.0-5.6 GHz",
+      "Cores": "24/32",
+      "TDP": "220 W"
+    }
+  }
+]

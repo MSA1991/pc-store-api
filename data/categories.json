@@ -1,0 +1,158 @@
+{
+  "cpu": [
+    {
+      "id": "amd-ryzen7-5800x3d",
+      "title": "AMD Ryzen 7 5800X3D",
+      "price": 380,
+      "discount": 20,
+      "image": "https://i.imgur.com/hGWdJJh.jpg"
+    },
+    {
+      "id": "amd-ryzen7-5800x",
+      "title": "AMD Ryzen 7 5800X",
+      "price": 330,
+      "discount": 0,
+      "image": "https://i.imgur.com/hGWdJJh.jpg"
+    },
+    {
+      "id": "amd-ryzen5-7600x",
+      "title": "AMD Ryzen 5 7600X",
+      "price": 250,
+      "discount": 0,
+      "image": "https://i.imgur.com/ElrPyUo.jpg"
+    },
+    {
+      "id": "amd-ryzen5-7600",
+      "title": "AMD Ryzen 5 7600",
+      "price": 240,
+      "discount": 0,
+      "image": "https://i.imgur.com/ElrPyUo.jpg"
+    },
+    {
+      "id": "amd-ryzen7-7800x3d",
+      "title": "AMD Ryzen 7 7800X3D",
+      "price": 420,
+      "discount": 0,
+      "image": "https://i.imgur.com/pDpeE7G.jpg"
+    },
+    {
+      "id": "amd-ryzen7-7700",
+      "title": "AMD Ryzen 7 7700",
+      "price": 280,
+      "discount": 0,
+      "image": "https://i.imgur.com/pDpeE7G.jpg"
+    },
+    {
+      "id": "amd-ryzen7-7700x",
+      "title": "AMD Ryzen 7 7700X",
+      "price": 300,
+      "discount": 20,
+      "image": "https://i.imgur.com/pDpeE7G.jpg"
+    },
+    {
+      "id": "amd-ryzen9-7950x",
+      "title": "AMD Ryzen 9 7950X",
+      "price": 700,
+      "discount": 0,
+      "image": "https://i.imgur.com/xawVNCN.jpg"
+    },
+    {
+      "id": "amd-ryzen9-7900x",
+      "title": "AMD Ryzen 9 7900X",
+      "price": 600,
+      "discount": 0,
+      "image": "https://i.imgur.com/xawVNCN.jpg"
+    },
+    {
+      "id": "amd-ryzen9-7900",
+      "title": "AMD Ryzen 9 7900",
+      "price": 530,
+      "discount": 0,
+      "image": "https://i.imgur.com/xawVNCN.jpg"
+    },
+    {
+      "id": "intel-i7-12700k",
+      "title": "Intel Core i7-12700K",
+      "price": 480,
+      "discount": 30,
+      "image": "https://i.imgur.com/DmCrhtP.jpg"
+    },
+    {
+      "id": "intel-i7-12700kf",
+      "title": "Intel Core i7-12700KF",
+      "price": 470,
+      "discount": 20,
+      "image": "https://i.imgur.com/DmCrhtP.jpg"
+    },
+    {
+      "id": "intel-i7-12700",
+      "title": "Intel Core i7-12700",
+      "price": 460,
+      "discount": 0,
+      "image": "https://i.imgur.com/DmCrhtP.jpg"
+    },
+    {
+      "id": "intel-i5-13400f",
+      "title": "Intel Core i5-13400F",
+      "price": 220,
+      "discount": 0,
+      "image": "https://i.imgur.com/2fH1eSX.jpg"
+    },
+    {
+      "id": "intel-i5-13600k",
+      "title": "Intel Core i5-13600K",
+      "price": 320,
+      "discount": 0,
+      "image": "https://i.imgur.com/2fH1eSX.jpg"
+    },
+    {
+      "id": "intel-i5-13500",
+      "title": "Intel Core i5-13500",
+      "price": 280,
+      "discount": 0,
+      "image": "https://i.imgur.com/2fH1eSX.jpg"
+    },
+    {
+      "id": "intel-i7-13700kf",
+      "title": "Intel Core i7-13700KF",
+      "price": 450,
+      "discount": 0,
+      "image": "https://i.imgur.com/Ns2wdv5.jpg"
+    },
+    {
+      "id": "intel-i7-13700k",
+      "title": "Intel Core i7-13700K",
+      "price": 460,
+      "discount": 10,
+      "image": "https://i.imgur.com/Ns2wdv5.jpg"
+    },
+    {
+      "id": "intel-i7-13700",
+      "title": "Intel Core i7-13700",
+      "price": 420,
+      "discount": 0,
+      "image": "https://i.imgur.com/Ns2wdv5.jpg"
+    },
+    {
+      "id": "intel-i9-13900k",
+      "title": "Intel Core i9-13900K",
+      "price": 680,
+      "discount": 0,
+      "image": "https://i.imgur.com/izbTm9M.jpg"
+    },
+    {
+      "id": "intel-i9-13900kf",
+      "title": "Intel Core i9-13900KF",
+      "price": 670,
+      "discount": 10,
+      "image": "https://i.imgur.com/izbTm9M.jpg"
+    },
+    {
+      "id": "intel-i9-13900",
+      "title": "Intel Core i9-13900",
+      "price": 640,
+      "discount": 0,
+      "image": "https://i.imgur.com/izbTm9M.jpg"
+    }
+  ]
+}
