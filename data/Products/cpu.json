@@ -6,7 +6,7 @@
     "discount": 20,
     "rating": 4.9,
     "reviews": 280,
-    "image": [
+    "images": [
       "https://i.imgur.com/hGWdJJh.jpg",
       "https://i.imgur.com/JQ44UTD.jpg",
       "https://i.imgur.com/WKViypj.jpg"
@@ -26,7 +26,7 @@
     "discount": 0,
     "rating": 4.5,
     "reviews": 182,
-    "image": [
+    "images": [
       "https://i.imgur.com/hGWdJJh.jpg",
       "https://i.imgur.com/JQ44UTD.jpg",
       "https://i.imgur.com/WKViypj.jpg"
@@ -46,7 +46,7 @@
     "discount": 0,
     "rating": 4.6,
     "reviews": 124,
-    "image": [
+    "images": [
       "https://i.imgur.com/ElrPyUo.jpg",
       "https://i.imgur.com/1Hn8S7Z.jpg",
       "https://i.imgur.com/c0nSkix.jpg"
@@ -66,7 +66,7 @@
     "discount": 0,
     "rating": 4.2,
     "reviews": 90,
-    "image": [
+    "images": [
       "https://i.imgur.com/ElrPyUo.jpg",
       "https://i.imgur.com/1Hn8S7Z.jpg",
       "https://i.imgur.com/c0nSkix.jpg"
@@ -86,7 +86,7 @@
     "discount": 0,
     "rating": 4.2,
     "reviews": 90,
-    "image": [
+    "images": [
       "https://i.imgur.com/pDpeE7G.jpg",
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -106,7 +106,7 @@
     "discount": 0,
     "rating": 4.7,
     "reviews": 130,
-    "image": [
+    "images": [
       "https://i.imgur.com/pDpeE7G.jpg",
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -126,7 +126,7 @@
     "discount": 20,
     "rating": 4.8,
     "reviews": 156,
-    "image": [
+    "images": [
       "https://i.imgur.com/pDpeE7G.jpg",
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -146,7 +146,7 @@
     "discount": 0,
     "rating": 4.5,
     "reviews": 95,
-    "image": [
+    "images": [
       "https://i.imgur.com/xawVNCN.jpg",
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -166,7 +166,7 @@
     "discount": 0,
     "rating": 4.7,
     "reviews": 105,
-    "image": [
+    "images": [
       "https://i.imgur.com/xawVNCN.jpg",
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -186,7 +186,7 @@
     "discount": 0,
     "rating": 4.4,
     "reviews": 102,
-    "image": [
+    "images": [
       "https://i.imgur.com/xawVNCN.jpg",
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
@@ -206,7 +206,7 @@
     "discount": 30,
     "rating": 3.5,
     "reviews": 318,
-    "image": [
+    "images": [
       "https://i.imgur.com/DmCrhtP.jpg",
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
@@ -226,7 +226,7 @@
     "discount": 20,
     "rating": 3.2,
     "reviews": 204,
-    "image": [
+    "images": [
       "https://i.imgur.com/DmCrhtP.jpg",
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
@@ -246,7 +246,7 @@
     "discount": 0,
     "rating": 3.4,
     "reviews": 170,
-    "image": [
+    "images": [
       "https://i.imgur.com/DmCrhtP.jpg",
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
@@ -266,7 +266,7 @@
     "discount": 0,
     "rating": 2.8,
     "reviews": 182,
-    "image": [
+    "images": [
       "https://i.imgur.com/2fH1eSX.jpg",
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
@@ -286,7 +286,7 @@
     "discount": 0,
     "rating": 3,
     "reviews": 154,
-    "image": [
+    "images": [
       "https://i.imgur.com/2fH1eSX.jpg",
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
@@ -306,7 +306,7 @@
     "discount": 0,
     "rating": 3.2,
     "reviews": 122,
-    "image": [
+    "images": [
       "https://i.imgur.com/2fH1eSX.jpg",
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
@@ -326,7 +326,7 @@
     "discount": 0,
     "rating": 2.5,
     "reviews": 242,
-    "image": [
+    "images": [
       "https://i.imgur.com/Ns2wdv5.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
@@ -345,7 +345,7 @@
     "discount": 10,
     "rating": 2.8,
     "reviews": 185,
-    "image": [
+    "images": [
       "https://i.imgur.com/Ns2wdv5.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
@@ -364,7 +364,7 @@
     "discount": 0,
     "rating": 3.8,
     "reviews": 119,
-    "image": [
+    "images": [
       "https://i.imgur.com/Ns2wdv5.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
@@ -383,7 +383,7 @@
     "discount": 0,
     "rating": 4.2,
     "reviews": 219,
-    "image": [
+    "images": [
       "https://i.imgur.com/izbTm9M.jpg",
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
@@ -403,7 +403,7 @@
     "discount": 0,
     "rating": 3.8,
     "reviews": 119,
-    "image": [
+    "images": [
       "https://i.imgur.com/izbTm9M.jpg",
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
@@ -423,7 +423,7 @@
     "discount": 0,
     "rating": 3.5,
     "reviews": 98,
-    "image": [
+    "images": [
       "https://i.imgur.com/izbTm9M.jpg",
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "gigabyte-b550m-aorus-elite",
+    "title": "GIGABYTE B550M AORUS ELITE",
+    "price": 110,
+    "discount": 0,
+    "rating": 4.3,
+    "reviews": 40,
+    "images": [
+      "https://i.imgur.com/cthopHU.jpg",
+      "https://i.imgur.com/c14BoN7.jpg",
+      "https://i.imgur.com/EZPQwCT.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Socket": "AM4",
+      "Form factor": "Micro-ATX",
+      "DIMM": "4xDDR4 4733 GHz",
+      "GUI": "1x PCI Express 4.0, 1x PCI Express 3.0 x16"
+    }
+  },
+  {
+    "id": "msi-mag-b550-tomahawk",
+    "title": "MSI MAG B550 TOMAHAWK",
+    "price": 160,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 55,
+    "images": [
+      "https://i.imgur.com/OXSsn1f.jpg",
+      "https://i.imgur.com/34UucTd.jpg",
+      "https://i.imgur.com/2vBCqs3.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Socket": "AM4",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR4 5100 GHz",
+      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 3.0 x16"
+    }
+  },
+  {
+    "id": "asus-rog-crosshair-viii-formula",
+    "title": "ASUS ROG Crosshair VIII Formula",
+    "price": 520,
+    "discount": 20,
+    "rating": 4.9,
+    "reviews": 95,
+    "images": [
+      "https://i.imgur.com/kId6iRt.jpg",
+      "https://i.imgur.com/awOXVrd.jpg",
+      "https://i.imgur.com/s4kC29e.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Socket": "AM4",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR4 5100 GHz",
+      "GUI": "3x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "asrock-b650m",
+    "title": "ASRock B650M",
+    "price": 150,
+    "discount": 0,
+    "rating": 3.9,
+    "reviews": 24,
+    "images": [
+      "https://i.imgur.com/DJXjk8F.jpg",
+      "https://i.imgur.com/W9r51pC.jpg",
+      "https://i.imgur.com/KQQlb1w.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASRock",
+      "Socket": "AM5",
+      "Form factor": "Micro-ATX",
+      "DIMM": "2xDDR5 6400 GHz",
+      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b650-plus-wifi",
+    "title": "ASUS TUF GAMING B650-Plus WIFI",
+    "price": 250,
+    "discount": 10,
+    "rating": 4.2,
+    "reviews": 49,
+    "images": [
+      "https://i.imgur.com/nMnmHNM.jpg",
+      "https://i.imgur.com/2ZpQ15y.jpg",
+      "https://i.imgur.com/Pqu6h3Y.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 6400 GHz",
+      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "msi-mag-x670e-tomahawk-wifi",
+    "title": "MSI MAG X670E TOMAHAWK WIFI",
+    "price": 330,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 72,
+    "images": [
+      "https://i.imgur.com/B4kBN3A.jpg",
+      "https://i.imgur.com/x3JeGhT.jpg",
+      "https://i.imgur.com/kR4ivmi.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSi",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 6000 GHz",
+      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "gigabyte-x670-gaming-x-ax",
+    "title": "GIGABYTE X670 GAMING X AX",
+    "price": 330,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 62,
+    "images": [
+      "https://i.imgur.com/tj3gISD.jpg",
+      "https://i.imgur.com/CL3sR6L.jpg",
+      "https://i.imgur.com/EZPQwCT.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Socket": "AM5",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 6400 GHz",
+      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "asus-tuf-gaming-b760-plus-wifi",
+    "title": "ASUS TUF GAMING B760-PLUS WIFI",
+    "price": 220,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 43,
+    "images": [
+      "https://i.imgur.com/eyjebu4.jpg",
+      "https://i.imgur.com/aKH5L5v.jpg",
+      "https://i.imgur.com/Pqu6h3Y.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 7200 GHz",
+      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
+    }
+  },
+  {
+    "id": "asus-rog-strix-b760-f-gaming-wifi",
+    "title": "ASUS ROG STRIX B760-F GAMING WIFI",
+    "price": 320,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 122,
+    "images": [
+      "https://i.imgur.com/vGJmdxf.jpg",
+      "https://i.imgur.com/UTHR6r4.jpg",
+      "https://i.imgur.com/b09Dcks.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 7800 GHz",
+      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
+    }
+  },
+  {
+    "id": "gigabyte-z790-aorus-elite-ax",
+    "title": "GIGABYTE Z790 AORUS ELITE AX",
+    "price": 330,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 100,
+    "images": [
+      "https://i.imgur.com/dtGc749.jpg",
+      "https://i.imgur.com/6vqtkUX.jpg",
+      "https://i.imgur.com/UpKmMT9.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 7600 GHz",
+      "GUI": "1x PCI Express 5.0 x16, 2x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "msi-mag-z790-tomahawk-wifi",
+    "title": "MSI MAG Z790 TOMAHAWK WIFI",
+    "price": 330,
+    "discount": 10,
+    "rating": 4.6,
+    "reviews": 75,
+    "images": [
+      "https://i.imgur.com/B1X1xDA.jpg",
+      "https://i.imgur.com/Xav2AH1.jpg",
+      "https://i.imgur.com/yzfRSw3.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 7200 GHz",
+      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "asrock-b760m-hdv",
+    "title": "ASRock B760M-HDV",
+    "price": 120,
+    "discount": 0,
+    "rating": 3.8,
+    "reviews": 15,
+    "images": [
+      "https://i.imgur.com/wob8rZo.jpg",
+      "https://i.imgur.com/qVC4Sba.jpg",
+      "https://i.imgur.com/xz1rVba.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASRock",
+      "Socket": "1700",
+      "Form factor": "Micro-ATX",
+      "DIMM": "2xDDR5 7200 GHz",
+      "GUI": "1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "gigabyte-z790-gaming-x-ax",
+    "title": "GIGABYTE Z790 GAMING X AX",
+    "price": 280,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 45,
+    "images": [
+      "https://i.imgur.com/VZsbuTR.jpg",
+      "https://i.imgur.com/QbPUNOU.jpg",
+      "https://i.imgur.com/mgYDYaV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 7600 GHz",
+      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
+    }
+  },
+  {
+    "id": "asus-rog-maximus-z790-dark-hero",
+    "title": "ASUS ROG MAXIMUS Z790 DARK HERO",
+    "price": 780,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 133,
+    "images": [
+      "https://i.imgur.com/8jpy9eo.jpg",
+      "https://i.imgur.com/zEH5UvG.jpg",
+      "https://i.imgur.com/s4kC29e.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Socket": "1700",
+      "Form factor": "ATX",
+      "DIMM": "4xDDR5 8000 GHz",
+      "GUI": "2x PCI Express 5.0 x16"
+    }
+  }
+]

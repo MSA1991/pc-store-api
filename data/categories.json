@@ -154,5 +154,105 @@
       "discount": 0,
       "image": "https://i.imgur.com/izbTm9M.jpg"
     }
+  ],
+  "motherboard": [
+    {
+      "id": "gigabyte-b550m-aorus-elite",
+      "title": "GIGABYTE B550M AORUS ELITE",
+      "price": 110,
+      "discount": 0,
+      "image": "https://i.imgur.com/cthopHU.jpg"
+    },
+    {
+      "id": "msi-mag-b550-tomahawk",
+      "title": "MSI MAG B550 TOMAHAWK",
+      "price": 160,
+      "discount": 0,
+      "image": "https://i.imgur.com/OXSsn1f.jpg"
+    },
+    {
+      "id": "asus-rog-crosshair-viii-formula",
+      "title": "ASUS ROG Crosshair VIII Formula",
+      "price": 520,
+      "discount": 20,
+      "image": "https://i.imgur.com/kId6iRt.jpg"
+    },
+    {
+      "id": "asrock-b650m",
+      "title": "ASRock B650M",
+      "price": 150,
+      "discount": 0,
+      "image": "https://i.imgur.com/DJXjk8F.jpg"
+    },
+    {
+      "id": "asus-tuf-gaming-b650-plus-wifi",
+      "title": "ASUS TUF GAMING B650-Plus WIFI",
+      "price": 250,
+      "discount": 10,
+      "image": "https://i.imgur.com/nMnmHNM.jpg"
+    },
+    {
+      "id": "msi-mag-x670e-tomahawk-wifi",
+      "title": "MSI MAG X670E TOMAHAWK WIFI",
+      "price": 330,
+      "discount": 0,
+      "image": "https://i.imgur.com/B4kBN3A.jpg"
+    },
+    {
+      "id": "gigabyte-x670-gaming-x-ax",
+      "title": "GIGABYTE X670 GAMING X AX",
+      "price": 330,
+      "discount": 0,
+      "image": "https://i.imgur.com/tj3gISD.jpg"
+    },
+    {
+      "id": "asus-tuf-gaming-b760-plus-wifi",
+      "title": "ASUS TUF GAMING B760-PLUS WIFI",
+      "price": 220,
+      "discount": 0,
+      "image": "https://i.imgur.com/eyjebu4.jpg"
+    },
+    {
+      "id": "asus-rog-strix-b760-f-gaming-wifi",
+      "title": "ASUS ROG STRIX B760-F GAMING WIFI",
+      "price": 320,
+      "discount": 0,
+      "image": "https://i.imgur.com/vGJmdxf.jpg"
+    },
+    {
+      "id": "gigabyte-z790-aorus-elite-ax",
+      "title": "GIGABYTE Z790 AORUS ELITE AX",
+      "price": 330,
+      "discount": 0,
+      "image": "https://i.imgur.com/dtGc749.jpg"
+    },
+    {
+      "id": "msi-mag-z790-tomahawk-wifi",
+      "title": "MSI MAG Z790 TOMAHAWK WIFI",
+      "price": 330,
+      "discount": 10,
+      "image": "https://i.imgur.com/B1X1xDA.jpg"
+    },
+    {
+      "id": "asrock-b760m-hdv",
+      "title": "ASRock B760M-HDV",
+      "price": 120,
+      "discount": 0,
+      "image": "https://i.imgur.com/wob8rZo.jpg"
+    },
+    {
+      "id": "gigabyte-z790-gaming-x-ax",
+      "title": "GIGABYTE Z790 GAMING X AX",
+      "price": 280,
+      "discount": 0,
+      "image": "https://i.imgur.com/VZsbuTR.jpg"
+    },
+    {
+      "id": "asus-rog-maximus-z790-dark-hero",
+      "title": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "price": 800,
+      "discount": 50,
+      "image": "https://i.imgur.com/8jpy9eo.jpg"
+    }
   ]
 }
