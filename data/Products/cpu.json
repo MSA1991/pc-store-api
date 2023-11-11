@@ -14,9 +14,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM4",
-      "Speed": "3.4-4.5 GHz",
+      "Clock Speed": "3.4-4.5 GHz",
       "Cores": "8/16",
-      "TDP": "105 W"
+      "TDP": "105 Watt"
     }
   },
   {
@@ -34,9 +34,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM4",
-      "Speed": "3.8-4.7 GHz",
+      "Clock Speed": "3.8-4.7 GHz",
       "Cores": "8/16",
-      "TDP": "105 W"
+      "TDP": "105 Watt"
     }
   },
   {
@@ -54,9 +54,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "4.7-5.3 GHz",
+      "Clock Speed": "4.7-5.3 GHz",
       "Cores": "6/12",
-      "TDP": "105 W"
+      "TDP": "105 Watt"
     }
   },
   {
@@ -74,9 +74,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "3.8-5.1 GHz",
+      "Clock Speed": "3.8-5.1 GHz",
       "Cores": "6/12",
-      "TDP": "65 W"
+      "TDP": "65 Watt"
     }
   },
   {
@@ -94,9 +94,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "4.2-5 GHz",
+      "Clock Speed": "4.2-5 GHz",
       "Cores": "8/16",
-      "TDP": "120 W"
+      "TDP": "120 Watt"
     }
   },
   {
@@ -114,9 +114,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "3.8-5.3 GHz",
+      "Clock Speed": "3.8-5.3 GHz",
       "Cores": "8/16",
-      "TDP": "65 W"
+      "TDP": "65 Watt"
     }
   },
   {
@@ -134,9 +134,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "4.5-5.4 GHz",
+      "Clock Speed": "4.5-5.4 GHz",
       "Cores": "8/16",
-      "TDP": "105 W"
+      "TDP": "105 Watt"
     }
   },
   {
@@ -154,9 +154,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "4.2-5.7 GHz",
+      "Clock Speed": "4.2-5.7 GHz",
       "Cores": "16/32",
-      "TDP": "120 W"
+      "TDP": "120 Watt"
     }
   },
   {
@@ -174,9 +174,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "4.7-5.6 GHz",
+      "Clock Speed": "4.7-5.6 GHz",
       "Cores": "12/24",
-      "TDP": "170 W"
+      "TDP": "170 Watt"
     }
   },
   {
@@ -194,9 +194,9 @@
     "characteristics": {
       "Brand": "AMD",
       "Socket": "AM5",
-      "Speed": "3.7-5.4 GHz",
+      "Clock Speed": "3.7-5.4 GHz",
       "Cores": "12/24",
-      "TDP": "65 W"
+      "TDP": "65 Watt"
     }
   },
   {
@@ -214,9 +214,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.6-5 GHz",
+      "Clock Speed": "3.6-5 GHz",
       "Cores": "12/20",
-      "TDP": "190 W"
+      "TDP": "190 Watt"
     }
   },
   {
@@ -234,9 +234,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.6-5 GHz",
+      "Clock Speed": "3.6-5 GHz",
       "Cores": "12/20",
-      "TDP": "190 W"
+      "TDP": "190 Watt"
     }
   },
   {
@@ -254,9 +254,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "2.1-4.9 GHz",
+      "Clock Speed": "2.1-4.9 GHz",
       "Cores": "12/20",
-      "TDP": "180 W"
+      "TDP": "180 Watt"
     }
   },
   {
@@ -274,9 +274,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "2.5-4.6 GHz",
+      "Clock Speed": "2.5-4.6 GHz",
       "Cores": "10/16",
-      "TDP": "150 W"
+      "TDP": "150 Watt"
     }
   },
   {
@@ -294,9 +294,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.5-5.1 GHz",
+      "Clock Speed": "3.5-5.1 GHz",
       "Cores": "14/20",
-      "TDP": "180 W"
+      "TDP": "180 Watt"
     }
   },
   {
@@ -314,9 +314,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "2.5-4.8 GHz",
+      "Clock Speed": "2.5-4.8 GHz",
       "Cores": "14/20",
-      "TDP": "150 W"
+      "TDP": "150 Watt"
     }
   },
   {
@@ -333,9 +333,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.4-5.4 GHz",
+      "Clock Speed": "3.4-5.4 GHz",
       "Cores": "16/24",
-      "TDP": "250 W"
+      "TDP": "250 Watt"
     }
   },
   {
@@ -352,9 +352,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.4-5.4 GHz",
+      "Clock Speed": "3.4-5.4 GHz",
       "Cores": "16/24",
-      "TDP": "250 W"
+      "TDP": "250 Watt"
     }
   },
   {
@@ -371,9 +371,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "2.1-5.2 GHz",
+      "Clock Speed": "2.1-5.2 GHz",
       "Cores": "16/24",
-      "TDP": "220 W"
+      "TDP": "220 Watt"
     }
   },
   {
@@ -391,9 +391,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.0-5.8 GHz",
+      "Clock Speed": "3.0-5.8 GHz",
       "Cores": "24/32",
-      "TDP": "250 W"
+      "TDP": "250 Watt"
     }
   },
   {
@@ -411,9 +411,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "3.0-5.8 GHz",
+      "Clock Speed": "3.0-5.8 GHz",
       "Cores": "24/32",
-      "TDP": "250 W"
+      "TDP": "250 Watt"
     }
   },
   {
@@ -431,9 +431,9 @@
     "characteristics": {
       "Brand": "Intel",
       "Socket": "1700",
-      "Speed": "2.0-5.6 GHz",
+      "Clock Speed": "2.0-5.6 GHz",
       "Cores": "24/32",
-      "TDP": "220 W"
+      "TDP": "220 Watt"
     }
   }
 ]

@@ -254,5 +254,147 @@
       "discount": 50,
       "image": "https://i.imgur.com/8jpy9eo.jpg"
     }
+  ],
+  "gpu": [
+    {
+      "id": "sapphire-rx-7800xt-nitro",
+      "title": "Sapphire RX 7800XT NITRO",
+      "price": 720,
+      "discount": 0,
+      "image": "https://i.imgur.com/kZzClh0.jpg"
+    },
+    {
+      "id": "powercolor-rx7600-fighter",
+      "title": "PowerColor RX 7600 Fighter",
+      "price": 300,
+      "discount": 0,
+      "image": "https://i.imgur.com/tprPVoG.jpg"
+    },
+    {
+      "id": "msi-rx-7900xt-gaming",
+      "title": "MSI RX 7900XT GAMING",
+      "price": 1000,
+      "discount": 30,
+      "image": "https://i.imgur.com/o9Lhau9.jpg"
+    },
+    {
+      "id": "gigabyte-rx-7700xt-gaming",
+      "title": "GIGABYTE RX 7700XT GAMING",
+      "price": 650,
+      "discount": 0,
+      "image": "https://i.imgur.com/1wrnadC.jpg"
+    },
+    {
+      "id": "gigabyte-rx-6600-eagle",
+      "title": "GIGABYTE RX 6600 EAGLE",
+      "price": 250,
+      "discount": 0,
+      "image": "https://i.imgur.com/0TqYVuS.jpg"
+    },
+    {
+      "id": "xfx-rx-6800-speedster",
+      "title": "XFX RX 6800 Speedster",
+      "price": 520,
+      "discount": 20,
+      "image": "https://i.imgur.com/pt738Ug.jpg"
+    },
+    {
+      "id": "powercolor-rx-6700xt-red-devil",
+      "title": "PowerColor RX 6700XT Red Devil",
+      "price": 300,
+      "discount": 0,
+      "image": "https://i.imgur.com/kTPB6Ea.jpg"
+    },
+    {
+      "id": "asus-tuf-rx6800xt",
+      "title": "ASUS TUF RX 6800XT",
+      "price": 600,
+      "discount": 0,
+      "image": "https://i.imgur.com/24txG9A.jpg"
+    },
+    {
+      "id": "msi-rx-6650xt-gaming",
+      "title": "MSI RX 6650XT GAMING",
+      "price": 360,
+      "discount": 0,
+      "image": "https://i.imgur.com/HIaRMtu.jpg"
+    },
+    {
+      "id": "msi-rx-6900xt-gaming",
+      "title": "MSI RX 6900XT GAMING",
+      "price": 780,
+      "discount": 0,
+      "image": "https://i.imgur.com/XvbD8fB.jpg"
+    },
+    {
+      "id": "asus-rog-strix-rtx4090",
+      "title": "ASUS ROG STRIX RTX 4090",
+      "price": 1800,
+      "discount": 50,
+      "image": "https://i.imgur.com/opifUeh.jpg"
+    },
+    {
+      "id": "zotac-gaming-rtx4080",
+      "title": "Zotac GAMING RTX 4080",
+      "price": 1200,
+      "discount": 0,
+      "image": "https://i.imgur.com/pV1gcrE.jpg"
+    },
+    {
+      "id": "gigabyte-rtx-4070ti-gaming",
+      "title": "GIGABYTE RTX 4070 Ti GAMING",
+      "price": 880,
+      "discount": 0,
+      "image": "https://i.imgur.com/QrZCp3V.jpg"
+    },
+    {
+      "id": "palit-rtx-4070-dual",
+      "title": "Palit RTX 4070 Dual",
+      "price": 680,
+      "discount": 0,
+      "image": "https://i.imgur.com/pVZzBHP.jpg"
+    },
+    {
+      "id": "msi-rtx-4060ti-gaming",
+      "title": "MSI RTX 4060 Ti GAMING",
+      "price": 500,
+      "discount": 0,
+      "image": "https://i.imgur.com/A5vgA0U.jpg"
+    },
+    {
+      "id": "asus-dual-rtx4060",
+      "title": "ASUS DUAL RTX 4060",
+      "price": 380,
+      "discount": 0,
+      "image": "https://i.imgur.com/AtxGCHY.jpg"
+    },
+    {
+      "id": "zotac-gaming-rtx-3090ti",
+      "title": "Zotac GAMING RTX 3090 Ti",
+      "price": 1500,
+      "discount": 30,
+      "image": "https://i.imgur.com/A4fKsUk.jpg"
+    },
+    {
+      "id": "evga-rtx-3080-ti-gaming",
+      "title": "EVGA RTX 3080 Ti GAMING",
+      "price": 830,
+      "discount": 0,
+      "image": "https://i.imgur.com/JJa6Pms.jpg"
+    },
+    {
+      "id": "asus-tuf-rtx3070",
+      "title": "ASUS TUF RTX 3070",
+      "price": 500,
+      "discount": 0,
+      "image": "https://i.imgur.com/UwuSjrV.jpg"
+    },
+    {
+      "id": "sapphire-rx-vega56",
+      "title": "Sapphire RX Vega 56",
+      "price": 250,
+      "discount": 0,
+      "image": "https://i.imgur.com/jERLjen.jpg"
+    }
   ]
 }

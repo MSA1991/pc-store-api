@@ -1,0 +1,402 @@
+[
+  {
+    "id": "sapphire-rx-7800xt-nitro",
+    "title": "Sapphire RX 7800XT NITRO",
+    "price": 720,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 128,
+    "images": [
+      "https://i.imgur.com/kZzClh0.jpg",
+      "https://i.imgur.com/NFTmV8V.jpg",
+      "https://i.imgur.com/NtJRsHi.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Sapphire",
+      "Clock Speed": "2560 MHz",
+      "RAM": "16 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "290 Watt"
+    }
+  },
+  {
+    "id": "powercolor-rx7600-fighter",
+    "title": "PowerColor RX 7600 Fighter",
+    "price": 300,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 135,
+    "images": [
+      "https://i.imgur.com/tprPVoG.jpg",
+      "https://i.imgur.com/khOdla0.jpg",
+      "https://i.imgur.com/aKyypiB.jpg"
+    ],
+    "characteristics": {
+      "Brand": "PowerColor",
+      "Clock Speed": "2550 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "128 Bit",
+      "TDP": "165 Watt"
+    }
+  },
+  {
+    "id": "msi-rx-7900xt-gaming",
+    "title": "MSI RX 7900XT GAMING",
+    "price": 1000,
+    "discount": 30,
+    "rating": 4.8,
+    "reviews": 180,
+    "images": [
+      "https://i.imgur.com/o9Lhau9.jpg",
+      "https://i.imgur.com/C66VtKq.jpg",
+      "https://i.imgur.com/LUPaAHR.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Clock Speed": "2400 MHz",
+      "RAM": "10 GB",
+      "Memory Bus": "320 Bit",
+      "TDP": "320 Watt"
+    }
+  },
+  {
+    "id": "gigabyte-rx-7700xt-gaming",
+    "title": "GIGABYTE RX 7700XT GAMING",
+    "price": 650,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 145,
+    "images": [
+      "https://i.imgur.com/1wrnadC.jpg",
+      "https://i.imgur.com/H0pCghJ.jpg",
+      "https://i.imgur.com/nguOCgd.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Clock Speed": "2600 MHz",
+      "RAM": "12 GB",
+      "Memory Bus": "192 Bit",
+      "TDP": "250 Watt"
+    }
+  },
+  {
+    "id": "gigabyte-rx-6600-eagle",
+    "title": "GIGABYTE RX 6600 EAGLE",
+    "price": 250,
+    "discount": 0,
+    "rating": 4.3,
+    "reviews": 113,
+    "images": [
+      "https://i.imgur.com/0TqYVuS.jpg",
+      "https://i.imgur.com/m6OVRin.jpg",
+      "https://i.imgur.com/nguOCgd.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Clock Speed": "2500 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "128 Bit",
+      "TDP": "130 Watt"
+    }
+  },
+  {
+    "id": "xfx-rx-6800-speedster",
+    "title": "XFX RX 6800 Speedster",
+    "price": 520,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 93,
+    "images": [
+      "https://i.imgur.com/pt738Ug.jpg",
+      "https://i.imgur.com/RQLchYF.jpg",
+      "https://i.imgur.com/6iDuPLy.jpg"
+    ],
+    "characteristics": {
+      "Brand": "XFX",
+      "Clock Speed": "2100 MHz",
+      "RAM": "16 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "250 Watt"
+    }
+  },
+  {
+    "id": "powercolor-rx-6700xt-red-devil",
+    "title": "PowerColor RX 6700XT Red Devil",
+    "price": 300,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 93,
+    "images": [
+      "https://i.imgur.com/kTPB6Ea.jpg",
+      "https://i.imgur.com/Fj8Iy80.jpg",
+      "https://i.imgur.com/s3Yxnef.jpg"
+    ],
+    "characteristics": {
+      "Brand": "PowerColor",
+      "Clock Speed": "2620 MHz",
+      "RAM": "12 GB",
+      "Memory Bus": "292 Bit",
+      "TDP": "230 Watt"
+    }
+  },
+  {
+    "id": "asus-tuf-rx6800xt",
+    "title": "ASUS TUF RX 6800XT",
+    "price": 600,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 169,
+    "images": [
+      "https://i.imgur.com/24txG9A.jpg",
+      "https://i.imgur.com/yAl4C6g.jpg",
+      "https://i.imgur.com/xLavS0H.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Clock Speed": "2340 MHz",
+      "RAM": "16 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "250 Watt"
+    }
+  },
+  {
+    "id": "msi-rx-6650xt-gaming",
+    "title": "MSI RX 6650XT GAMING",
+    "price": 360,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 172,
+    "images": [
+      "https://i.imgur.com/HIaRMtu.jpg",
+      "https://i.imgur.com/sKZt9Mj.jpg",
+      "https://i.imgur.com/08JQs7V.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Clock Speed": "2690 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "128 Bit",
+      "TDP": "170 Watt"
+    }
+  },
+  {
+    "id": "msi-rx-6900xt-gaming",
+    "title": "MSI RX 6900XT GAMING",
+    "price": 780,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 226,
+    "images": [
+      "https://i.imgur.com/XvbD8fB.jpg",
+      "https://i.imgur.com/2OHIRpV.jpg",
+      "https://i.imgur.com/f9NWve4.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Clock Speed": "2340 MHz",
+      "RAM": "16 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "300 Watt"
+    }
+  },
+  {
+    "id": "asus-rog-strix-rtx4090",
+    "title": "ASUS ROG STRIX RTX 4090",
+    "price": 1800,
+    "discount": 50,
+    "rating": 3.2,
+    "reviews": 251,
+    "images": [
+      "https://i.imgur.com/opifUeh.jpg",
+      "https://i.imgur.com/TmkmFkH.jpg",
+      "https://i.imgur.com/EYpB9vV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Clock Speed": "2640 MHz",
+      "RAM": "24 GB",
+      "Memory Bus": "384 Bit",
+      "TDP": "450 Watt"
+    }
+  },
+  {
+    "id": "zotac-gaming-rtx4080",
+    "title": "Zotac GAMING RTX 4080",
+    "price": 1200,
+    "discount": 0,
+    "rating": 3.7,
+    "reviews": 188,
+    "images": [
+      "https://i.imgur.com/pV1gcrE.jpg",
+      "https://i.imgur.com/UtgxOsh.jpg",
+      "https://i.imgur.com/1HjLdjh.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Zotac",
+      "Clock Speed": "2560 MHz",
+      "RAM": "16 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "320 Watt"
+    }
+  },
+  {
+    "id": "gigabyte-rtx-4070ti-gaming",
+    "title": "GIGABYTE RTX 4070 Ti GAMING",
+    "price": 880,
+    "discount": 0,
+    "rating": 4.0,
+    "reviews": 162,
+    "images": [
+      "https://i.imgur.com/QrZCp3V.jpg",
+      "https://i.imgur.com/xkGIIgQ.jpg",
+      "https://i.imgur.com/hqW7sw8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Clock Speed": "2640 MHz",
+      "RAM": "12 GB",
+      "Memory Bus": "192 Bit",
+      "TDP": "300 Watt"
+    }
+  },
+  {
+    "id": "palit-rtx-4070-dual",
+    "title": "Palit RTX 4070 Dual",
+    "price": 680,
+    "discount": 0,
+    "rating": 4.3,
+    "reviews": 87,
+    "images": [
+      "https://i.imgur.com/pVZzBHP.jpg",
+      "https://i.imgur.com/tJDVhtd.jpg",
+      "https://i.imgur.com/YUm53oL.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Palit",
+      "Clock Speed": "2550 MHz",
+      "RAM": "12 GB",
+      "Memory Bus": "192 Bit",
+      "TDP": "220 Watt"
+    }
+  },
+  {
+    "id": "msi-rtx-4060ti-gaming",
+    "title": "MSI RTX 4060 Ti GAMING",
+    "price": 500,
+    "discount": 0,
+    "rating": 2.3,
+    "reviews": 205,
+    "images": [
+      "https://i.imgur.com/A5vgA0U.jpg",
+      "https://i.imgur.com/amwKzmj.jpg",
+      "https://i.imgur.com/KXUq3oz.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Clock Speed": "2650 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "128 Bit",
+      "TDP": "160 Watt"
+    }
+  },
+  {
+    "id": "asus-dual-rtx4060",
+    "title": "ASUS DUAL RTX 4060",
+    "price": 380,
+    "discount": 0,
+    "rating": 2.4,
+    "reviews": 188,
+    "images": [
+      "https://i.imgur.com/AtxGCHY.jpg",
+      "https://i.imgur.com/OapLKEH.jpg",
+      "https://i.imgur.com/3lPMphV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Clock Speed": "2500 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "128 Bit",
+      "TDP": "160 Watt"
+    }
+  },
+  {
+    "id": "zotac-gaming-rtx-3090ti",
+    "title": "Zotac GAMING RTX 3090 Ti",
+    "price": 1500,
+    "discount": 30,
+    "rating": 3.4,
+    "reviews": 201,
+    "images": [
+      "https://i.imgur.com/A4fKsUk.jpg",
+      "https://i.imgur.com/QYxGJ0D.jpg",
+      "https://i.imgur.com/PcDU2gc.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Zotac",
+      "Clock Speed": "1950 MHz",
+      "RAM": "24 GB",
+      "Memory Bus": "384 Bit",
+      "TDP": "450 Watt"
+    }
+  },
+  {
+    "id": "evga-rtx-3080-ti-gaming",
+    "title": "EVGA RTX 3080 Ti GAMING",
+    "price": 830,
+    "discount": 0,
+    "rating": 4.1,
+    "reviews": 228,
+    "images": [
+      "https://i.imgur.com/JJa6Pms.jpg",
+      "https://i.imgur.com/EMXYkNn.jpg",
+      "https://i.imgur.com/BAEYZwI.jpg"
+    ],
+    "characteristics": {
+      "Brand": "EVGA",
+      "Clock Speed": "1800 MHz",
+      "RAM": "12 GB",
+      "Memory Bus": "384 Bit",
+      "TDP": "350 Watt"
+    }
+  },
+  {
+    "id": "asus-tuf-rtx3070",
+    "title": "ASUS TUF RTX 3070",
+    "price": 500,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 168,
+    "images": [
+      "https://i.imgur.com/UwuSjrV.jpg",
+      "https://i.imgur.com/lTnYrcc.jpg",
+      "https://i.imgur.com/GVNI41T.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Clock Speed": "1850 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "256 Bit",
+      "TDP": "250 Watt"
+    }
+  },
+  {
+    "id": "sapphire-rx-vega56",
+    "title": "Sapphire RX Vega 56",
+    "price": 250,
+    "discount": 0,
+    "rating": 5.0,
+    "reviews": 52,
+    "images": [
+      "https://i.imgur.com/jERLjen.jpg",
+      "https://i.imgur.com/cxJ0Kfk.jpg",
+      "https://i.imgur.com/NF0LZy2.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Sapphire",
+      "Clock Speed": "1500 MHz",
+      "RAM": "8 GB",
+      "Memory Bus": "2048 Bit",
+      "TDP": "280 Watt"
+    }
+  }
+]
