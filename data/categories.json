@@ -396,5 +396,133 @@
       "discount": 0,
       "image": "https://i.imgur.com/jERLjen.jpg"
     }
+  ],
+  "ram": [
+    {
+      "id": "kingston-fury-32gb-ddr4-3600",
+      "title": "Kingston FURY 32GB DDR4 3600MHz",
+      "price": 80,
+      "discount": 0,
+      "image": "https://i.imgur.com/Mz0iJZY.jpg"
+    },
+    {
+      "id": "kingston-fury-16gb-ddr4-3200",
+      "title": "Kingston FURY 16GB DDR4 3200MHz",
+      "price": 40,
+      "discount": 0,
+      "image": "https://i.imgur.com/Mz0iJZY.jpg"
+    },
+    {
+      "id": "kingston-fury-8gb-ddr4-3200",
+      "title": "Kingston FURY 8GB DDR4 3200MHz",
+      "price": 30,
+      "discount": 5,
+      "image": "https://i.imgur.com/Mz0iJZY.jpg"
+    },
+    {
+      "id": "gskill-ripjaws-32gb-ddr4-3600",
+      "title": "G.Skill Ripjaws 32GB DDR4 3600MHz",
+      "price": 80,
+      "discount": 0,
+      "image": "https://i.imgur.com/c6TIJIU.jpg"
+    },
+    {
+      "id": "gskill-ripjaws-32gb-ddr4-3200",
+      "title": "G.Skill Ripjaws 32GB DDR4 3200MHz",
+      "price": 70,
+      "discount": 0,
+      "image": "https://i.imgur.com/c6TIJIU.jpg"
+    },
+    {
+      "id": "gskill-trident-z-32gb-ddr4-3600",
+      "title": "G.Skill Trident Z 32GB DDR4 3600MHz",
+      "price": 120,
+      "discount": 0,
+      "image": "https://i.imgur.com/zEVGtnx.jpg"
+    },
+    {
+      "id": "gskill-trident-z-64gb-ddr4-3600",
+      "title": "G.Skill Trident Z 64GB DDR4 3600MHz",
+      "price": 180,
+      "discount": 0,
+      "image": "https://i.imgur.com/zEVGtnx.jpg"
+    },
+    {
+      "id": "patriot-viper-32gb-ddr4-3200",
+      "title": "PATRIOT Viper 32GB DDR4 3200MHz",
+      "price": 70,
+      "discount": 0,
+      "image": "https://i.imgur.com/D7NCiXm.jpg"
+    },
+    {
+      "id": "patriot-viper-16gb-ddr4-4400",
+      "title": "PATRIOT Viper 16GB DDR4 4400MHz",
+      "price": 90,
+      "discount": 5,
+      "image": "https://i.imgur.com/D7NCiXm.jpg"
+    },
+    {
+      "id": "team-t-force-32gb-ddr5-6000",
+      "title": "TEAM T-Force 32GB DDR5 6000MHz",
+      "price": 125,
+      "discount": 0,
+      "image": "https://i.imgur.com/px3MDEJ.jpg"
+    },
+    {
+      "id": "team-t-force-64gb-ddr5-6000",
+      "title": "TEAM T-Force 64GB DDR5 6000MHz",
+      "price": 230,
+      "discount": 0,
+      "image": "https://i.imgur.com/px3MDEJ.jpg"
+    },
+    {
+      "id": "corsair-vengeance-32gb-ddr5-5200",
+      "title": "Corsair Vengeance 32GB DDR5 5200MHz",
+      "price": 120,
+      "discount": 0,
+      "image": "https://i.imgur.com/eNu7ViK.jpg"
+    },
+    {
+      "id": "corsair-vengeance-8gb-ddr5-5200",
+      "title": "Corsair Vengeance 8GB DDR5 5200MHz",
+      "price": 35,
+      "discount": 5,
+      "image": "https://i.imgur.com/eNu7ViK.jpg"
+    },
+    {
+      "id": "corsair-vengeance-16gb-ddr5-5200",
+      "title": "Corsair Vengeance 16GB DDR5 5200MHz",
+      "price": 70,
+      "discount": 0,
+      "image": "https://i.imgur.com/eNu7ViK.jpg"
+    },
+    {
+      "id": "kingston-fury-128gb-ddr5-6000",
+      "title": "Kingston FURY 128GB DDR5 6000MHz",
+      "price": 500,
+      "discount": 0,
+      "image": "https://i.imgur.com/RLXnmjs.jpg"
+    },
+    {
+      "id": "kingston-fury-64gb-ddr5-6000",
+      "title": "Kingston FURY 64GB DDR5 6000MHz",
+      "price": 240,
+      "discount": 10,
+      "image": "https://i.imgur.com/RLXnmjs.jpg"
+    },
+    {
+      "id": "kingston-fury-32gb-ddr5-6000",
+      "title": "Kingston FURY 32GB DDR5 6000MHz",
+      "price": 130,
+      "discount": 0,
+      "image": "https://i.imgur.com/RLXnmjs.jpg"
+    },
+    {
+      "id": "kingston-fury-16gb-ddr5-6000",
+      "title": "Kingston FURY 16GB DDR5 6000MHz",
+      "price": 75,
+      "discount": 0,
+      "image": "https://i.imgur.com/RLXnmjs.jpg"
+    }
   ]
 }

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "kingston-fury-32gb-ddr4-3600",
+    "title": "Kingston FURY 32GB DDR4 3600MHz",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 175,
+    "images": [
+      "https://i.imgur.com/Mz0iJZY.jpg",
+      "https://i.imgur.com/vU0X9Mv.png",
+      "https://i.imgur.com/lvPz8FN.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR4",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3600 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-16gb-ddr4-3200",
+    "title": "Kingston FURY 16GB DDR4 3200MHz",
+    "price": 40,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 240,
+    "images": [
+      "https://i.imgur.com/Mz0iJZY.jpg",
+      "https://i.imgur.com/vU0X9Mv.png",
+      "https://i.imgur.com/lvPz8FN.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR4",
+      "Capacity": "16 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3200 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-8gb-ddr4-3200",
+    "title": "Kingston FURY 8GB DDR4 3200MHz",
+    "price": 30,
+    "discount": 5,
+    "rating": 4.8,
+    "reviews": 183,
+    "images": [
+      "https://i.imgur.com/Mz0iJZY.jpg",
+      "https://i.imgur.com/vU0X9Mv.png",
+      "https://i.imgur.com/lvPz8FN.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR4",
+      "Capacity": "8 GB",
+      "Number of Modules": 1,
+      "Memory Speed": "3200 MHz"
+    }
+  },
+  {
+    "id": "gskill-ripjaws-32gb-ddr4-3600",
+    "title": "G.Skill Ripjaws 32GB DDR4 3600MHz",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 77,
+    "images": [
+      "https://i.imgur.com/c6TIJIU.jpg",
+      "https://i.imgur.com/EF7AyQq.jpg",
+      "https://i.imgur.com/NCCCKXb.jpg"
+    ],
+    "characteristics": {
+      "Brand": "G.Skill",
+      "Type": "DDR4",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3600 MHz"
+    }
+  },
+  {
+    "id": "gskill-ripjaws-32gb-ddr4-3200",
+    "title": "G.Skill Ripjaws 32GB DDR4 3200MHz",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 71,
+    "images": [
+      "https://i.imgur.com/c6TIJIU.jpg",
+      "https://i.imgur.com/EF7AyQq.jpg",
+      "https://i.imgur.com/NCCCKXb.jpg"
+    ],
+    "characteristics": {
+      "Brand": "G.Skill",
+      "Type": "DDR4",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3200 MHz"
+    }
+  },
+  {
+    "id": "gskill-trident-z-32gb-ddr4-3600",
+    "title": "G.Skill Trident Z 32GB DDR4 3600MHz",
+    "price": 120,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 133,
+    "images": [
+      "https://i.imgur.com/zEVGtnx.jpg",
+      "https://i.imgur.com/O3DzGSn.jpg",
+      "https://i.imgur.com/Ca2u3tH.jpg"
+    ],
+    "characteristics": {
+      "Brand": "G.Skill",
+      "Type": "DDR4",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3600 MHz"
+    }
+  },
+  {
+    "id": "gskill-trident-z-64gb-ddr4-3600",
+    "title": "G.Skill Trident Z 64GB DDR4 3600MHz",
+    "price": 180,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 91,
+    "images": [
+      "https://i.imgur.com/zEVGtnx.jpg",
+      "https://i.imgur.com/O3DzGSn.jpg",
+      "https://i.imgur.com/Ca2u3tH.jpg"
+    ],
+    "characteristics": {
+      "Brand": "G.Skill",
+      "Type": "DDR4",
+      "Capacity": "64 GB",
+      "Number of Modules": 4,
+      "Memory Speed": "3600 MHz"
+    }
+  },
+  {
+    "id": "patriot-viper-32gb-ddr4-3200",
+    "title": "PATRIOT Viper 32GB DDR4 3200MHz",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 62,
+    "images": [
+      "https://i.imgur.com/D7NCiXm.jpg",
+      "https://i.imgur.com/PjrquH9.jpg",
+      "https://i.imgur.com/8IIMoj8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "PATRIOT",
+      "Type": "DDR4",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "3200 MHz"
+    }
+  },
+  {
+    "id": "patriot-viper-16gb-ddr4-4400",
+    "title": "PATRIOT Viper 16GB DDR4 4400MHz",
+    "price": 90,
+    "discount": 5,
+    "rating": 4.6,
+    "reviews": 62,
+    "images": [
+      "https://i.imgur.com/D7NCiXm.jpg",
+      "https://i.imgur.com/PjrquH9.jpg",
+      "https://i.imgur.com/8IIMoj8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "PATRIOT",
+      "Type": "DDR4",
+      "Capacity": "16 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "4400 MHz"
+    }
+  },
+  {
+    "id": "team-t-force-32gb-ddr5-6000",
+    "title": "TEAM T-Force 32GB DDR5 6000MHz",
+    "price": 125,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 55,
+    "images": [
+      "https://i.imgur.com/px3MDEJ.jpg",
+      "https://i.imgur.com/q98pNow.jpg",
+      "https://i.imgur.com/mPTAS7M.jpg"
+    ],
+    "characteristics": {
+      "Brand": "TEAM",
+      "Type": "DDR5",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "6000 MHz"
+    }
+  },
+  {
+    "id": "team-t-force-64gb-ddr5-6000",
+    "title": "TEAM T-Force 64GB DDR5 6000MHz",
+    "price": 230,
+    "discount": 0,
+    "rating": 4.3,
+    "reviews": 31,
+    "images": [
+      "https://i.imgur.com/px3MDEJ.jpg",
+      "https://i.imgur.com/q98pNow.jpg",
+      "https://i.imgur.com/mPTAS7M.jpg"
+    ],
+    "characteristics": {
+      "Brand": "TEAM",
+      "Type": "DDR5",
+      "Capacity": "64 GB",
+      "Number of Modules": 4,
+      "Memory Speed": "6000 MHz"
+    }
+  },
+  {
+    "id": "corsair-vengeance-32gb-ddr5-5200",
+    "title": "Corsair Vengeance 32GB DDR5 5200MHz",
+    "price": 120,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 41,
+    "images": [
+      "https://i.imgur.com/eNu7ViK.jpg",
+      "https://i.imgur.com/XlwjiF3.jpg",
+      "https://i.imgur.com/AVF2rwC.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Corsair",
+      "Type": "DDR5",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "5200 MHz"
+    }
+  },
+  {
+    "id": "corsair-vengeance-8gb-ddr5-5200",
+    "title": "Corsair Vengeance 8GB DDR5 5200MHz",
+    "price": 35,
+    "discount": 5,
+    "rating": 4.8,
+    "reviews": 67,
+    "images": [
+      "https://i.imgur.com/eNu7ViK.jpg",
+      "https://i.imgur.com/XlwjiF3.jpg",
+      "https://i.imgur.com/AVF2rwC.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Corsair",
+      "Type": "DDR5",
+      "Capacity": "8 GB",
+      "Number of Modules": 1,
+      "Memory Speed": "5200 MHz"
+    }
+  },
+  {
+    "id": "corsair-vengeance-16gb-ddr5-5200",
+    "title": "Corsair Vengeance 16GB DDR5 5200MHz",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 64,
+    "images": [
+      "https://i.imgur.com/eNu7ViK.jpg",
+      "https://i.imgur.com/XlwjiF3.jpg",
+      "https://i.imgur.com/AVF2rwC.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Corsair",
+      "Type": "DDR5",
+      "Capacity": "16 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "5200 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-128gb-ddr5-6000",
+    "title": "Kingston FURY 128GB DDR5 6000MHz",
+    "price": 500,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 19,
+    "images": [
+      "https://i.imgur.com/RLXnmjs.jpg",
+      "https://i.imgur.com/uBGPWoR.jpg",
+      "https://i.imgur.com/3cSI5Eq.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR5",
+      "Capacity": "128 GB",
+      "Number of Modules": 4,
+      "Memory Speed": "6000 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-64gb-ddr5-6000",
+    "title": "Kingston FURY 64GB DDR5 6000MHz",
+    "price": 240,
+    "discount": 10,
+    "rating": 4.3,
+    "reviews": 48,
+    "images": [
+      "https://i.imgur.com/RLXnmjs.jpg",
+      "https://i.imgur.com/uBGPWoR.jpg",
+      "https://i.imgur.com/3cSI5Eq.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR5",
+      "Capacity": "64 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "6000 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-32gb-ddr5-6000",
+    "title": "Kingston FURY 32GB DDR5 6000MHz",
+    "price": 130,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 74,
+    "images": [
+      "https://i.imgur.com/RLXnmjs.jpg",
+      "https://i.imgur.com/uBGPWoR.jpg",
+      "https://i.imgur.com/3cSI5Eq.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR5",
+      "Capacity": "32 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "6000 MHz"
+    }
+  },
+  {
+    "id": "kingston-fury-16gb-ddr5-6000",
+    "title": "Kingston FURY 16GB DDR5 6000MHz",
+    "price": 75,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 102,
+    "images": [
+      "https://i.imgur.com/RLXnmjs.jpg",
+      "https://i.imgur.com/uBGPWoR.jpg",
+      "https://i.imgur.com/3cSI5Eq.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Type": "DDR5",
+      "Capacity": "16 GB",
+      "Number of Modules": 2,
+      "Memory Speed": "6000 MHz"
+    }
+  }
+]
