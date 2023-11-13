@@ -16,7 +16,7 @@
       "Socket": "AM4",
       "Clock Speed": "3.4-4.5 GHz",
       "Number of Cores": "8/16",
-      "TDP": "105 Watt"
+      "TDP": "105 W"
     }
   },
   {
@@ -36,7 +36,7 @@
       "Socket": "AM4",
       "Clock Speed": "3.8-4.7 GHz",
       "Number of Cores": "8/16",
-      "TDP": "105 Watt"
+      "TDP": "105 W"
     }
   },
   {
@@ -56,7 +56,7 @@
       "Socket": "AM5",
       "Clock Speed": "4.7-5.3 GHz",
       "Number of Cores": "6/12",
-      "TDP": "105 Watt"
+      "TDP": "105 W"
     }
   },
   {
@@ -76,7 +76,7 @@
       "Socket": "AM5",
       "Clock Speed": "3.8-5.1 GHz",
       "Number of Cores": "6/12",
-      "TDP": "65 Watt"
+      "TDP": "65 W"
     }
   },
   {
@@ -96,7 +96,7 @@
       "Socket": "AM5",
       "Clock Speed": "4.2-5 GHz",
       "Number of Cores": "8/16",
-      "TDP": "120 Watt"
+      "TDP": "120 W"
     }
   },
   {
@@ -116,7 +116,7 @@
       "Socket": "AM5",
       "Clock Speed": "3.8-5.3 GHz",
       "Number of Cores": "8/16",
-      "TDP": "65 Watt"
+      "TDP": "65 W"
     }
   },
   {
@@ -136,7 +136,7 @@
       "Socket": "AM5",
       "Clock Speed": "4.5-5.4 GHz",
       "Number of Cores": "8/16",
-      "TDP": "105 Watt"
+      "TDP": "105 W"
     }
   },
   {
@@ -156,7 +156,7 @@
       "Socket": "AM5",
       "Clock Speed": "4.2-5.7 GHz",
       "Number of Cores": "16/32",
-      "TDP": "120 Watt"
+      "TDP": "120 W"
     }
   },
   {
@@ -176,7 +176,7 @@
       "Socket": "AM5",
       "Clock Speed": "4.7-5.6 GHz",
       "Number of Cores": "12/24",
-      "TDP": "170 Watt"
+      "TDP": "170 W"
     }
   },
   {
@@ -196,7 +196,7 @@
       "Socket": "AM5",
       "Clock Speed": "3.7-5.4 GHz",
       "Number of Cores": "12/24",
-      "TDP": "65 Watt"
+      "TDP": "65 W"
     }
   },
   {
@@ -216,7 +216,7 @@
       "Socket": "1700",
       "Clock Speed": "3.6-5 GHz",
       "Number of Cores": "12/20",
-      "TDP": "190 Watt"
+      "TDP": "190 W"
     }
   },
   {
@@ -236,7 +236,7 @@
       "Socket": "1700",
       "Clock Speed": "3.6-5 GHz",
       "Number of Cores": "12/20",
-      "TDP": "190 Watt"
+      "TDP": "190 W"
     }
   },
   {
@@ -256,7 +256,7 @@
       "Socket": "1700",
       "Clock Speed": "2.1-4.9 GHz",
       "Number of Cores": "12/20",
-      "TDP": "180 Watt"
+      "TDP": "180 W"
     }
   },
   {
@@ -276,7 +276,7 @@
       "Socket": "1700",
       "Clock Speed": "2.5-4.6 GHz",
       "Number of Cores": "10/16",
-      "TDP": "150 Watt"
+      "TDP": "150 W"
     }
   },
   {
@@ -296,7 +296,7 @@
       "Socket": "1700",
       "Clock Speed": "3.5-5.1 GHz",
       "Number of Cores": "14/20",
-      "TDP": "180 Watt"
+      "TDP": "180 W"
     }
   },
   {
@@ -316,7 +316,7 @@
       "Socket": "1700",
       "Clock Speed": "2.5-4.8 GHz",
       "Number of Cores": "14/20",
-      "TDP": "150 Watt"
+      "TDP": "150 W"
     }
   },
   {
@@ -335,7 +335,7 @@
       "Socket": "1700",
       "Clock Speed": "3.4-5.4 GHz",
       "Number of Cores": "16/24",
-      "TDP": "250 Watt"
+      "TDP": "250 W"
     }
   },
   {
@@ -354,7 +354,7 @@
       "Socket": "1700",
       "Clock Speed": "3.4-5.4 GHz",
       "Number of Cores": "16/24",
-      "TDP": "250 Watt"
+      "TDP": "250 W"
     }
   },
   {
@@ -373,7 +373,7 @@
       "Socket": "1700",
       "Clock Speed": "2.1-5.2 GHz",
       "Number of Cores": "16/24",
-      "TDP": "220 Watt"
+      "TDP": "220 W"
     }
   },
   {
@@ -393,7 +393,7 @@
       "Socket": "1700",
       "Clock Speed": "3.0-5.8 GHz",
       "Number of Cores": "24/32",
-      "TDP": "250 Watt"
+      "TDP": "250 W"
     }
   },
   {
@@ -413,7 +413,7 @@
       "Socket": "1700",
       "Clock Speed": "3.0-5.8 GHz",
       "Number of Cores": "24/32",
-      "TDP": "250 Watt"
+      "TDP": "250 W"
     }
   },
   {
@@ -433,7 +433,7 @@
       "Socket": "1700",
       "Clock Speed": "2.0-5.6 GHz",
       "Number of Cores": "24/32",
-      "TDP": "220 Watt"
+      "TDP": "220 W"
     }
   }
 ]

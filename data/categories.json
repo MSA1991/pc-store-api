@@ -525,8 +525,6 @@
       "image": "https://i.imgur.com/RLXnmjs.jpg"
     }
   ],
-  "Power supplies": [],
-  "Computer cases": [],
   "Hard drives and SSDs": [
     {
       "id": "wd-blue-1tb-35",
@@ -654,5 +652,134 @@
       "discount": 0,
       "image": "https://i.imgur.com/00qreKj.jpg"
     }
-  ]
+  ],
+  "Power supplies": [
+    {
+      "id": "msi-mpg-a850g",
+      "title": "MSI MPG A850G",
+      "price": 140,
+      "discount": 0,
+      "image": "https://i.imgur.com/uB6Yf9R.jpg"
+    },
+    {
+      "id": "msi-mpg-a1000g",
+      "title": "MSI MPG A1000G",
+      "price": 210,
+      "discount": 0,
+      "image": "https://i.imgur.com/uB6Yf9R.jpg"
+    },
+    {
+      "id": "deepcool-px850g",
+      "title": "Deepcool PX850G",
+      "price": 140,
+      "discount": 10,
+      "image": "https://i.imgur.com/YmLxM7z.jpg"
+    },
+    {
+      "id": "deepcool-px1000g",
+      "title": "Deepcool PX1000G",
+      "price": 195,
+      "discount": 0,
+      "image": "https://i.imgur.com/YmLxM7z.jpg"
+    },
+    {
+      "id": "deepcool-px1200g",
+      "title": "Deepcool PX1200G",
+      "price": 225,
+      "discount": 0,
+      "image": "https://i.imgur.com/YmLxM7z.jpg"
+    },
+    {
+      "id": "be-quiet-pure-power-12-m-850w",
+      "title": "Be Quiet! Pure Power 12 M 850W",
+      "price": 150,
+      "discount": 0,
+      "image": "https://i.imgur.com/3djYwbn.jpg"
+    },
+    {
+      "id": "be-quiet-pure-power-12-m-650w",
+      "title": "Be Quiet! Pure Power 12 M 650W",
+      "price": 125,
+      "discount": 0,
+      "image": "https://i.imgur.com/3djYwbn.jpg"
+    },
+    {
+      "id": "be-quiet-pure-power-12-m-1200w",
+      "title": "Be Quiet! Pure Power 12 M 1200W",
+      "price": 270,
+      "discount": 0,
+      "image": "https://i.imgur.com/3djYwbn.jpg"
+    },
+    {
+      "id": "corsair-sf750",
+      "title": "Corsair SF750",
+      "price": 200,
+      "discount": 0,
+      "image": "https://i.imgur.com/JkuTWd4.jpg"
+    },
+    {
+      "id": "seasonic-vertex-gx-850",
+      "title": "SeaSonic VERTEX GX 850",
+      "price": 260,
+      "discount": 0,
+      "image": "https://i.imgur.com/LaNjAKl.jpg"
+    },
+    {
+      "id": "seasonic-vertex-gx-1200",
+      "title": "SeaSonic VERTEX GX 1200",
+      "price": 360,
+      "discount": 0,
+      "image": "https://i.imgur.com/LaNjAKl.jpg"
+    },
+    {
+      "id": "thermaltake-smart-bm2-650w",
+      "title": "Thermaltake Smart BM2 650W",
+      "price": 80,
+      "discount": 0,
+      "image": "https://i.imgur.com/TibSgiF.jpg"
+    },
+    {
+      "id": "asus-rog-loki-sfx-l-750w",
+      "title": "ASUS ROG LOKI SFX-L 750W",
+      "price": 230,
+      "discount": 10,
+      "image": "https://i.imgur.com/aJ9Kvvt.jpg"
+    },
+    {
+      "id": "be-quiet-dark-power-13-750w",
+      "title": "Be Quiet! Dark Power 13 750W",
+      "price": 240,
+      "discount": 0,
+      "image": "https://i.imgur.com/90AVisG.jpg"
+    },
+    {
+      "id": "be-quiet-dark-power-13-1000w",
+      "title": "Be Quiet! Dark Power 13 1000W",
+      "price": 330,
+      "discount": 20,
+      "image": "https://i.imgur.com/90AVisG.jpg"
+    },
+    {
+      "id": "seasonic-prime-850w-platinum",
+      "title": "SeaSonic Prime 850W Platinum",
+      "price": 300,
+      "discount": 0,
+      "image": "https://i.imgur.com/GC7B8TQ.jpg"
+    },
+    {
+      "id": "seasonic-prime-650w-platinum",
+      "title": "SeaSonic Prime 650W Platinum",
+      "price": 200,
+      "discount": 0,
+      "image": "https://i.imgur.com/GC7B8TQ.jpg"
+    },
+    {
+      "id": "cooler-master-v750-gold-v2",
+      "title": "Cooler Master V750 Gold V2",
+      "price": 165,
+      "discount": 0,
+      "image": "https://i.imgur.com/vkuubuJ.jpg"
+    }
+  ],
+  "Computer cases": []
 }

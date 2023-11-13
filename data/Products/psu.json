@@ -1,0 +1,362 @@
+[
+  {
+    "id": "msi-mpg-a850g",
+    "title": "MSI MPG A850G",
+    "price": 140,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 39,
+    "images": [
+      "https://i.imgur.com/uB6Yf9R.jpg",
+      "https://i.imgur.com/C030TXE.jpg",
+      "https://i.imgur.com/DtPsdGm.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "850 W",
+      "Dimensions": "150 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "msi-mpg-a1000g",
+    "title": "MSI MPG A1000G",
+    "price": 210,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 15,
+    "images": [
+      "https://i.imgur.com/uB6Yf9R.jpg",
+      "https://i.imgur.com/C030TXE.jpg",
+      "https://i.imgur.com/DtPsdGm.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "1000 W",
+      "Dimensions": "150 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "deepcool-px850g",
+    "title": "Deepcool PX850G",
+    "price": 140,
+    "discount": 10,
+    "rating": 4.2,
+    "reviews": 36,
+    "images": [
+      "https://i.imgur.com/YmLxM7z.jpg",
+      "https://i.imgur.com/i5K1zmg.jpg",
+      "https://i.imgur.com/hT8dDhD.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Deepcool",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "850 W",
+      "Dimensions": "150 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "deepcool-px1000g",
+    "title": "Deepcool PX1000G",
+    "price": 195,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 47,
+    "images": [
+      "https://i.imgur.com/YmLxM7z.jpg",
+      "https://i.imgur.com/i5K1zmg.jpg",
+      "https://i.imgur.com/hT8dDhD.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Deepcool",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "1000 W",
+      "Dimensions": "150 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "deepcool-px1200g",
+    "title": "Deepcool PX1200G",
+    "price": 225,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 17,
+    "images": [
+      "https://i.imgur.com/YmLxM7z.jpg",
+      "https://i.imgur.com/i5K1zmg.jpg",
+      "https://i.imgur.com/hT8dDhD.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Deepcool",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "1200 W",
+      "Dimensions": "150 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-850w",
+    "title": "Be Quiet! Pure Power 12 M 850W",
+    "price": 150,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 44,
+    "images": [
+      "https://i.imgur.com/3djYwbn.jpg",
+      "https://i.imgur.com/ryMAT4c.jpg",
+      "https://i.imgur.com/KyZ7lfu.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "850 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-650w",
+    "title": "Be Quiet! Pure Power 12 M 650W",
+    "price": 125,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 68,
+    "images": [
+      "https://i.imgur.com/3djYwbn.jpg",
+      "https://i.imgur.com/ryMAT4c.jpg",
+      "https://i.imgur.com/KyZ7lfu.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "650 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-1200w",
+    "title": "Be Quiet! Pure Power 12 M 1200W",
+    "price": 270,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 48,
+    "images": [
+      "https://i.imgur.com/3djYwbn.jpg",
+      "https://i.imgur.com/ryMAT4c.jpg",
+      "https://i.imgur.com/KyZ7lfu.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "1200 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "corsair-sf750",
+    "title": "Corsair SF750",
+    "price": 200,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 8,
+    "images": [
+      "https://i.imgur.com/JkuTWd4.jpg",
+      "https://i.imgur.com/cbzYFMV.jpg",
+      "https://i.imgur.com/8Q8ktCV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Corsair",
+      "Form Factor": "SFX",
+      "Certificate": "80 PLUS Platinum",
+      "Total Power": "750 W",
+      "Dimensions": "100 x 63 x 125 mm"
+    }
+  },
+  {
+    "id": "seasonic-vertex-gx-850",
+    "title": "SeaSonic VERTEX GX 850",
+    "price": 260,
+    "discount": 0,
+    "rating": 5.0,
+    "reviews": 83,
+    "images": [
+      "https://i.imgur.com/LaNjAKl.jpg",
+      "https://i.imgur.com/a6r0Nur.jpg",
+      "https://i.imgur.com/7ROwzQC.jpg"
+    ],
+    "characteristics": {
+      "Brand": "SeaSonic",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "850 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "seasonic-vertex-gx-1200",
+    "title": "SeaSonic VERTEX GX 1200",
+    "price": 360,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 71,
+    "images": [
+      "https://i.imgur.com/LaNjAKl.jpg",
+      "https://i.imgur.com/a6r0Nur.jpg",
+      "https://i.imgur.com/7ROwzQC.jpg"
+    ],
+    "characteristics": {
+      "Brand": "SeaSonic",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "1200 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "thermaltake-smart-bm2-650w",
+    "title": "Thermaltake Smart BM2 650W",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 51,
+    "images": [
+      "https://i.imgur.com/TibSgiF.jpg",
+      "https://i.imgur.com/s53TnaT.jpg",
+      "https://i.imgur.com/BqxnaWg.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Thermaltake",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Bronze",
+      "Total Power": "650 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "asus-rog-loki-sfx-l-750w",
+    "title": "ASUS ROG LOKI SFX-L 750W",
+    "price": 230,
+    "discount": 10,
+    "rating": 4.5,
+    "reviews": 33,
+    "images": [
+      "https://i.imgur.com/aJ9Kvvt.jpg",
+      "https://i.imgur.com/Ox7K4Ci.jpg",
+      "https://i.imgur.com/sQdSKX7.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Form Factor": "SFX-L",
+      "Certificate": "80 PLUS Platinum",
+      "Total Power": "750 W",
+      "Dimensions": "125 x 125 x 64 mm"
+    }
+  },
+  {
+    "id": "be-quiet-dark-power-13-750w",
+    "title": "Be Quiet! Dark Power 13 750W",
+    "price": 240,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 66,
+    "images": [
+      "https://i.imgur.com/90AVisG.jpg",
+      "https://i.imgur.com/97YS5Y4.jpg",
+      "https://i.imgur.com/n7UXa0F.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Form Factor": "ATX",
+      "Certificate": "80 Plus Titanium",
+      "Total Power": "750 W",
+      "Dimensions": "175 x 150 x 65 mm"
+    }
+  },
+  {
+    "id": "be-quiet-dark-power-13-1000w",
+    "title": "Be Quiet! Dark Power 13 1000W",
+    "price": 330,
+    "discount": 20,
+    "rating": 4.6,
+    "reviews": 17,
+    "images": [
+      "https://i.imgur.com/90AVisG.jpg",
+      "https://i.imgur.com/97YS5Y4.jpg",
+      "https://i.imgur.com/n7UXa0F.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Form Factor": "ATX",
+      "Certificate": "80 Plus Titanium",
+      "Total Power": "1000 W",
+      "Dimensions": "175 x 150 x 65 mm"
+    }
+  },
+  {
+    "id": "seasonic-prime-850w-platinum",
+    "title": "SeaSonic Prime 850W Platinum",
+    "price": 300,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 62,
+    "images": [
+      "https://i.imgur.com/GC7B8TQ.jpg",
+      "https://i.imgur.com/bmXhi9p.jpg",
+      "https://i.imgur.com/aFPnkgY.jpg"
+    ],
+    "characteristics": {
+      "Brand": "SeaSonic",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Platinum",
+      "Total Power": "850 W",
+      "Dimensions": "170 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "seasonic-prime-650w-platinum",
+    "title": "SeaSonic Prime 650W Platinum",
+    "price": 200,
+    "discount": 0,
+    "rating": 5.0,
+    "reviews": 78,
+    "images": [
+      "https://i.imgur.com/GC7B8TQ.jpg",
+      "https://i.imgur.com/bmXhi9p.jpg",
+      "https://i.imgur.com/aFPnkgY.jpg"
+    ],
+    "characteristics": {
+      "Brand": "SeaSonic",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Platinum",
+      "Total Power": "650 W",
+      "Dimensions": "170 x 150 x 86 mm"
+    }
+  },
+  {
+    "id": "cooler-master-v750-gold-v2",
+    "title": "Cooler Master V750 Gold V2",
+    "price": 165,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 63,
+    "images": [
+      "https://i.imgur.com/vkuubuJ.jpg",
+      "https://i.imgur.com/1hb0fh8.jpg",
+      "https://i.imgur.com/dWuNjKU.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Cooler Master",
+      "Form Factor": "ATX",
+      "Certificate": "80 PLUS Gold",
+      "Total Power": "750 W",
+      "Dimensions": "160 x 150 x 86 mm"
+    }
+  }
+]
