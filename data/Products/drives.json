@@ -1,0 +1,362 @@
+[
+  {
+    "id": "wd-blue-1tb-35",
+    "title": "HDD WD Blue 1TB",
+    "price": 45,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 246,
+    "images": [
+      "https://i.imgur.com/XNFM6kz.jpg",
+      "https://i.imgur.com/0rEqu72.jpg",
+      "https://i.imgur.com/skULQHQ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Western Digital",
+      "Form Factor": "3.5 inch",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "195 MB/s",
+      "Write Speed": "116 MB/s"
+    }
+  },
+  {
+    "id": "wd-blue-2tb-35",
+    "title": "HDD WD Blue 2TB",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 210,
+    "images": [
+      "https://i.imgur.com/LEU3i9x.jpg",
+      "https://i.imgur.com/zEGbaaK.jpg",
+      "https://i.imgur.com/skULQHQ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Western Digital",
+      "Form Factor": "3.5 inch",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "195 MB/s",
+      "Write Speed": "116 MB/s"
+    }
+  },
+  {
+    "id": "seagate-barracuda-8tb-35",
+    "title": "HDD Seagate BarraCuda 8TB",
+    "price": 150,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 141,
+    "images": [
+      "https://i.imgur.com/fwdNxXz.jpg",
+      "https://i.imgur.com/NNEmk17.jpg",
+      "https://i.imgur.com/skULQHQ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Seagate",
+      "Form Factor": "3.5 inch",
+      "Storage Capacity": "8 TB",
+      "Read Speed": "190 MB/s",
+      "Write Speed": "190 MB/s"
+    }
+  },
+  {
+    "id": "seagate-barracuda-2tb-35",
+    "title": "HDD Seagate BarraCuda 2TB",
+    "price": 70,
+    "discount": 10,
+    "rating": 4.7,
+    "reviews": 165,
+    "images": [
+      "https://i.imgur.com/fwdNxXz.jpg",
+      "https://i.imgur.com/NNEmk17.jpg",
+      "https://i.imgur.com/skULQHQ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Seagate",
+      "Form Factor": "3.5 inch",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "190 MB/s",
+      "Write Speed": "190 MB/s"
+    }
+  },
+  {
+    "id": "seagate-barracuda-1tb-35",
+    "title": "HDD Seagate BarraCuda 1TB",
+    "price": 50,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 135,
+    "images": [
+      "https://i.imgur.com/fwdNxXz.jpg",
+      "https://i.imgur.com/NNEmk17.jpg",
+      "https://i.imgur.com/skULQHQ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Seagate",
+      "Form Factor": "3.5 inch",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "190 MB/s",
+      "Write Speed": "190 MB/s"
+    }
+  },
+  {
+    "id": "wd-blue-2tb-25",
+    "title": "HDD WD Blue 2TB 2.5inch",
+    "price": 85,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 61,
+    "images": [
+      "https://i.imgur.com/ozM97bA.jpg",
+      "https://i.imgur.com/Xwkhxmb.jpg",
+      "https://i.imgur.com/ycUMudn.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Western Digital",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "150 MB/s",
+      "Write Speed": "150 MB/s"
+    }
+  },
+  {
+    "id": "wd-blue-1tb-25",
+    "title": "HDD WD Blue 1TB 2.5inch",
+    "price": 55,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 26,
+    "images": [
+      "https://i.imgur.com/ozM97bA.jpg",
+      "https://i.imgur.com/Xwkhxmb.jpg",
+      "https://i.imgur.com/ycUMudn.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Western Digital",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "150 MB/s",
+      "Write Speed": "150 MB/s"
+    }
+  },
+  {
+    "id": "samsung-870-evo-1tb",
+    "title": "SDD Samsung 870 EVO 1TB",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 305,
+    "images": [
+      "https://i.imgur.com/T2jmCWZ.jpg",
+      "https://i.imgur.com/w69l8Ix.jpg",
+      "https://i.imgur.com/anfoiCc.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "560 MB/s",
+      "Write Speed": "530 MB/s"
+    }
+  },
+  {
+    "id": "samsung-870-evo-2tb",
+    "title": "SDD Samsung 870 EVO 2TB",
+    "price": 150,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 248,
+    "images": [
+      "https://i.imgur.com/T2jmCWZ.jpg",
+      "https://i.imgur.com/w69l8Ix.jpg",
+      "https://i.imgur.com/anfoiCc.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "560 MB/s",
+      "Write Speed": "530 MB/s"
+    }
+  },
+  {
+    "id": "samsung-870-evo-500gb",
+    "title": "SDD Samsung 870 EVO 500GB",
+    "price": 55,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 271,
+    "images": [
+      "https://i.imgur.com/T2jmCWZ.jpg",
+      "https://i.imgur.com/w69l8Ix.jpg",
+      "https://i.imgur.com/anfoiCc.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "500 GB",
+      "Read Speed": "560 MB/s",
+      "Write Speed": "530 MB/s"
+    }
+  },
+  {
+    "id": "kingston-a400-240gb",
+    "title": "SSD Kingston A400 240GB",
+    "price": 30,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 239,
+    "images": [
+      "https://i.imgur.com/9sGomwN.jpg",
+      "https://i.imgur.com/bEdcO2k.jpg",
+      "https://i.imgur.com/sDeZTE8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "240 GB",
+      "Read Speed": "500 MB/s",
+      "Write Speed": "350 MB/s"
+    }
+  },
+  {
+    "id": "kingston-a400-960gb",
+    "title": "SSD Kingston A400 960GB",
+    "price": 60,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 193,
+    "images": [
+      "https://i.imgur.com/9sGomwN.jpg",
+      "https://i.imgur.com/bEdcO2k.jpg",
+      "https://i.imgur.com/sDeZTE8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Form Factor": "2.5 inch",
+      "Storage Capacity": "960 GB",
+      "Read Speed": "500 MB/s",
+      "Write Speed": "450 MB/s"
+    }
+  },
+  {
+    "id": "samsung-980-pro-1tb-m2",
+    "title": "SSD Samsung 980 PRO 1TB",
+    "price": 85,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 104,
+    "images": [
+      "https://i.imgur.com/WopynsH.jpg",
+      "https://i.imgur.com/yaQXqGs.jpg",
+      "https://i.imgur.com/em9bewa.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "M.2",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "7000 MB/s",
+      "Write Speed": "5000 MB/s"
+    }
+  },
+  {
+    "id": "samsung-980-pro-2tb-m2",
+    "title": "SSD Samsung 980 PRO 2TB",
+    "price": 170,
+    "discount": 10,
+    "rating": 4.7,
+    "reviews": 82,
+    "images": [
+      "https://i.imgur.com/WopynsH.jpg",
+      "https://i.imgur.com/yaQXqGs.jpg",
+      "https://i.imgur.com/em9bewa.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "M.2",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "7000 MB/s",
+      "Write Speed": "5000 MB/s"
+    }
+  },
+  {
+    "id": "samsung-980-pro-500gb-m2",
+    "title": "SSD Samsung 980 PRO 500GB",
+    "price": 55,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 155,
+    "images": [
+      "https://i.imgur.com/WopynsH.jpg",
+      "https://i.imgur.com/yaQXqGs.jpg",
+      "https://i.imgur.com/em9bewa.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Samsung",
+      "Form Factor": "M.2",
+      "Storage Capacity": "500 GB",
+      "Read Speed": "7000 MB/s",
+      "Write Speed": "5000 MB/s"
+    }
+  },
+  {
+    "id": "kingston-fury-2tb-m2",
+    "title": "SSD Kingston FURY 2TB",
+    "price": 165,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 131,
+    "images": [
+      "https://i.imgur.com/00qreKj.jpg",
+      "https://i.imgur.com/dyVdM7l.jpg",
+      "https://i.imgur.com/V3ISXzA.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Form Factor": "M.2",
+      "Storage Capacity": "2 TB",
+      "Read Speed": "7300 MB/s",
+      "Write Speed": "7000 MB/s"
+    }
+  },
+  {
+    "id": "kingston-fury-1tb-m2",
+    "title": "SSD Kingston FURY 1TB",
+    "price": 85,
+    "discount": 0,
+    "rating": 4.8,
+    "reviews": 110,
+    "images": [
+      "https://i.imgur.com/00qreKj.jpg",
+      "https://i.imgur.com/dyVdM7l.jpg",
+      "https://i.imgur.com/V3ISXzA.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Form Factor": "M.2",
+      "Storage Capacity": "1 TB",
+      "Read Speed": "7300 MB/s",
+      "Write Speed": "7000 MB/s"
+    }
+  },
+  {
+    "id": "kingston-fury-4tb-m2",
+    "title": "SSD Kingston FURY 4TB",
+    "price": 360,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 24,
+    "images": [
+      "https://i.imgur.com/00qreKj.jpg",
+      "https://i.imgur.com/dyVdM7l.jpg",
+      "https://i.imgur.com/V3ISXzA.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Kingston",
+      "Form Factor": "M.2",
+      "Storage Capacity": "4 TB",
+      "Read Speed": "7300 MB/s",
+      "Write Speed": "7000 MB/s"
+    }
+  }
+]

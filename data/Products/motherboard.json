@@ -14,7 +14,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Socket": "AM4",
-      "Form factor": "Micro-ATX",
+      "Form Factor": "Micro-ATX",
       "DIMM": "4xDDR4 4733 GHz",
       "GUI": "1x PCI Express 4.0, 1x PCI Express 3.0 x16"
     }
@@ -34,7 +34,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Socket": "AM4",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR4 5100 GHz",
       "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 3.0 x16"
     }
@@ -54,7 +54,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Socket": "AM4",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR4 5100 GHz",
       "GUI": "3x PCI Express 4.0 x16"
     }
@@ -74,7 +74,7 @@
     "characteristics": {
       "Brand": "ASRock",
       "Socket": "AM5",
-      "Form factor": "Micro-ATX",
+      "Form Factor": "Micro-ATX",
       "DIMM": "2xDDR5 6400 GHz",
       "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -94,7 +94,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Socket": "AM5",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 6400 GHz",
       "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -114,7 +114,7 @@
     "characteristics": {
       "Brand": "MSi",
       "Socket": "AM5",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 6000 GHz",
       "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -134,7 +134,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Socket": "AM5",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 6400 GHz",
       "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -154,7 +154,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 7200 GHz",
       "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
     }
@@ -174,7 +174,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 7800 GHz",
       "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
     }
@@ -194,7 +194,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 7600 GHz",
       "GUI": "1x PCI Express 5.0 x16, 2x PCI Express 4.0 x16"
     }
@@ -214,7 +214,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 7200 GHz",
       "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -234,7 +234,7 @@
     "characteristics": {
       "Brand": "ASRock",
       "Socket": "1700",
-      "Form factor": "Micro-ATX",
+      "Form Factor": "Micro-ATX",
       "DIMM": "2xDDR5 7200 GHz",
       "GUI": "1x PCI Express 4.0 x16"
     }
@@ -254,7 +254,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 7600 GHz",
       "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
     }
@@ -274,7 +274,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Socket": "1700",
-      "Form factor": "ATX",
+      "Form Factor": "ATX",
       "DIMM": "4xDDR5 8000 GHz",
       "GUI": "2x PCI Express 5.0 x16"
     }

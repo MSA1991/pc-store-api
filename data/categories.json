@@ -1,5 +1,5 @@
 {
-  "cpu": [
+  "Processors": [
     {
       "id": "amd-ryzen7-5800x3d",
       "title": "AMD Ryzen 7 5800X3D",
@@ -155,7 +155,7 @@
       "image": "https://i.imgur.com/izbTm9M.jpg"
     }
   ],
-  "motherboard": [
+  "Motherboards": [
     {
       "id": "gigabyte-b550m-aorus-elite",
       "title": "GIGABYTE B550M AORUS ELITE",
@@ -255,7 +255,7 @@
       "image": "https://i.imgur.com/8jpy9eo.jpg"
     }
   ],
-  "gpu": [
+  "Graphics cards": [
     {
       "id": "sapphire-rx-7800xt-nitro",
       "title": "Sapphire RX 7800XT NITRO",
@@ -397,7 +397,7 @@
       "image": "https://i.imgur.com/jERLjen.jpg"
     }
   ],
-  "ram": [
+  "Memory": [
     {
       "id": "kingston-fury-32gb-ddr4-3600",
       "title": "Kingston FURY 32GB DDR4 3600MHz",
@@ -523,6 +523,136 @@
       "price": 75,
       "discount": 0,
       "image": "https://i.imgur.com/RLXnmjs.jpg"
+    }
+  ],
+  "Power supplies": [],
+  "Computer cases": [],
+  "Hard drives and SSDs": [
+    {
+      "id": "wd-blue-1tb-35",
+      "title": "HDD WD Blue 1TB",
+      "price": 45,
+      "discount": 0,
+      "image": "https://i.imgur.com/XNFM6kz.jpg"
+    },
+    {
+      "id": "wd-blue-2tb-35",
+      "title": "HDD WD Blue 2TB",
+      "price": 70,
+      "discount": 0,
+      "image": "https://i.imgur.com/LEU3i9x.jpg"
+    },
+    {
+      "id": "seagate-barracuda-8tb-35",
+      "title": "HDD Seagate BarraCuda 8TB",
+      "price": 150,
+      "discount": 0,
+      "image": "https://i.imgur.com/fwdNxXz.jpg"
+    },
+    {
+      "id": "seagate-barracuda-2tb-35",
+      "title": "HDD Seagate BarraCuda 2TB",
+      "price": 70,
+      "discount": 10,
+      "image": "https://i.imgur.com/fwdNxXz.jpg"
+    },
+    {
+      "id": "seagate-barracuda-1tb-35",
+      "title": "HDD Seagate BarraCuda 1TB",
+      "price": 50,
+      "discount": 0,
+      "image": "https://i.imgur.com/fwdNxXz.jpg"
+    },
+    {
+      "id": "wd-blue-2tb-25",
+      "title": "HDD WD Blue 2TB 2.5inch",
+      "price": 85,
+      "discount": 0,
+      "image": "https://i.imgur.com/ozM97bA.jpg"
+    },
+    {
+      "id": "wd-blue-1tb-25",
+      "title": "HDD WD Blue 1TB 2.5inch",
+      "price": 55,
+      "discount": 0,
+      "image": "https://i.imgur.com/ozM97bA.jpg"
+    },
+    {
+      "id": "samsung-870-evo-1tb",
+      "title": "SDD Samsung 870 EVO 1TB",
+      "price": 80,
+      "discount": 0,
+      "image": "https://i.imgur.com/T2jmCWZ.jpg"
+    },
+    {
+      "id": "samsung-870-evo-2tb",
+      "title": "SDD Samsung 870 EVO 2TB",
+      "price": 150,
+      "discount": 0,
+      "image": "https://i.imgur.com/T2jmCWZ.jpg"
+    },
+    {
+      "id": "samsung-870-evo-500gb",
+      "title": "SDD Samsung 870 EVO 500GB",
+      "price": 55,
+      "discount": 0,
+      "image": "https://i.imgur.com/T2jmCWZ.jpg"
+    },
+    {
+      "id": "kingston-a400-240gb",
+      "title": "SSD Kingston A400 240GB",
+      "price": 30,
+      "discount": 0,
+      "image": "https://i.imgur.com/9sGomwN.jpg"
+    },
+    {
+      "id": "kingston-a400-960gb",
+      "title": "SSD Kingston A400 960GB",
+      "price": 60,
+      "discount": 0,
+      "image": "https://i.imgur.com/9sGomwN.jpg"
+    },
+    {
+      "id": "samsung-980-pro-1tb-m2",
+      "title": "SSD Samsung 980 PRO 1TB",
+      "price": 85,
+      "discount": 0,
+      "image": "https://i.imgur.com/WopynsH.jpg"
+    },
+    {
+      "id": "samsung-980-pro-2tb-m2",
+      "title": "SSD Samsung 980 PRO 2TB",
+      "price": 170,
+      "discount": 10,
+      "image": "https://i.imgur.com/WopynsH.jpg"
+    },
+    {
+      "id": "samsung-980-pro-500gb-m2",
+      "title": "SSD Samsung 980 PRO 500GB",
+      "price": 55,
+      "discount": 0,
+      "image": "https://i.imgur.com/WopynsH.jpg"
+    },
+    {
+      "id": "kingston-fury-2tb-m2",
+      "title": "SSD Kingston FURY 2TB",
+      "price": 165,
+      "discount": 0,
+      "image": "https://i.imgur.com/00qreKj.jpg"
+    },
+    {
+      "id": "kingston-fury-1tb-m2",
+      "title": "SSD Kingston FURY 1TB",
+      "price": 85,
+      "discount": 0,
+      "image": "https://i.imgur.com/00qreKj.jpg"
+    },
+    {
+      "id": "kingston-fury-4tb-m2",
+      "title": "SSD Kingston FURY 4TB",
+      "price": 360,
+      "discount": 0,
+      "image": "https://i.imgur.com/00qreKj.jpg"
     }
   ]
 }

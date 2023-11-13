@@ -14,7 +14,7 @@
     "characteristics": {
       "Brand": "Sapphire",
       "Clock Speed": "2560 MHz",
-      "RAM": "16 GB",
+      "Memory Size": "16 GB",
       "Memory Bus": "256 Bit",
       "TDP": "290 Watt"
     }
@@ -34,7 +34,7 @@
     "characteristics": {
       "Brand": "PowerColor",
       "Clock Speed": "2550 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "128 Bit",
       "TDP": "165 Watt"
     }
@@ -54,7 +54,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Clock Speed": "2400 MHz",
-      "RAM": "10 GB",
+      "Memory Size": "10 GB",
       "Memory Bus": "320 Bit",
       "TDP": "320 Watt"
     }
@@ -74,7 +74,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2600 MHz",
-      "RAM": "12 GB",
+      "Memory Size": "12 GB",
       "Memory Bus": "192 Bit",
       "TDP": "250 Watt"
     }
@@ -94,7 +94,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2500 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "128 Bit",
       "TDP": "130 Watt"
     }
@@ -114,7 +114,7 @@
     "characteristics": {
       "Brand": "XFX",
       "Clock Speed": "2100 MHz",
-      "RAM": "16 GB",
+      "Memory Size": "16 GB",
       "Memory Bus": "256 Bit",
       "TDP": "250 Watt"
     }
@@ -134,7 +134,7 @@
     "characteristics": {
       "Brand": "PowerColor",
       "Clock Speed": "2620 MHz",
-      "RAM": "12 GB",
+      "Memory Size": "12 GB",
       "Memory Bus": "292 Bit",
       "TDP": "230 Watt"
     }
@@ -154,7 +154,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Clock Speed": "2340 MHz",
-      "RAM": "16 GB",
+      "Memory Size": "16 GB",
       "Memory Bus": "256 Bit",
       "TDP": "250 Watt"
     }
@@ -174,7 +174,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Clock Speed": "2690 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "128 Bit",
       "TDP": "170 Watt"
     }
@@ -194,7 +194,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Clock Speed": "2340 MHz",
-      "RAM": "16 GB",
+      "Memory Size": "16 GB",
       "Memory Bus": "256 Bit",
       "TDP": "300 Watt"
     }
@@ -214,7 +214,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Clock Speed": "2640 MHz",
-      "RAM": "24 GB",
+      "Memory Size": "24 GB",
       "Memory Bus": "384 Bit",
       "TDP": "450 Watt"
     }
@@ -234,7 +234,7 @@
     "characteristics": {
       "Brand": "Zotac",
       "Clock Speed": "2560 MHz",
-      "RAM": "16 GB",
+      "Memory Size": "16 GB",
       "Memory Bus": "256 Bit",
       "TDP": "320 Watt"
     }
@@ -254,7 +254,7 @@
     "characteristics": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2640 MHz",
-      "RAM": "12 GB",
+      "Memory Size": "12 GB",
       "Memory Bus": "192 Bit",
       "TDP": "300 Watt"
     }
@@ -274,7 +274,7 @@
     "characteristics": {
       "Brand": "Palit",
       "Clock Speed": "2550 MHz",
-      "RAM": "12 GB",
+      "Memory Size": "12 GB",
       "Memory Bus": "192 Bit",
       "TDP": "220 Watt"
     }
@@ -294,7 +294,7 @@
     "characteristics": {
       "Brand": "MSI",
       "Clock Speed": "2650 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "128 Bit",
       "TDP": "160 Watt"
     }
@@ -314,7 +314,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Clock Speed": "2500 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "128 Bit",
       "TDP": "160 Watt"
     }
@@ -334,7 +334,7 @@
     "characteristics": {
       "Brand": "Zotac",
       "Clock Speed": "1950 MHz",
-      "RAM": "24 GB",
+      "Memory Size": "24 GB",
       "Memory Bus": "384 Bit",
       "TDP": "450 Watt"
     }
@@ -354,7 +354,7 @@
     "characteristics": {
       "Brand": "EVGA",
       "Clock Speed": "1800 MHz",
-      "RAM": "12 GB",
+      "Memory Size": "12 GB",
       "Memory Bus": "384 Bit",
       "TDP": "350 Watt"
     }
@@ -374,7 +374,7 @@
     "characteristics": {
       "Brand": "ASUS",
       "Clock Speed": "1850 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "256 Bit",
       "TDP": "250 Watt"
     }
@@ -394,7 +394,7 @@
     "characteristics": {
       "Brand": "Sapphire",
       "Clock Speed": "1500 MHz",
-      "RAM": "8 GB",
+      "Memory Size": "8 GB",
       "Memory Bus": "2048 Bit",
       "TDP": "280 Watt"
     }
