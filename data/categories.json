@@ -1,785 +1,926 @@
-{
-  "Processors": [
-    {
-      "id": "amd-ryzen7-5800x3d",
-      "title": "AMD Ryzen 7 5800X3D",
-      "price": 380,
-      "discount": 20,
-      "image": "https://i.imgur.com/hGWdJJh.jpg"
-    },
-    {
-      "id": "amd-ryzen7-5800x",
-      "title": "AMD Ryzen 7 5800X",
-      "price": 330,
-      "discount": 0,
-      "image": "https://i.imgur.com/hGWdJJh.jpg"
-    },
-    {
-      "id": "amd-ryzen5-7600x",
-      "title": "AMD Ryzen 5 7600X",
-      "price": 250,
-      "discount": 0,
-      "image": "https://i.imgur.com/ElrPyUo.jpg"
-    },
-    {
-      "id": "amd-ryzen5-7600",
-      "title": "AMD Ryzen 5 7600",
-      "price": 240,
-      "discount": 0,
-      "image": "https://i.imgur.com/ElrPyUo.jpg"
-    },
-    {
-      "id": "amd-ryzen7-7800x3d",
-      "title": "AMD Ryzen 7 7800X3D",
-      "price": 420,
-      "discount": 0,
-      "image": "https://i.imgur.com/pDpeE7G.jpg"
-    },
-    {
-      "id": "amd-ryzen7-7700",
-      "title": "AMD Ryzen 7 7700",
-      "price": 280,
-      "discount": 0,
-      "image": "https://i.imgur.com/pDpeE7G.jpg"
-    },
-    {
-      "id": "amd-ryzen7-7700x",
-      "title": "AMD Ryzen 7 7700X",
-      "price": 300,
-      "discount": 20,
-      "image": "https://i.imgur.com/pDpeE7G.jpg"
-    },
-    {
-      "id": "amd-ryzen9-7950x",
-      "title": "AMD Ryzen 9 7950X",
-      "price": 700,
-      "discount": 0,
-      "image": "https://i.imgur.com/xawVNCN.jpg"
-    },
-    {
-      "id": "amd-ryzen9-7900x",
-      "title": "AMD Ryzen 9 7900X",
-      "price": 600,
-      "discount": 0,
-      "image": "https://i.imgur.com/xawVNCN.jpg"
-    },
-    {
-      "id": "amd-ryzen9-7900",
-      "title": "AMD Ryzen 9 7900",
-      "price": 530,
-      "discount": 0,
-      "image": "https://i.imgur.com/xawVNCN.jpg"
-    },
-    {
-      "id": "intel-i7-12700k",
-      "title": "Intel Core i7-12700K",
-      "price": 480,
-      "discount": 30,
-      "image": "https://i.imgur.com/DmCrhtP.jpg"
-    },
-    {
-      "id": "intel-i7-12700kf",
-      "title": "Intel Core i7-12700KF",
-      "price": 470,
-      "discount": 20,
-      "image": "https://i.imgur.com/DmCrhtP.jpg"
-    },
-    {
-      "id": "intel-i7-12700",
-      "title": "Intel Core i7-12700",
-      "price": 460,
-      "discount": 0,
-      "image": "https://i.imgur.com/DmCrhtP.jpg"
-    },
-    {
-      "id": "intel-i5-13400f",
-      "title": "Intel Core i5-13400F",
-      "price": 220,
-      "discount": 0,
-      "image": "https://i.imgur.com/2fH1eSX.jpg"
-    },
-    {
-      "id": "intel-i5-13600k",
-      "title": "Intel Core i5-13600K",
-      "price": 320,
-      "discount": 0,
-      "image": "https://i.imgur.com/2fH1eSX.jpg"
-    },
-    {
-      "id": "intel-i5-13500",
-      "title": "Intel Core i5-13500",
-      "price": 280,
-      "discount": 0,
-      "image": "https://i.imgur.com/2fH1eSX.jpg"
-    },
-    {
-      "id": "intel-i7-13700kf",
-      "title": "Intel Core i7-13700KF",
-      "price": 450,
-      "discount": 0,
-      "image": "https://i.imgur.com/Ns2wdv5.jpg"
-    },
-    {
-      "id": "intel-i7-13700k",
-      "title": "Intel Core i7-13700K",
-      "price": 460,
-      "discount": 10,
-      "image": "https://i.imgur.com/Ns2wdv5.jpg"
-    },
-    {
-      "id": "intel-i7-13700",
-      "title": "Intel Core i7-13700",
-      "price": 420,
-      "discount": 0,
-      "image": "https://i.imgur.com/Ns2wdv5.jpg"
-    },
-    {
-      "id": "intel-i9-13900k",
-      "title": "Intel Core i9-13900K",
-      "price": 680,
-      "discount": 0,
-      "image": "https://i.imgur.com/izbTm9M.jpg"
-    },
-    {
-      "id": "intel-i9-13900kf",
-      "title": "Intel Core i9-13900KF",
-      "price": 670,
-      "discount": 10,
-      "image": "https://i.imgur.com/izbTm9M.jpg"
-    },
-    {
-      "id": "intel-i9-13900",
-      "title": "Intel Core i9-13900",
-      "price": 640,
-      "discount": 0,
-      "image": "https://i.imgur.com/izbTm9M.jpg"
-    }
-  ],
-  "Motherboards": [
-    {
-      "id": "gigabyte-b550m-aorus-elite",
-      "title": "GIGABYTE B550M AORUS ELITE",
-      "price": 110,
-      "discount": 0,
-      "image": "https://i.imgur.com/cthopHU.jpg"
-    },
-    {
-      "id": "msi-mag-b550-tomahawk",
-      "title": "MSI MAG B550 TOMAHAWK",
-      "price": 160,
-      "discount": 0,
-      "image": "https://i.imgur.com/OXSsn1f.jpg"
-    },
-    {
-      "id": "asus-rog-crosshair-viii-formula",
-      "title": "ASUS ROG Crosshair VIII Formula",
-      "price": 520,
-      "discount": 20,
-      "image": "https://i.imgur.com/kId6iRt.jpg"
-    },
-    {
-      "id": "asrock-b650m",
-      "title": "ASRock B650M",
-      "price": 150,
-      "discount": 0,
-      "image": "https://i.imgur.com/DJXjk8F.jpg"
-    },
-    {
-      "id": "asus-tuf-gaming-b650-plus-wifi",
-      "title": "ASUS TUF GAMING B650-Plus WIFI",
-      "price": 250,
-      "discount": 10,
-      "image": "https://i.imgur.com/nMnmHNM.jpg"
-    },
-    {
-      "id": "msi-mag-x670e-tomahawk-wifi",
-      "title": "MSI MAG X670E TOMAHAWK WIFI",
-      "price": 330,
-      "discount": 0,
-      "image": "https://i.imgur.com/B4kBN3A.jpg"
-    },
-    {
-      "id": "gigabyte-x670-gaming-x-ax",
-      "title": "GIGABYTE X670 GAMING X AX",
-      "price": 330,
-      "discount": 0,
-      "image": "https://i.imgur.com/tj3gISD.jpg"
-    },
-    {
-      "id": "asus-tuf-gaming-b760-plus-wifi",
-      "title": "ASUS TUF GAMING B760-PLUS WIFI",
-      "price": 220,
-      "discount": 0,
-      "image": "https://i.imgur.com/eyjebu4.jpg"
-    },
-    {
-      "id": "asus-rog-strix-b760-f-gaming-wifi",
-      "title": "ASUS ROG STRIX B760-F GAMING WIFI",
-      "price": 320,
-      "discount": 0,
-      "image": "https://i.imgur.com/vGJmdxf.jpg"
-    },
-    {
-      "id": "gigabyte-z790-aorus-elite-ax",
-      "title": "GIGABYTE Z790 AORUS ELITE AX",
-      "price": 330,
-      "discount": 0,
-      "image": "https://i.imgur.com/dtGc749.jpg"
-    },
-    {
-      "id": "msi-mag-z790-tomahawk-wifi",
-      "title": "MSI MAG Z790 TOMAHAWK WIFI",
-      "price": 330,
-      "discount": 10,
-      "image": "https://i.imgur.com/B1X1xDA.jpg"
-    },
-    {
-      "id": "asrock-b760m-hdv",
-      "title": "ASRock B760M-HDV",
-      "price": 120,
-      "discount": 0,
-      "image": "https://i.imgur.com/wob8rZo.jpg"
-    },
-    {
-      "id": "gigabyte-z790-gaming-x-ax",
-      "title": "GIGABYTE Z790 GAMING X AX",
-      "price": 280,
-      "discount": 0,
-      "image": "https://i.imgur.com/VZsbuTR.jpg"
-    },
-    {
-      "id": "asus-rog-maximus-z790-dark-hero",
-      "title": "ASUS ROG MAXIMUS Z790 DARK HERO",
-      "price": 800,
-      "discount": 50,
-      "image": "https://i.imgur.com/8jpy9eo.jpg"
-    }
-  ],
-  "Graphics cards": [
-    {
-      "id": "sapphire-rx-7800xt-nitro",
-      "title": "Sapphire RX 7800XT NITRO",
-      "price": 720,
-      "discount": 0,
-      "image": "https://i.imgur.com/kZzClh0.jpg"
-    },
-    {
-      "id": "powercolor-rx7600-fighter",
-      "title": "PowerColor RX 7600 Fighter",
-      "price": 300,
-      "discount": 0,
-      "image": "https://i.imgur.com/tprPVoG.jpg"
-    },
-    {
-      "id": "msi-rx-7900xt-gaming",
-      "title": "MSI RX 7900XT GAMING",
-      "price": 1000,
-      "discount": 30,
-      "image": "https://i.imgur.com/o9Lhau9.jpg"
-    },
-    {
-      "id": "gigabyte-rx-7700xt-gaming",
-      "title": "GIGABYTE RX 7700XT GAMING",
-      "price": 650,
-      "discount": 0,
-      "image": "https://i.imgur.com/1wrnadC.jpg"
-    },
-    {
-      "id": "gigabyte-rx-6600-eagle",
-      "title": "GIGABYTE RX 6600 EAGLE",
-      "price": 250,
-      "discount": 0,
-      "image": "https://i.imgur.com/0TqYVuS.jpg"
-    },
-    {
-      "id": "xfx-rx-6800-speedster",
-      "title": "XFX RX 6800 Speedster",
-      "price": 520,
-      "discount": 20,
-      "image": "https://i.imgur.com/pt738Ug.jpg"
-    },
-    {
-      "id": "powercolor-rx-6700xt-red-devil",
-      "title": "PowerColor RX 6700XT Red Devil",
-      "price": 300,
-      "discount": 0,
-      "image": "https://i.imgur.com/kTPB6Ea.jpg"
-    },
-    {
-      "id": "asus-tuf-rx6800xt",
-      "title": "ASUS TUF RX 6800XT",
-      "price": 600,
-      "discount": 0,
-      "image": "https://i.imgur.com/24txG9A.jpg"
-    },
-    {
-      "id": "msi-rx-6650xt-gaming",
-      "title": "MSI RX 6650XT GAMING",
-      "price": 360,
-      "discount": 0,
-      "image": "https://i.imgur.com/HIaRMtu.jpg"
-    },
-    {
-      "id": "msi-rx-6900xt-gaming",
-      "title": "MSI RX 6900XT GAMING",
-      "price": 780,
-      "discount": 0,
-      "image": "https://i.imgur.com/XvbD8fB.jpg"
-    },
-    {
-      "id": "asus-rog-strix-rtx4090",
-      "title": "ASUS ROG STRIX RTX 4090",
-      "price": 1800,
-      "discount": 50,
-      "image": "https://i.imgur.com/opifUeh.jpg"
-    },
-    {
-      "id": "zotac-gaming-rtx4080",
-      "title": "Zotac GAMING RTX 4080",
-      "price": 1200,
-      "discount": 0,
-      "image": "https://i.imgur.com/pV1gcrE.jpg"
-    },
-    {
-      "id": "gigabyte-rtx-4070ti-gaming",
-      "title": "GIGABYTE RTX 4070 Ti GAMING",
-      "price": 880,
-      "discount": 0,
-      "image": "https://i.imgur.com/QrZCp3V.jpg"
-    },
-    {
-      "id": "palit-rtx-4070-dual",
-      "title": "Palit RTX 4070 Dual",
-      "price": 680,
-      "discount": 0,
-      "image": "https://i.imgur.com/pVZzBHP.jpg"
-    },
-    {
-      "id": "msi-rtx-4060ti-gaming",
-      "title": "MSI RTX 4060 Ti GAMING",
-      "price": 500,
-      "discount": 0,
-      "image": "https://i.imgur.com/A5vgA0U.jpg"
-    },
-    {
-      "id": "asus-dual-rtx4060",
-      "title": "ASUS DUAL RTX 4060",
-      "price": 380,
-      "discount": 0,
-      "image": "https://i.imgur.com/AtxGCHY.jpg"
-    },
-    {
-      "id": "zotac-gaming-rtx-3090ti",
-      "title": "Zotac GAMING RTX 3090 Ti",
-      "price": 1500,
-      "discount": 30,
-      "image": "https://i.imgur.com/A4fKsUk.jpg"
-    },
-    {
-      "id": "evga-rtx-3080-ti-gaming",
-      "title": "EVGA RTX 3080 Ti GAMING",
-      "price": 830,
-      "discount": 0,
-      "image": "https://i.imgur.com/JJa6Pms.jpg"
-    },
-    {
-      "id": "asus-tuf-rtx3070",
-      "title": "ASUS TUF RTX 3070",
-      "price": 500,
-      "discount": 0,
-      "image": "https://i.imgur.com/UwuSjrV.jpg"
-    },
-    {
-      "id": "sapphire-rx-vega56",
-      "title": "Sapphire RX Vega 56",
-      "price": 250,
-      "discount": 0,
-      "image": "https://i.imgur.com/jERLjen.jpg"
-    }
-  ],
-  "Memory": [
-    {
-      "id": "kingston-fury-32gb-ddr4-3600",
-      "title": "Kingston FURY 32GB DDR4 3600MHz",
-      "price": 80,
-      "discount": 0,
-      "image": "https://i.imgur.com/Mz0iJZY.jpg"
-    },
-    {
-      "id": "kingston-fury-16gb-ddr4-3200",
-      "title": "Kingston FURY 16GB DDR4 3200MHz",
-      "price": 40,
-      "discount": 0,
-      "image": "https://i.imgur.com/Mz0iJZY.jpg"
-    },
-    {
-      "id": "kingston-fury-8gb-ddr4-3200",
-      "title": "Kingston FURY 8GB DDR4 3200MHz",
-      "price": 30,
-      "discount": 5,
-      "image": "https://i.imgur.com/Mz0iJZY.jpg"
-    },
-    {
-      "id": "gskill-ripjaws-32gb-ddr4-3600",
-      "title": "G.Skill Ripjaws 32GB DDR4 3600MHz",
-      "price": 80,
-      "discount": 0,
-      "image": "https://i.imgur.com/c6TIJIU.jpg"
-    },
-    {
-      "id": "gskill-ripjaws-32gb-ddr4-3200",
-      "title": "G.Skill Ripjaws 32GB DDR4 3200MHz",
-      "price": 70,
-      "discount": 0,
-      "image": "https://i.imgur.com/c6TIJIU.jpg"
-    },
-    {
-      "id": "gskill-trident-z-32gb-ddr4-3600",
-      "title": "G.Skill Trident Z 32GB DDR4 3600MHz",
-      "price": 120,
-      "discount": 0,
-      "image": "https://i.imgur.com/zEVGtnx.jpg"
-    },
-    {
-      "id": "gskill-trident-z-64gb-ddr4-3600",
-      "title": "G.Skill Trident Z 64GB DDR4 3600MHz",
-      "price": 180,
-      "discount": 0,
-      "image": "https://i.imgur.com/zEVGtnx.jpg"
-    },
-    {
-      "id": "patriot-viper-32gb-ddr4-3200",
-      "title": "PATRIOT Viper 32GB DDR4 3200MHz",
-      "price": 70,
-      "discount": 0,
-      "image": "https://i.imgur.com/D7NCiXm.jpg"
-    },
-    {
-      "id": "patriot-viper-16gb-ddr4-4400",
-      "title": "PATRIOT Viper 16GB DDR4 4400MHz",
-      "price": 90,
-      "discount": 5,
-      "image": "https://i.imgur.com/D7NCiXm.jpg"
-    },
-    {
-      "id": "team-t-force-32gb-ddr5-6000",
-      "title": "TEAM T-Force 32GB DDR5 6000MHz",
-      "price": 125,
-      "discount": 0,
-      "image": "https://i.imgur.com/px3MDEJ.jpg"
-    },
-    {
-      "id": "team-t-force-64gb-ddr5-6000",
-      "title": "TEAM T-Force 64GB DDR5 6000MHz",
-      "price": 230,
-      "discount": 0,
-      "image": "https://i.imgur.com/px3MDEJ.jpg"
-    },
-    {
-      "id": "corsair-vengeance-32gb-ddr5-5200",
-      "title": "Corsair Vengeance 32GB DDR5 5200MHz",
-      "price": 120,
-      "discount": 0,
-      "image": "https://i.imgur.com/eNu7ViK.jpg"
-    },
-    {
-      "id": "corsair-vengeance-8gb-ddr5-5200",
-      "title": "Corsair Vengeance 8GB DDR5 5200MHz",
-      "price": 35,
-      "discount": 5,
-      "image": "https://i.imgur.com/eNu7ViK.jpg"
-    },
-    {
-      "id": "corsair-vengeance-16gb-ddr5-5200",
-      "title": "Corsair Vengeance 16GB DDR5 5200MHz",
-      "price": 70,
-      "discount": 0,
-      "image": "https://i.imgur.com/eNu7ViK.jpg"
-    },
-    {
-      "id": "kingston-fury-128gb-ddr5-6000",
-      "title": "Kingston FURY 128GB DDR5 6000MHz",
-      "price": 500,
-      "discount": 0,
-      "image": "https://i.imgur.com/RLXnmjs.jpg"
-    },
-    {
-      "id": "kingston-fury-64gb-ddr5-6000",
-      "title": "Kingston FURY 64GB DDR5 6000MHz",
-      "price": 240,
-      "discount": 10,
-      "image": "https://i.imgur.com/RLXnmjs.jpg"
-    },
-    {
-      "id": "kingston-fury-32gb-ddr5-6000",
-      "title": "Kingston FURY 32GB DDR5 6000MHz",
-      "price": 130,
-      "discount": 0,
-      "image": "https://i.imgur.com/RLXnmjs.jpg"
-    },
-    {
-      "id": "kingston-fury-16gb-ddr5-6000",
-      "title": "Kingston FURY 16GB DDR5 6000MHz",
-      "price": 75,
-      "discount": 0,
-      "image": "https://i.imgur.com/RLXnmjs.jpg"
-    }
-  ],
-  "Hard drives and SSDs": [
-    {
-      "id": "wd-blue-1tb-35",
-      "title": "HDD WD Blue 1TB",
-      "price": 45,
-      "discount": 0,
-      "image": "https://i.imgur.com/XNFM6kz.jpg"
-    },
-    {
-      "id": "wd-blue-2tb-35",
-      "title": "HDD WD Blue 2TB",
-      "price": 70,
-      "discount": 0,
-      "image": "https://i.imgur.com/LEU3i9x.jpg"
-    },
-    {
-      "id": "seagate-barracuda-8tb-35",
-      "title": "HDD Seagate BarraCuda 8TB",
-      "price": 150,
-      "discount": 0,
-      "image": "https://i.imgur.com/fwdNxXz.jpg"
-    },
-    {
-      "id": "seagate-barracuda-2tb-35",
-      "title": "HDD Seagate BarraCuda 2TB",
-      "price": 70,
-      "discount": 10,
-      "image": "https://i.imgur.com/fwdNxXz.jpg"
-    },
-    {
-      "id": "seagate-barracuda-1tb-35",
-      "title": "HDD Seagate BarraCuda 1TB",
-      "price": 50,
-      "discount": 0,
-      "image": "https://i.imgur.com/fwdNxXz.jpg"
-    },
-    {
-      "id": "wd-blue-2tb-25",
-      "title": "HDD WD Blue 2TB 2.5inch",
-      "price": 85,
-      "discount": 0,
-      "image": "https://i.imgur.com/ozM97bA.jpg"
-    },
-    {
-      "id": "wd-blue-1tb-25",
-      "title": "HDD WD Blue 1TB 2.5inch",
-      "price": 55,
-      "discount": 0,
-      "image": "https://i.imgur.com/ozM97bA.jpg"
-    },
-    {
-      "id": "samsung-870-evo-1tb",
-      "title": "SDD Samsung 870 EVO 1TB",
-      "price": 80,
-      "discount": 0,
-      "image": "https://i.imgur.com/T2jmCWZ.jpg"
-    },
-    {
-      "id": "samsung-870-evo-2tb",
-      "title": "SDD Samsung 870 EVO 2TB",
-      "price": 150,
-      "discount": 0,
-      "image": "https://i.imgur.com/T2jmCWZ.jpg"
-    },
-    {
-      "id": "samsung-870-evo-500gb",
-      "title": "SDD Samsung 870 EVO 500GB",
-      "price": 55,
-      "discount": 0,
-      "image": "https://i.imgur.com/T2jmCWZ.jpg"
-    },
-    {
-      "id": "kingston-a400-240gb",
-      "title": "SSD Kingston A400 240GB",
-      "price": 30,
-      "discount": 0,
-      "image": "https://i.imgur.com/9sGomwN.jpg"
-    },
-    {
-      "id": "kingston-a400-960gb",
-      "title": "SSD Kingston A400 960GB",
-      "price": 60,
-      "discount": 0,
-      "image": "https://i.imgur.com/9sGomwN.jpg"
-    },
-    {
-      "id": "samsung-980-pro-1tb-m2",
-      "title": "SSD Samsung 980 PRO 1TB",
-      "price": 85,
-      "discount": 0,
-      "image": "https://i.imgur.com/WopynsH.jpg"
-    },
-    {
-      "id": "samsung-980-pro-2tb-m2",
-      "title": "SSD Samsung 980 PRO 2TB",
-      "price": 170,
-      "discount": 10,
-      "image": "https://i.imgur.com/WopynsH.jpg"
-    },
-    {
-      "id": "samsung-980-pro-500gb-m2",
-      "title": "SSD Samsung 980 PRO 500GB",
-      "price": 55,
-      "discount": 0,
-      "image": "https://i.imgur.com/WopynsH.jpg"
-    },
-    {
-      "id": "kingston-fury-2tb-m2",
-      "title": "SSD Kingston FURY 2TB",
-      "price": 165,
-      "discount": 0,
-      "image": "https://i.imgur.com/00qreKj.jpg"
-    },
-    {
-      "id": "kingston-fury-1tb-m2",
-      "title": "SSD Kingston FURY 1TB",
-      "price": 85,
-      "discount": 0,
-      "image": "https://i.imgur.com/00qreKj.jpg"
-    },
-    {
-      "id": "kingston-fury-4tb-m2",
-      "title": "SSD Kingston FURY 4TB",
-      "price": 360,
-      "discount": 0,
-      "image": "https://i.imgur.com/00qreKj.jpg"
-    }
-  ],
-  "Power supplies": [
-    {
-      "id": "msi-mpg-a850g",
-      "title": "MSI MPG A850G",
-      "price": 140,
-      "discount": 0,
-      "image": "https://i.imgur.com/uB6Yf9R.jpg"
-    },
-    {
-      "id": "msi-mpg-a1000g",
-      "title": "MSI MPG A1000G",
-      "price": 210,
-      "discount": 0,
-      "image": "https://i.imgur.com/uB6Yf9R.jpg"
-    },
-    {
-      "id": "deepcool-px850g",
-      "title": "Deepcool PX850G",
-      "price": 140,
-      "discount": 10,
-      "image": "https://i.imgur.com/YmLxM7z.jpg"
-    },
-    {
-      "id": "deepcool-px1000g",
-      "title": "Deepcool PX1000G",
-      "price": 195,
-      "discount": 0,
-      "image": "https://i.imgur.com/YmLxM7z.jpg"
-    },
-    {
-      "id": "deepcool-px1200g",
-      "title": "Deepcool PX1200G",
-      "price": 225,
-      "discount": 0,
-      "image": "https://i.imgur.com/YmLxM7z.jpg"
-    },
-    {
-      "id": "be-quiet-pure-power-12-m-850w",
-      "title": "Be Quiet! Pure Power 12 M 850W",
-      "price": 150,
-      "discount": 0,
-      "image": "https://i.imgur.com/3djYwbn.jpg"
-    },
-    {
-      "id": "be-quiet-pure-power-12-m-650w",
-      "title": "Be Quiet! Pure Power 12 M 650W",
-      "price": 125,
-      "discount": 0,
-      "image": "https://i.imgur.com/3djYwbn.jpg"
-    },
-    {
-      "id": "be-quiet-pure-power-12-m-1200w",
-      "title": "Be Quiet! Pure Power 12 M 1200W",
-      "price": 270,
-      "discount": 0,
-      "image": "https://i.imgur.com/3djYwbn.jpg"
-    },
-    {
-      "id": "corsair-sf750",
-      "title": "Corsair SF750",
-      "price": 200,
-      "discount": 0,
-      "image": "https://i.imgur.com/JkuTWd4.jpg"
-    },
-    {
-      "id": "seasonic-vertex-gx-850",
-      "title": "SeaSonic VERTEX GX 850",
-      "price": 260,
-      "discount": 0,
-      "image": "https://i.imgur.com/LaNjAKl.jpg"
-    },
-    {
-      "id": "seasonic-vertex-gx-1200",
-      "title": "SeaSonic VERTEX GX 1200",
-      "price": 360,
-      "discount": 0,
-      "image": "https://i.imgur.com/LaNjAKl.jpg"
-    },
-    {
-      "id": "thermaltake-smart-bm2-650w",
-      "title": "Thermaltake Smart BM2 650W",
-      "price": 80,
-      "discount": 0,
-      "image": "https://i.imgur.com/TibSgiF.jpg"
-    },
-    {
-      "id": "asus-rog-loki-sfx-l-750w",
-      "title": "ASUS ROG LOKI SFX-L 750W",
-      "price": 230,
-      "discount": 10,
-      "image": "https://i.imgur.com/aJ9Kvvt.jpg"
-    },
-    {
-      "id": "be-quiet-dark-power-13-750w",
-      "title": "Be Quiet! Dark Power 13 750W",
-      "price": 240,
-      "discount": 0,
-      "image": "https://i.imgur.com/90AVisG.jpg"
-    },
-    {
-      "id": "be-quiet-dark-power-13-1000w",
-      "title": "Be Quiet! Dark Power 13 1000W",
-      "price": 330,
-      "discount": 20,
-      "image": "https://i.imgur.com/90AVisG.jpg"
-    },
-    {
-      "id": "seasonic-prime-850w-platinum",
-      "title": "SeaSonic Prime 850W Platinum",
-      "price": 300,
-      "discount": 0,
-      "image": "https://i.imgur.com/GC7B8TQ.jpg"
-    },
-    {
-      "id": "seasonic-prime-650w-platinum",
-      "title": "SeaSonic Prime 650W Platinum",
-      "price": 200,
-      "discount": 0,
-      "image": "https://i.imgur.com/GC7B8TQ.jpg"
-    },
-    {
-      "id": "cooler-master-v750-gold-v2",
-      "title": "Cooler Master V750 Gold V2",
-      "price": 165,
-      "discount": 0,
-      "image": "https://i.imgur.com/vkuubuJ.jpg"
-    }
-  ],
-  "Computer cases": []
-}
+[
+  {
+    "id": "cpu",
+    "name": "Processors",
+    "products": [
+      {
+        "id": "amd-ryzen7-5800x3d",
+        "title": "AMD Ryzen 7 5800X3D",
+        "price": 380,
+        "discount": 20,
+        "image": "https://i.imgur.com/hGWdJJh.jpg"
+      },
+      {
+        "id": "amd-ryzen7-5800x",
+        "title": "AMD Ryzen 7 5800X",
+        "price": 330,
+        "discount": 0,
+        "image": "https://i.imgur.com/hGWdJJh.jpg"
+      },
+      {
+        "id": "amd-ryzen5-7600x",
+        "title": "AMD Ryzen 5 7600X",
+        "price": 250,
+        "discount": 0,
+        "image": "https://i.imgur.com/ElrPyUo.jpg"
+      },
+      {
+        "id": "amd-ryzen5-7600",
+        "title": "AMD Ryzen 5 7600",
+        "price": 240,
+        "discount": 0,
+        "image": "https://i.imgur.com/ElrPyUo.jpg"
+      },
+      {
+        "id": "amd-ryzen7-7800x3d",
+        "title": "AMD Ryzen 7 7800X3D",
+        "price": 420,
+        "discount": 0,
+        "image": "https://i.imgur.com/pDpeE7G.jpg"
+      },
+      {
+        "id": "amd-ryzen7-7700",
+        "title": "AMD Ryzen 7 7700",
+        "price": 280,
+        "discount": 0,
+        "image": "https://i.imgur.com/pDpeE7G.jpg"
+      },
+      {
+        "id": "amd-ryzen7-7700x",
+        "title": "AMD Ryzen 7 7700X",
+        "price": 300,
+        "discount": 20,
+        "image": "https://i.imgur.com/pDpeE7G.jpg"
+      },
+      {
+        "id": "amd-ryzen9-7950x",
+        "title": "AMD Ryzen 9 7950X",
+        "price": 700,
+        "discount": 0,
+        "image": "https://i.imgur.com/xawVNCN.jpg"
+      },
+      {
+        "id": "amd-ryzen9-7900x",
+        "title": "AMD Ryzen 9 7900X",
+        "price": 600,
+        "discount": 0,
+        "image": "https://i.imgur.com/xawVNCN.jpg"
+      },
+      {
+        "id": "amd-ryzen9-7900",
+        "title": "AMD Ryzen 9 7900",
+        "price": 530,
+        "discount": 0,
+        "image": "https://i.imgur.com/xawVNCN.jpg"
+      },
+      {
+        "id": "intel-i7-12700k",
+        "title": "Intel Core i7-12700K",
+        "price": 480,
+        "discount": 30,
+        "image": "https://i.imgur.com/DmCrhtP.jpg"
+      },
+      {
+        "id": "intel-i7-12700kf",
+        "title": "Intel Core i7-12700KF",
+        "price": 470,
+        "discount": 20,
+        "image": "https://i.imgur.com/DmCrhtP.jpg"
+      },
+      {
+        "id": "intel-i7-12700",
+        "title": "Intel Core i7-12700",
+        "price": 460,
+        "discount": 0,
+        "image": "https://i.imgur.com/DmCrhtP.jpg"
+      },
+      {
+        "id": "intel-i5-13400f",
+        "title": "Intel Core i5-13400F",
+        "price": 220,
+        "discount": 0,
+        "image": "https://i.imgur.com/2fH1eSX.jpg"
+      },
+      {
+        "id": "intel-i5-13600k",
+        "title": "Intel Core i5-13600K",
+        "price": 320,
+        "discount": 0,
+        "image": "https://i.imgur.com/2fH1eSX.jpg"
+      },
+      {
+        "id": "intel-i5-13500",
+        "title": "Intel Core i5-13500",
+        "price": 280,
+        "discount": 0,
+        "image": "https://i.imgur.com/2fH1eSX.jpg"
+      },
+      {
+        "id": "intel-i7-13700kf",
+        "title": "Intel Core i7-13700KF",
+        "price": 450,
+        "discount": 0,
+        "image": "https://i.imgur.com/Ns2wdv5.jpg"
+      },
+      {
+        "id": "intel-i7-13700k",
+        "title": "Intel Core i7-13700K",
+        "price": 460,
+        "discount": 10,
+        "image": "https://i.imgur.com/Ns2wdv5.jpg"
+      },
+      {
+        "id": "intel-i7-13700",
+        "title": "Intel Core i7-13700",
+        "price": 420,
+        "discount": 0,
+        "image": "https://i.imgur.com/Ns2wdv5.jpg"
+      },
+      {
+        "id": "intel-i9-13900k",
+        "title": "Intel Core i9-13900K",
+        "price": 680,
+        "discount": 0,
+        "image": "https://i.imgur.com/izbTm9M.jpg"
+      },
+      {
+        "id": "intel-i9-13900kf",
+        "title": "Intel Core i9-13900KF",
+        "price": 670,
+        "discount": 10,
+        "image": "https://i.imgur.com/izbTm9M.jpg"
+      },
+      {
+        "id": "intel-i9-13900",
+        "title": "Intel Core i9-13900",
+        "price": 640,
+        "discount": 0,
+        "image": "https://i.imgur.com/izbTm9M.jpg"
+      }
+    ]
+  },
+  {
+    "id": "motherboards",
+    "name": "Motherboards",
+    "products": [
+      {
+        "id": "gigabyte-b550m-aorus-elite",
+        "title": "GIGABYTE B550M AORUS ELITE",
+        "price": 110,
+        "discount": 0,
+        "image": "https://i.imgur.com/cthopHU.jpg"
+      },
+      {
+        "id": "msi-mag-b550-tomahawk",
+        "title": "MSI MAG B550 TOMAHAWK",
+        "price": 160,
+        "discount": 0,
+        "image": "https://i.imgur.com/OXSsn1f.jpg"
+      },
+      {
+        "id": "asus-rog-crosshair-viii-formula",
+        "title": "ASUS ROG Crosshair VIII Formula",
+        "price": 520,
+        "discount": 20,
+        "image": "https://i.imgur.com/kId6iRt.jpg"
+      },
+      {
+        "id": "asrock-b650m",
+        "title": "ASRock B650M",
+        "price": 150,
+        "discount": 0,
+        "image": "https://i.imgur.com/DJXjk8F.jpg"
+      },
+      {
+        "id": "asus-tuf-gaming-b650-plus-wifi",
+        "title": "ASUS TUF GAMING B650-Plus WIFI",
+        "price": 250,
+        "discount": 10,
+        "image": "https://i.imgur.com/nMnmHNM.jpg"
+      },
+      {
+        "id": "msi-mag-x670e-tomahawk-wifi",
+        "title": "MSI MAG X670E TOMAHAWK WIFI",
+        "price": 330,
+        "discount": 0,
+        "image": "https://i.imgur.com/B4kBN3A.jpg"
+      },
+      {
+        "id": "gigabyte-x670-gaming-x-ax",
+        "title": "GIGABYTE X670 GAMING X AX",
+        "price": 330,
+        "discount": 0,
+        "image": "https://i.imgur.com/tj3gISD.jpg"
+      },
+      {
+        "id": "asus-tuf-gaming-b760-plus-wifi",
+        "title": "ASUS TUF GAMING B760-PLUS WIFI",
+        "price": 220,
+        "discount": 0,
+        "image": "https://i.imgur.com/eyjebu4.jpg"
+      },
+      {
+        "id": "asus-rog-strix-b760-f-gaming-wifi",
+        "title": "ASUS ROG STRIX B760-F GAMING WIFI",
+        "price": 320,
+        "discount": 0,
+        "image": "https://i.imgur.com/vGJmdxf.jpg"
+      },
+      {
+        "id": "gigabyte-z790-aorus-elite-ax",
+        "title": "GIGABYTE Z790 AORUS ELITE AX",
+        "price": 330,
+        "discount": 0,
+        "image": "https://i.imgur.com/dtGc749.jpg"
+      },
+      {
+        "id": "msi-mag-z790-tomahawk-wifi",
+        "title": "MSI MAG Z790 TOMAHAWK WIFI",
+        "price": 330,
+        "discount": 10,
+        "image": "https://i.imgur.com/B1X1xDA.jpg"
+      },
+      {
+        "id": "asrock-b760m-hdv",
+        "title": "ASRock B760M-HDV",
+        "price": 120,
+        "discount": 0,
+        "image": "https://i.imgur.com/wob8rZo.jpg"
+      },
+      {
+        "id": "gigabyte-z790-gaming-x-ax",
+        "title": "GIGABYTE Z790 GAMING X AX",
+        "price": 280,
+        "discount": 0,
+        "image": "https://i.imgur.com/VZsbuTR.jpg"
+      },
+      {
+        "id": "asus-rog-maximus-z790-dark-hero",
+        "title": "ASUS ROG MAXIMUS Z790 DARK HERO",
+        "price": 800,
+        "discount": 50,
+        "image": "https://i.imgur.com/8jpy9eo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gpu",
+    "name": "Graphics Cards",
+    "products": [
+      {
+        "id": "sapphire-rx-7800xt-nitro",
+        "title": "Sapphire RX 7800XT NITRO",
+        "price": 720,
+        "discount": 0,
+        "image": "https://i.imgur.com/kZzClh0.jpg"
+      },
+      {
+        "id": "powercolor-rx7600-fighter",
+        "title": "PowerColor RX 7600 Fighter",
+        "price": 300,
+        "discount": 0,
+        "image": "https://i.imgur.com/tprPVoG.jpg"
+      },
+      {
+        "id": "msi-rx-7900xt-gaming",
+        "title": "MSI RX 7900XT GAMING",
+        "price": 1000,
+        "discount": 30,
+        "image": "https://i.imgur.com/o9Lhau9.jpg"
+      },
+      {
+        "id": "gigabyte-rx-7700xt-gaming",
+        "title": "GIGABYTE RX 7700XT GAMING",
+        "price": 650,
+        "discount": 0,
+        "image": "https://i.imgur.com/1wrnadC.jpg"
+      },
+      {
+        "id": "gigabyte-rx-6600-eagle",
+        "title": "GIGABYTE RX 6600 EAGLE",
+        "price": 250,
+        "discount": 0,
+        "image": "https://i.imgur.com/0TqYVuS.jpg"
+      },
+      {
+        "id": "xfx-rx-6800-speedster",
+        "title": "XFX RX 6800 Speedster",
+        "price": 520,
+        "discount": 20,
+        "image": "https://i.imgur.com/pt738Ug.jpg"
+      },
+      {
+        "id": "powercolor-rx-6700xt-red-devil",
+        "title": "PowerColor RX 6700XT Red Devil",
+        "price": 300,
+        "discount": 0,
+        "image": "https://i.imgur.com/kTPB6Ea.jpg"
+      },
+      {
+        "id": "asus-tuf-rx6800xt",
+        "title": "ASUS TUF RX 6800XT",
+        "price": 600,
+        "discount": 0,
+        "image": "https://i.imgur.com/24txG9A.jpg"
+      },
+      {
+        "id": "msi-rx-6650xt-gaming",
+        "title": "MSI RX 6650XT GAMING",
+        "price": 360,
+        "discount": 0,
+        "image": "https://i.imgur.com/HIaRMtu.jpg"
+      },
+      {
+        "id": "msi-rx-6900xt-gaming",
+        "title": "MSI RX 6900XT GAMING",
+        "price": 780,
+        "discount": 0,
+        "image": "https://i.imgur.com/XvbD8fB.jpg"
+      },
+      {
+        "id": "asus-rog-strix-rtx4090",
+        "title": "ASUS ROG STRIX RTX 4090",
+        "price": 1800,
+        "discount": 50,
+        "image": "https://i.imgur.com/opifUeh.jpg"
+      },
+      {
+        "id": "zotac-gaming-rtx4080",
+        "title": "Zotac GAMING RTX 4080",
+        "price": 1200,
+        "discount": 0,
+        "image": "https://i.imgur.com/pV1gcrE.jpg"
+      },
+      {
+        "id": "gigabyte-rtx-4070ti-gaming",
+        "title": "GIGABYTE RTX 4070 Ti GAMING",
+        "price": 880,
+        "discount": 0,
+        "image": "https://i.imgur.com/QrZCp3V.jpg"
+      },
+      {
+        "id": "palit-rtx-4070-dual",
+        "title": "Palit RTX 4070 Dual",
+        "price": 680,
+        "discount": 0,
+        "image": "https://i.imgur.com/pVZzBHP.jpg"
+      },
+      {
+        "id": "msi-rtx-4060ti-gaming",
+        "title": "MSI RTX 4060 Ti GAMING",
+        "price": 500,
+        "discount": 0,
+        "image": "https://i.imgur.com/A5vgA0U.jpg"
+      },
+      {
+        "id": "asus-dual-rtx4060",
+        "title": "ASUS DUAL RTX 4060",
+        "price": 380,
+        "discount": 0,
+        "image": "https://i.imgur.com/AtxGCHY.jpg"
+      },
+      {
+        "id": "zotac-gaming-rtx-3090ti",
+        "title": "Zotac GAMING RTX 3090 Ti",
+        "price": 1500,
+        "discount": 30,
+        "image": "https://i.imgur.com/A4fKsUk.jpg"
+      },
+      {
+        "id": "evga-rtx-3080-ti-gaming",
+        "title": "EVGA RTX 3080 Ti GAMING",
+        "price": 830,
+        "discount": 0,
+        "image": "https://i.imgur.com/JJa6Pms.jpg"
+      },
+      {
+        "id": "asus-tuf-rtx3070",
+        "title": "ASUS TUF RTX 3070",
+        "price": 500,
+        "discount": 0,
+        "image": "https://i.imgur.com/UwuSjrV.jpg"
+      },
+      {
+        "id": "sapphire-rx-vega56",
+        "title": "Sapphire RX Vega 56",
+        "price": 250,
+        "discount": 0,
+        "image": "https://i.imgur.com/jERLjen.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ram",
+    "name": "Memory",
+    "products": [
+      {
+        "id": "kingston-fury-32gb-ddr4-3600",
+        "title": "Kingston FURY 32GB DDR4 3600MHz",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/Mz0iJZY.jpg"
+      },
+      {
+        "id": "kingston-fury-16gb-ddr4-3200",
+        "title": "Kingston FURY 16GB DDR4 3200MHz",
+        "price": 40,
+        "discount": 0,
+        "image": "https://i.imgur.com/Mz0iJZY.jpg"
+      },
+      {
+        "id": "kingston-fury-8gb-ddr4-3200",
+        "title": "Kingston FURY 8GB DDR4 3200MHz",
+        "price": 30,
+        "discount": 5,
+        "image": "https://i.imgur.com/Mz0iJZY.jpg"
+      },
+      {
+        "id": "gskill-ripjaws-32gb-ddr4-3600",
+        "title": "G.Skill Ripjaws 32GB DDR4 3600MHz",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/c6TIJIU.jpg"
+      },
+      {
+        "id": "gskill-ripjaws-32gb-ddr4-3200",
+        "title": "G.Skill Ripjaws 32GB DDR4 3200MHz",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/c6TIJIU.jpg"
+      },
+      {
+        "id": "gskill-trident-z-32gb-ddr4-3600",
+        "title": "G.Skill Trident Z 32GB DDR4 3600MHz",
+        "price": 120,
+        "discount": 0,
+        "image": "https://i.imgur.com/zEVGtnx.jpg"
+      },
+      {
+        "id": "gskill-trident-z-64gb-ddr4-3600",
+        "title": "G.Skill Trident Z 64GB DDR4 3600MHz",
+        "price": 180,
+        "discount": 0,
+        "image": "https://i.imgur.com/zEVGtnx.jpg"
+      },
+      {
+        "id": "patriot-viper-32gb-ddr4-3200",
+        "title": "PATRIOT Viper 32GB DDR4 3200MHz",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/D7NCiXm.jpg"
+      },
+      {
+        "id": "patriot-viper-16gb-ddr4-4400",
+        "title": "PATRIOT Viper 16GB DDR4 4400MHz",
+        "price": 90,
+        "discount": 5,
+        "image": "https://i.imgur.com/D7NCiXm.jpg"
+      },
+      {
+        "id": "team-t-force-32gb-ddr5-6000",
+        "title": "TEAM T-Force 32GB DDR5 6000MHz",
+        "price": 125,
+        "discount": 0,
+        "image": "https://i.imgur.com/px3MDEJ.jpg"
+      },
+      {
+        "id": "team-t-force-64gb-ddr5-6000",
+        "title": "TEAM T-Force 64GB DDR5 6000MHz",
+        "price": 230,
+        "discount": 0,
+        "image": "https://i.imgur.com/px3MDEJ.jpg"
+      },
+      {
+        "id": "corsair-vengeance-32gb-ddr5-5200",
+        "title": "Corsair Vengeance 32GB DDR5 5200MHz",
+        "price": 120,
+        "discount": 0,
+        "image": "https://i.imgur.com/eNu7ViK.jpg"
+      },
+      {
+        "id": "corsair-vengeance-8gb-ddr5-5200",
+        "title": "Corsair Vengeance 8GB DDR5 5200MHz",
+        "price": 35,
+        "discount": 5,
+        "image": "https://i.imgur.com/eNu7ViK.jpg"
+      },
+      {
+        "id": "corsair-vengeance-16gb-ddr5-5200",
+        "title": "Corsair Vengeance 16GB DDR5 5200MHz",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/eNu7ViK.jpg"
+      },
+      {
+        "id": "kingston-fury-128gb-ddr5-6000",
+        "title": "Kingston FURY 128GB DDR5 6000MHz",
+        "price": 500,
+        "discount": 0,
+        "image": "https://i.imgur.com/RLXnmjs.jpg"
+      },
+      {
+        "id": "kingston-fury-64gb-ddr5-6000",
+        "title": "Kingston FURY 64GB DDR5 6000MHz",
+        "price": 240,
+        "discount": 10,
+        "image": "https://i.imgur.com/RLXnmjs.jpg"
+      },
+      {
+        "id": "kingston-fury-32gb-ddr5-6000",
+        "title": "Kingston FURY 32GB DDR5 6000MHz",
+        "price": 130,
+        "discount": 0,
+        "image": "https://i.imgur.com/RLXnmjs.jpg"
+      },
+      {
+        "id": "kingston-fury-16gb-ddr5-6000",
+        "title": "Kingston FURY 16GB DDR5 6000MHz",
+        "price": 75,
+        "discount": 0,
+        "image": "https://i.imgur.com/RLXnmjs.jpg"
+      }
+    ]
+  },
+  {
+    "id": "drives",
+    "name": "Drives",
+    "products": [
+      {
+        "id": "wd-blue-1tb-35",
+        "title": "HDD WD Blue 1TB",
+        "price": 45,
+        "discount": 0,
+        "image": "https://i.imgur.com/XNFM6kz.jpg"
+      },
+      {
+        "id": "wd-blue-2tb-35",
+        "title": "HDD WD Blue 2TB",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/LEU3i9x.jpg"
+      },
+      {
+        "id": "seagate-barracuda-8tb-35",
+        "title": "HDD Seagate BarraCuda 8TB",
+        "price": 150,
+        "discount": 0,
+        "image": "https://i.imgur.com/fwdNxXz.jpg"
+      },
+      {
+        "id": "seagate-barracuda-2tb-35",
+        "title": "HDD Seagate BarraCuda 2TB",
+        "price": 70,
+        "discount": 10,
+        "image": "https://i.imgur.com/fwdNxXz.jpg"
+      },
+      {
+        "id": "seagate-barracuda-1tb-35",
+        "title": "HDD Seagate BarraCuda 1TB",
+        "price": 50,
+        "discount": 0,
+        "image": "https://i.imgur.com/fwdNxXz.jpg"
+      },
+      {
+        "id": "wd-blue-2tb-25",
+        "title": "HDD WD Blue 2TB 2.5inch",
+        "price": 85,
+        "discount": 0,
+        "image": "https://i.imgur.com/ozM97bA.jpg"
+      },
+      {
+        "id": "wd-blue-1tb-25",
+        "title": "HDD WD Blue 1TB 2.5inch",
+        "price": 55,
+        "discount": 0,
+        "image": "https://i.imgur.com/ozM97bA.jpg"
+      },
+      {
+        "id": "samsung-870-evo-1tb",
+        "title": "SDD Samsung 870 EVO 1TB",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/T2jmCWZ.jpg"
+      },
+      {
+        "id": "samsung-870-evo-2tb",
+        "title": "SDD Samsung 870 EVO 2TB",
+        "price": 150,
+        "discount": 0,
+        "image": "https://i.imgur.com/T2jmCWZ.jpg"
+      },
+      {
+        "id": "samsung-870-evo-500gb",
+        "title": "SDD Samsung 870 EVO 500GB",
+        "price": 55,
+        "discount": 0,
+        "image": "https://i.imgur.com/T2jmCWZ.jpg"
+      },
+      {
+        "id": "kingston-a400-240gb",
+        "title": "SSD Kingston A400 240GB",
+        "price": 30,
+        "discount": 0,
+        "image": "https://i.imgur.com/9sGomwN.jpg"
+      },
+      {
+        "id": "kingston-a400-960gb",
+        "title": "SSD Kingston A400 960GB",
+        "price": 60,
+        "discount": 0,
+        "image": "https://i.imgur.com/9sGomwN.jpg"
+      },
+      {
+        "id": "samsung-980-pro-1tb-m2",
+        "title": "SSD Samsung 980 PRO 1TB",
+        "price": 85,
+        "discount": 0,
+        "image": "https://i.imgur.com/WopynsH.jpg"
+      },
+      {
+        "id": "samsung-980-pro-2tb-m2",
+        "title": "SSD Samsung 980 PRO 2TB",
+        "price": 170,
+        "discount": 10,
+        "image": "https://i.imgur.com/WopynsH.jpg"
+      },
+      {
+        "id": "samsung-980-pro-500gb-m2",
+        "title": "SSD Samsung 980 PRO 500GB",
+        "price": 55,
+        "discount": 0,
+        "image": "https://i.imgur.com/WopynsH.jpg"
+      },
+      {
+        "id": "kingston-fury-2tb-m2",
+        "title": "SSD Kingston FURY 2TB",
+        "price": 165,
+        "discount": 0,
+        "image": "https://i.imgur.com/00qreKj.jpg"
+      },
+      {
+        "id": "kingston-fury-1tb-m2",
+        "title": "SSD Kingston FURY 1TB",
+        "price": 85,
+        "discount": 0,
+        "image": "https://i.imgur.com/00qreKj.jpg"
+      },
+      {
+        "id": "kingston-fury-4tb-m2",
+        "title": "SSD Kingston FURY 4TB",
+        "price": 360,
+        "discount": 0,
+        "image": "https://i.imgur.com/00qreKj.jpg"
+      }
+    ]
+  },
+  {
+    "id": "psu",
+    "name": "Power Supplies",
+    "products": [
+      {
+        "id": "msi-mpg-a850g",
+        "title": "MSI MPG A850G",
+        "price": 140,
+        "discount": 0,
+        "image": "https://i.imgur.com/uB6Yf9R.jpg"
+      },
+      {
+        "id": "msi-mpg-a1000g",
+        "title": "MSI MPG A1000G",
+        "price": 210,
+        "discount": 0,
+        "image": "https://i.imgur.com/uB6Yf9R.jpg"
+      },
+      {
+        "id": "deepcool-px850g",
+        "title": "Deepcool PX850G",
+        "price": 140,
+        "discount": 10,
+        "image": "https://i.imgur.com/YmLxM7z.jpg"
+      },
+      {
+        "id": "deepcool-px1000g",
+        "title": "Deepcool PX1000G",
+        "price": 195,
+        "discount": 0,
+        "image": "https://i.imgur.com/YmLxM7z.jpg"
+      },
+      {
+        "id": "deepcool-px1200g",
+        "title": "Deepcool PX1200G",
+        "price": 225,
+        "discount": 0,
+        "image": "https://i.imgur.com/YmLxM7z.jpg"
+      },
+      {
+        "id": "be-quiet-pure-power-12-m-850w",
+        "title": "Be Quiet! Pure Power 12 M 850W",
+        "price": 150,
+        "discount": 0,
+        "image": "https://i.imgur.com/3djYwbn.jpg"
+      },
+      {
+        "id": "be-quiet-pure-power-12-m-650w",
+        "title": "Be Quiet! Pure Power 12 M 650W",
+        "price": 125,
+        "discount": 0,
+        "image": "https://i.imgur.com/3djYwbn.jpg"
+      },
+      {
+        "id": "be-quiet-pure-power-12-m-1200w",
+        "title": "Be Quiet! Pure Power 12 M 1200W",
+        "price": 270,
+        "discount": 0,
+        "image": "https://i.imgur.com/3djYwbn.jpg"
+      },
+      {
+        "id": "corsair-sf750",
+        "title": "Corsair SF750",
+        "price": 200,
+        "discount": 0,
+        "image": "https://i.imgur.com/JkuTWd4.jpg"
+      },
+      {
+        "id": "seasonic-vertex-gx-850",
+        "title": "SeaSonic VERTEX GX 850",
+        "price": 260,
+        "discount": 0,
+        "image": "https://i.imgur.com/LaNjAKl.jpg"
+      },
+      {
+        "id": "seasonic-vertex-gx-1200",
+        "title": "SeaSonic VERTEX GX 1200",
+        "price": 360,
+        "discount": 0,
+        "image": "https://i.imgur.com/LaNjAKl.jpg"
+      },
+      {
+        "id": "thermaltake-smart-bm2-650w",
+        "title": "Thermaltake Smart BM2 650W",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/TibSgiF.jpg"
+      },
+      {
+        "id": "asus-rog-loki-sfx-l-750w",
+        "title": "ASUS ROG LOKI SFX-L 750W",
+        "price": 230,
+        "discount": 10,
+        "image": "https://i.imgur.com/aJ9Kvvt.jpg"
+      },
+      {
+        "id": "be-quiet-dark-power-13-750w",
+        "title": "Be Quiet! Dark Power 13 750W",
+        "price": 240,
+        "discount": 0,
+        "image": "https://i.imgur.com/90AVisG.jpg"
+      },
+      {
+        "id": "be-quiet-dark-power-13-1000w",
+        "title": "Be Quiet! Dark Power 13 1000W",
+        "price": 330,
+        "discount": 20,
+        "image": "https://i.imgur.com/90AVisG.jpg"
+      },
+      {
+        "id": "seasonic-prime-850w-platinum",
+        "title": "SeaSonic Prime 850W Platinum",
+        "price": 300,
+        "discount": 0,
+        "image": "https://i.imgur.com/GC7B8TQ.jpg"
+      },
+      {
+        "id": "seasonic-prime-650w-platinum",
+        "title": "SeaSonic Prime 650W Platinum",
+        "price": 200,
+        "discount": 0,
+        "image": "https://i.imgur.com/GC7B8TQ.jpg"
+      },
+      {
+        "id": "cooler-master-v750-gold-v2",
+        "title": "Cooler Master V750 Gold V2",
+        "price": 165,
+        "discount": 0,
+        "image": "https://i.imgur.com/vkuubuJ.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cases",
+    "name": "Computer Cases",
+    "products": [
+      {
+        "id": "be-quiet-pure-base-500-fx",
+        "title": "Be Quiet! Pure Base 500 FX",
+        "price": 150,
+        "discount": 10,
+        "image": "https://i.imgur.com/GqWiNw4.jpg"
+      },
+      {
+        "id": "msi-mag-forge-100m",
+        "title": "MSI MAG Forge 100M",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/8TR8p8B.jpg"
+      },
+      {
+        "id": "msi-mpg-velox-100r",
+        "title": "MSI MPG VELOX 100R",
+        "price": 125,
+        "discount": 0,
+        "image": "https://i.imgur.com/xyNi75S.jpg"
+      },
+      {
+        "id": "deepcool-cc360-argb-black",
+        "title": "Deepcool CC360 ARGB Black",
+        "price": 55,
+        "discount": 0,
+        "image": "https://i.imgur.com/im4y7QL.jpg"
+      },
+      {
+        "id": "asus-prime-ap201-black",
+        "title": "ASUS Prime AP201 Black",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/NuMOs9k.jpg"
+      },
+      {
+        "id": "nzxt-h7-flow-black",
+        "title": "NZXT H7 Flow Black",
+        "price": 160,
+        "discount": 0,
+        "image": "https://i.imgur.com/aCIameU.jpg"
+      },
+      {
+        "id": "nzxt-h5-flow-rgb-black",
+        "title": "NZXT H5 Flow RGB Black",
+        "price": 165,
+        "discount": 5,
+        "image": "https://i.imgur.com/aJTtZ2d.jpg"
+      },
+      {
+        "id": "fractal-design-meshify-2xl",
+        "title": "Fractal Design Meshify 2XL",
+        "price": 250,
+        "discount": 0,
+        "image": "https://i.imgur.com/4N9ccat.jpg"
+      },
+      {
+        "id": "thermaltake-core-p8-tg",
+        "title": "Thermaltake Core P8 TG",
+        "price": 270,
+        "discount": 0,
+        "image": "https://i.imgur.com/bbDs2ZB.jpg"
+      },
+      {
+        "id": "cooler-master-elite-130",
+        "title": "Cooler Master Elite 130",
+        "price": 70,
+        "discount": 0,
+        "image": "https://i.imgur.com/w913KK2.jpg"
+      },
+      {
+        "id": "aerocool-aero-one-eclipse",
+        "title": "Aerocool Aero One Eclipse",
+        "price": 75,
+        "discount": 0,
+        "image": "https://i.imgur.com/jw1R3ug.jpg"
+      },
+      {
+        "id": "silverstone-fara-511z",
+        "title": "Silverstone FARA 511Z",
+        "price": 100,
+        "discount": 0,
+        "image": "https://i.imgur.com/PZA7e8W.jpg"
+      },
+      {
+        "id": "gigabyte-aorus-c700-glass",
+        "title": "GIGABYTE AORUS C700 GLASS",
+        "price": 500,
+        "discount": 20,
+        "image": "https://i.imgur.com/yBPRdDl.jpg"
+      },
+      {
+        "id": "cougar-duoface-pro-rgb",
+        "title": "Cougar Duoface Pro RGB",
+        "price": 95,
+        "discount": 0,
+        "image": "https://i.imgur.com/g67kMNP.jpg"
+      },
+      {
+        "id": "zalman-m3-plus-rgb",
+        "title": "Zalman M3 Plus RGB",
+        "price": 80,
+        "discount": 0,
+        "image": "https://i.imgur.com/7FnVe5M.jpg"
+      },
+      {
+        "id": "nzxt-h1-matte-black",
+        "title": "NZXT H1 Matte Black",
+        "price": 160,
+        "discount": 0,
+        "image": "https://i.imgur.com/CrHpkJo.png"
+      }
+    ]
+  }
+]

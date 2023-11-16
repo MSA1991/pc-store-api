@@ -1,0 +1,322 @@
+[
+  {
+    "id": "be-quiet-pure-base-500-fx",
+    "title": "Be Quiet! Pure Base 500 FX",
+    "price": 150,
+    "discount": 10,
+    "rating": 4.8,
+    "reviews": 54,
+    "images": [
+      "https://i.imgur.com/GqWiNw4.jpg",
+      "https://i.imgur.com/Wdb1XrF.jpg",
+      "https://i.imgur.com/NUZy3pg.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Be Quiet!",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "450 x 232 x 463 mm",
+      "Max CPU Cooler Clearance": "190 mm"
+    }
+  },
+  {
+    "id": "msi-mag-forge-100m",
+    "title": "MSI MAG Forge 100M",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 59,
+    "images": [
+      "https://i.imgur.com/8TR8p8B.jpg",
+      "https://i.imgur.com/yNkEkRb.jpg",
+      "https://i.imgur.com/OTdQj4K.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "421 x 210 x 499 mm",
+      "Max CPU Cooler Clearance": "160 mm"
+    }
+  },
+  {
+    "id": "msi-mpg-velox-100r",
+    "title": "MSI MPG VELOX 100R",
+    "price": 125,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 35,
+    "images": [
+      "https://i.imgur.com/xyNi75S.jpg",
+      "https://i.imgur.com/ulSk35h.jpg",
+      "https://i.imgur.com/1ud0sTV.jpg"
+    ],
+    "characteristics": {
+      "Brand": "MSI",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "490 x 474 x 231 mm",
+      "Max CPU Cooler Clearance": "157 mm"
+    }
+  },
+  {
+    "id": "deepcool-cc360-argb-black",
+    "title": "Deepcool CC360 ARGB Black",
+    "price": 55,
+    "discount": 0,
+    "rating": 4.4,
+    "reviews": 42,
+    "images": [
+      "https://i.imgur.com/im4y7QL.jpg",
+      "https://i.imgur.com/kSrle9H.jpg",
+      "https://i.imgur.com/YTP3IKF.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Deepcool",
+      "Case Type": "Mini-Tower",
+      "Motherboard Support": "Micro-ATX, Mini-ITX",
+      "Dimensions": "418 x 215 x 431 mm",
+      "Max CPU Cooler Clearance": "165 mm"
+    }
+  },
+  {
+    "id": "asus-prime-ap201-black",
+    "title": "ASUS Prime AP201 Black",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 18,
+    "images": [
+      "https://i.imgur.com/NuMOs9k.jpg",
+      "https://i.imgur.com/nqscmWl.jpg",
+      "https://i.imgur.com/CJSzlXW.jpg"
+    ],
+    "characteristics": {
+      "Brand": "ASUS",
+      "Case Type": "Mini-Tower",
+      "Motherboard Support": "Micro-ATX, Mini-ITX",
+      "Dimensions": "205 x 350 x 460 mm",
+      "Max CPU Cooler Clearance": "170 mm"
+    }
+  },
+  {
+    "id": "nzxt-h7-flow-black",
+    "title": "NZXT H7 Flow Black",
+    "price": 160,
+    "discount": 0,
+    "rating": 4.9,
+    "reviews": 72,
+    "images": [
+      "https://i.imgur.com/aCIameU.jpg",
+      "https://i.imgur.com/TTq2fbb.jpg",
+      "https://i.imgur.com/8kQYafA.jpg"
+    ],
+    "characteristics": {
+      "Brand": "NZXT",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "505 x 230 x 480 mm",
+      "Max CPU Cooler Clearance": "185 mm"
+    }
+  },
+  {
+    "id": "nzxt-h5-flow-rgb-black",
+    "title": "NZXT H5 Flow RGB Black",
+    "price": 165,
+    "discount": 5,
+    "rating": 4.9,
+    "reviews": 62,
+    "images": [
+      "https://i.imgur.com/aJTtZ2d.jpg",
+      "https://i.imgur.com/8TbCc4G.jpg",
+      "https://i.imgur.com/mk3ULP8.jpg"
+    ],
+    "characteristics": {
+      "Brand": "NZXT",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "464 x 227 x 446 mm",
+      "Max CPU Cooler Clearance": "165 mm"
+    }
+  },
+  {
+    "id": "fractal-design-meshify-2xl",
+    "title": "Fractal Design Meshify 2XL",
+    "price": 250,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 12,
+    "images": [
+      "https://i.imgur.com/4N9ccat.jpg",
+      "https://i.imgur.com/zZyoTYr.jpg",
+      "https://i.imgur.com/ZxaBbxe.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Fractal Design",
+      "Case Type": "Full-Tower",
+      "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "600 x 240 x 566 mm",
+      "Max CPU Cooler Clearance": "185 mm"
+    }
+  },
+  {
+    "id": "thermaltake-core-p8-tg",
+    "title": "Thermaltake Core P8 TG",
+    "price": 270,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 30,
+    "images": [
+      "https://i.imgur.com/bbDs2ZB.jpg",
+      "https://i.imgur.com/W5UjzVk.jpg",
+      "https://i.imgur.com/tgZdeNt.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Thermaltake",
+      "Case Type": "Full-Tower",
+      "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "660 x 260 x 626 mm",
+      "Max CPU Cooler Clearance": "180 mm"
+    }
+  },
+  {
+    "id": "cooler-master-elite-130",
+    "title": "Cooler Master Elite 130",
+    "price": 70,
+    "discount": 0,
+    "rating": 4.2,
+    "reviews": 7,
+    "images": [
+      "https://i.imgur.com/w913KK2.jpg",
+      "https://i.imgur.com/zlcUNXD.jpg",
+      "https://i.imgur.com/syC9m2K.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Cooler Master",
+      "Case Type": "Cube",
+      "Motherboard Support": "Mini-ITX",
+      "Dimensions": "240 x 205 x 377,5 mm",
+      "Max CPU Cooler Clearance": "65 mm"
+    }
+  },
+  {
+    "id": "aerocool-aero-one-eclipse",
+    "title": "Aerocool Aero One Eclipse",
+    "price": 75,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 42,
+    "images": [
+      "https://i.imgur.com/jw1R3ug.jpg",
+      "https://i.imgur.com/pXFQNkq.jpg",
+      "https://i.imgur.com/Z291aRs.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Aerocool",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "210 x 520 x 404 mm",
+      "Max CPU Cooler Clearance": "161 mm"
+    }
+  },
+  {
+    "id": "silverstone-fara-511z",
+    "title": "Silverstone FARA 511Z",
+    "price": 100,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 51,
+    "images": [
+      "https://i.imgur.com/PZA7e8W.jpg",
+      "https://i.imgur.com/UZrPCoC.jpg",
+      "https://i.imgur.com/sKeq4qZ.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Silverstone",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "210 x 483 x 422 mm",
+      "Max CPU Cooler Clearance": "169 mm"
+    }
+  },
+  {
+    "id": "gigabyte-aorus-c700-glass",
+    "title": "GIGABYTE AORUS C700 GLASS",
+    "price": 500,
+    "discount": 20,
+    "rating": 4.5,
+    "reviews": 8,
+    "images": [
+      "https://i.imgur.com/yBPRdDl.jpg",
+      "https://i.imgur.com/FTlHKWp.jpg",
+      "https://i.imgur.com/7FcGr7R.jpg"
+    ],
+    "characteristics": {
+      "Brand": "GIGABYTE",
+      "Case Type": "Full-Tower",
+      "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "714 x 301 x 671 mm",
+      "Max CPU Cooler Clearance": "198 mm"
+    }
+  },
+  {
+    "id": "cougar-duoface-pro-rgb",
+    "title": "Cougar Duoface Pro RGB",
+    "price": 95,
+    "discount": 0,
+    "rating": 4.6,
+    "reviews": 12,
+    "images": [
+      "https://i.imgur.com/g67kMNP.jpg",
+      "https://i.imgur.com/MQbBpJN.jpg",
+      "https://i.imgur.com/SDw3qEb.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Cougar",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
+      "Dimensions": "496 x 240 x 465 mm",
+      "Max CPU Cooler Clearance": "190 mm"
+    }
+  },
+  {
+    "id": "zalman-m3-plus-rgb",
+    "title": "Zalman M3 Plus RGB",
+    "price": 80,
+    "discount": 0,
+    "rating": 4.7,
+    "reviews": 49,
+    "images": [
+      "https://i.imgur.com/7FnVe5M.jpg",
+      "https://i.imgur.com/BGwGU6c.jpg",
+      "https://i.imgur.com/fLzYbDb.jpg"
+    ],
+    "characteristics": {
+      "Brand": "Zalman",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "Micro-ATX, Mini-ITX",
+      "Dimensions": "407 x 210 x 457 mm",
+      "Max CPU Cooler Clearance": "165 mm"
+    }
+  },
+  {
+    "id": "nzxt-h1-matte-black",
+    "title": "NZXT H1 Matte Black",
+    "price": 160,
+    "discount": 0,
+    "rating": 4.5,
+    "reviews": 22,
+    "images": [
+      "https://i.imgur.com/CrHpkJo.png",
+      "https://i.imgur.com/LGRpwNl.jpg",
+      "https://i.imgur.com/e89eKDr.jpg"
+    ],
+    "characteristics": {
+      "Brand": "NZXT",
+      "Case Type": "Midi-Tower",
+      "Motherboard Support": "Mini-ITX",
+      "Dimensions": "187 x 387,7 x 187,6 mm",
+      "Max CPU Cooler Clearance": "58 mm"
+    }
+  }
+]

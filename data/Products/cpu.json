@@ -1,6 +1,6 @@
 [
   {
-    "id": "amd-ryzen7-5800X3D",
+    "id": "amd-ryzen7-5800x3d",
     "title": "AMD Ryzen 7 5800X3D",
     "price": 380,
     "discount": 20,
@@ -20,7 +20,7 @@
     }
   },
   {
-    "id": "amd-ryzen7-5800X",
+    "id": "amd-ryzen7-5800x",
     "title": "AMD Ryzen 7 5800X",
     "price": 330,
     "discount": 0,

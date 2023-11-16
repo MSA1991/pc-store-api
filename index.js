@@ -7,9 +7,33 @@ const app = express();
 app.use(cors());
 
 app.get('/categories', (req, res) => {
-  setTimeout(() => {
-    res.json(categories);
-  }, 2000);
+  try {
+    setTimeout(() => {
+      res.json(categories);
+    }, 2000);
+  } catch (error) {
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+app.get('/:products/:id', (req, res) => {
+  const productType = req.params.products;
+  const productId = req.params.id;
+
+  try {
+    const productFile = require(`./data/Products/${productType}.json`);
+    const product = productFile.find((item) => item.id === productId);
+
+    if (!product) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+
+    setTimeout(() => {
+      res.json(product);
+    }, 2000);
+  } catch (error) {
+    return res.status(500).json({ error: 'Internal Server Error' });
+  }
 });
 
 const port = process.env.PORT || 4000;
