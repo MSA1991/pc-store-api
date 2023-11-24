@@ -1,39 +1,37 @@
 const express = require('express');
 const cors = require('cors');
 const categories = require('./data/categories.json');
+const products = require('./data/products.json');
 
 const app = express();
 
 app.use(cors());
 
 app.get('/categories', (req, res) => {
-  try {
-    setTimeout(() => {
-      res.json(categories);
-    }, 2000);
-  } catch (error) {
-    res.status(500).json({ error: 'Internal Server Error' });
-  }
+  setTimeout(() => {
+    res.json(categories);
+  }, 2000);
+});
+
+app.get('/products', (req, res) => {
+  setTimeout(() => {
+    res.json(products);
+  }, 2000);
 });
 
 app.get('/:products/:id', (req, res) => {
-  const productType = req.params.products;
+  const productCategory = req.params.products;
   const productId = req.params.id;
+  const productFile = require(`./data/Products/${productCategory}.json`);
+  const product = productFile.find((item) => item.id === productId);
 
-  try {
-    const productFile = require(`./data/Products/${productType}.json`);
-    const product = productFile.find((item) => item.id === productId);
-
-    if (!product) {
-      return res.status(404).json({ error: 'Product not found' });
-    }
-
-    setTimeout(() => {
-      res.json(product);
-    }, 2000);
-  } catch (error) {
-    return res.status(500).json({ error: 'Internal Server Error' });
+  if (!product) {
+    return res.status(404).json({ error: 'Product not found' });
   }
+
+  setTimeout(() => {
+    res.json(product);
+  }, 2000);
 });
 
 const port = process.env.PORT || 4000;
