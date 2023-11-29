@@ -14,8 +14,10 @@ app.get('/categories', (req, res) => {
 });
 
 app.get('/products', (req, res) => {
+  const shuffleProducts = [...products].sort(() => Math.random() - 0.5);
+
   setTimeout(() => {
-    res.json(products);
+    res.json(shuffleProducts);
   }, 2000);
 });
 
