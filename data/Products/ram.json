@@ -11,7 +11,7 @@
       "https://i.imgur.com/vU0X9Mv.png",
       "https://i.imgur.com/lvPz8FN.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR4",
       "Capacity": "32 GB",
@@ -31,7 +31,7 @@
       "https://i.imgur.com/vU0X9Mv.png",
       "https://i.imgur.com/lvPz8FN.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR4",
       "Capacity": "16 GB",
@@ -51,7 +51,7 @@
       "https://i.imgur.com/vU0X9Mv.png",
       "https://i.imgur.com/lvPz8FN.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR4",
       "Capacity": "8 GB",
@@ -71,7 +71,7 @@
       "https://i.imgur.com/EF7AyQq.jpg",
       "https://i.imgur.com/NCCCKXb.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "G.Skill",
       "Type": "DDR4",
       "Capacity": "32 GB",
@@ -91,7 +91,7 @@
       "https://i.imgur.com/EF7AyQq.jpg",
       "https://i.imgur.com/NCCCKXb.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "G.Skill",
       "Type": "DDR4",
       "Capacity": "32 GB",
@@ -111,7 +111,7 @@
       "https://i.imgur.com/O3DzGSn.jpg",
       "https://i.imgur.com/Ca2u3tH.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "G.Skill",
       "Type": "DDR4",
       "Capacity": "32 GB",
@@ -131,7 +131,7 @@
       "https://i.imgur.com/O3DzGSn.jpg",
       "https://i.imgur.com/Ca2u3tH.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "G.Skill",
       "Type": "DDR4",
       "Capacity": "64 GB",
@@ -151,7 +151,7 @@
       "https://i.imgur.com/PjrquH9.jpg",
       "https://i.imgur.com/8IIMoj8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "PATRIOT",
       "Type": "DDR4",
       "Capacity": "32 GB",
@@ -171,7 +171,7 @@
       "https://i.imgur.com/PjrquH9.jpg",
       "https://i.imgur.com/8IIMoj8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "PATRIOT",
       "Type": "DDR4",
       "Capacity": "16 GB",
@@ -191,7 +191,7 @@
       "https://i.imgur.com/q98pNow.jpg",
       "https://i.imgur.com/mPTAS7M.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "TEAM",
       "Type": "DDR5",
       "Capacity": "32 GB",
@@ -211,7 +211,7 @@
       "https://i.imgur.com/q98pNow.jpg",
       "https://i.imgur.com/mPTAS7M.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "TEAM",
       "Type": "DDR5",
       "Capacity": "64 GB",
@@ -231,7 +231,7 @@
       "https://i.imgur.com/XlwjiF3.jpg",
       "https://i.imgur.com/AVF2rwC.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Corsair",
       "Type": "DDR5",
       "Capacity": "32 GB",
@@ -251,7 +251,7 @@
       "https://i.imgur.com/XlwjiF3.jpg",
       "https://i.imgur.com/AVF2rwC.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Corsair",
       "Type": "DDR5",
       "Capacity": "8 GB",
@@ -271,7 +271,7 @@
       "https://i.imgur.com/XlwjiF3.jpg",
       "https://i.imgur.com/AVF2rwC.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Corsair",
       "Type": "DDR5",
       "Capacity": "16 GB",
@@ -291,7 +291,7 @@
       "https://i.imgur.com/uBGPWoR.jpg",
       "https://i.imgur.com/3cSI5Eq.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR5",
       "Capacity": "128 GB",
@@ -311,7 +311,7 @@
       "https://i.imgur.com/uBGPWoR.jpg",
       "https://i.imgur.com/3cSI5Eq.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR5",
       "Capacity": "64 GB",
@@ -331,7 +331,7 @@
       "https://i.imgur.com/uBGPWoR.jpg",
       "https://i.imgur.com/3cSI5Eq.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR5",
       "Capacity": "32 GB",
@@ -351,7 +351,7 @@
       "https://i.imgur.com/uBGPWoR.jpg",
       "https://i.imgur.com/3cSI5Eq.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Type": "DDR5",
       "Capacity": "16 GB",

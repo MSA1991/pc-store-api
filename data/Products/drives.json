@@ -11,7 +11,7 @@
       "https://i.imgur.com/0rEqu72.jpg",
       "https://i.imgur.com/skULQHQ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Western Digital",
       "Form Factor": "3.5 inch",
       "Storage Capacity": "1 TB",
@@ -31,7 +31,7 @@
       "https://i.imgur.com/zEGbaaK.jpg",
       "https://i.imgur.com/skULQHQ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Western Digital",
       "Form Factor": "3.5 inch",
       "Storage Capacity": "2 TB",
@@ -51,7 +51,7 @@
       "https://i.imgur.com/NNEmk17.jpg",
       "https://i.imgur.com/skULQHQ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Seagate",
       "Form Factor": "3.5 inch",
       "Storage Capacity": "8 TB",
@@ -71,7 +71,7 @@
       "https://i.imgur.com/NNEmk17.jpg",
       "https://i.imgur.com/skULQHQ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Seagate",
       "Form Factor": "3.5 inch",
       "Storage Capacity": "2 TB",
@@ -91,7 +91,7 @@
       "https://i.imgur.com/NNEmk17.jpg",
       "https://i.imgur.com/skULQHQ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Seagate",
       "Form Factor": "3.5 inch",
       "Storage Capacity": "1 TB",
@@ -111,7 +111,7 @@
       "https://i.imgur.com/Xwkhxmb.jpg",
       "https://i.imgur.com/ycUMudn.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Western Digital",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "2 TB",
@@ -131,7 +131,7 @@
       "https://i.imgur.com/Xwkhxmb.jpg",
       "https://i.imgur.com/ycUMudn.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Western Digital",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "1 TB",
@@ -151,7 +151,7 @@
       "https://i.imgur.com/w69l8Ix.jpg",
       "https://i.imgur.com/anfoiCc.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "1 TB",
@@ -171,7 +171,7 @@
       "https://i.imgur.com/w69l8Ix.jpg",
       "https://i.imgur.com/anfoiCc.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "2 TB",
@@ -191,7 +191,7 @@
       "https://i.imgur.com/w69l8Ix.jpg",
       "https://i.imgur.com/anfoiCc.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "500 GB",
@@ -211,7 +211,7 @@
       "https://i.imgur.com/bEdcO2k.jpg",
       "https://i.imgur.com/sDeZTE8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "240 GB",
@@ -231,7 +231,7 @@
       "https://i.imgur.com/bEdcO2k.jpg",
       "https://i.imgur.com/sDeZTE8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Form Factor": "2.5 inch",
       "Storage Capacity": "960 GB",
@@ -251,7 +251,7 @@
       "https://i.imgur.com/yaQXqGs.jpg",
       "https://i.imgur.com/em9bewa.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "M.2",
       "Storage Capacity": "1 TB",
@@ -271,7 +271,7 @@
       "https://i.imgur.com/yaQXqGs.jpg",
       "https://i.imgur.com/em9bewa.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "M.2",
       "Storage Capacity": "2 TB",
@@ -291,7 +291,7 @@
       "https://i.imgur.com/yaQXqGs.jpg",
       "https://i.imgur.com/em9bewa.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Samsung",
       "Form Factor": "M.2",
       "Storage Capacity": "500 GB",
@@ -311,7 +311,7 @@
       "https://i.imgur.com/dyVdM7l.jpg",
       "https://i.imgur.com/V3ISXzA.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Form Factor": "M.2",
       "Storage Capacity": "2 TB",
@@ -331,7 +331,7 @@
       "https://i.imgur.com/dyVdM7l.jpg",
       "https://i.imgur.com/V3ISXzA.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Form Factor": "M.2",
       "Storage Capacity": "1 TB",
@@ -351,7 +351,7 @@
       "https://i.imgur.com/dyVdM7l.jpg",
       "https://i.imgur.com/V3ISXzA.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Kingston",
       "Form Factor": "M.2",
       "Storage Capacity": "4 TB",

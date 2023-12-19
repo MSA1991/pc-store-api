@@ -11,7 +11,7 @@
       "https://i.imgur.com/NFTmV8V.jpg",
       "https://i.imgur.com/NtJRsHi.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Sapphire",
       "Clock Speed": "2560 MHz",
       "Memory Size": "16 GB",
@@ -31,7 +31,7 @@
       "https://i.imgur.com/khOdla0.jpg",
       "https://i.imgur.com/aKyypiB.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "PowerColor",
       "Clock Speed": "2550 MHz",
       "Memory Size": "8 GB",
@@ -51,7 +51,7 @@
       "https://i.imgur.com/C66VtKq.jpg",
       "https://i.imgur.com/LUPaAHR.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Clock Speed": "2400 MHz",
       "Memory Size": "10 GB",
@@ -71,7 +71,7 @@
       "https://i.imgur.com/H0pCghJ.jpg",
       "https://i.imgur.com/nguOCgd.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2600 MHz",
       "Memory Size": "12 GB",
@@ -91,7 +91,7 @@
       "https://i.imgur.com/m6OVRin.jpg",
       "https://i.imgur.com/nguOCgd.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2500 MHz",
       "Memory Size": "8 GB",
@@ -111,7 +111,7 @@
       "https://i.imgur.com/TVj3qxD.jpg",
       "https://i.imgur.com/9s0Hg2b.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "XFX",
       "Clock Speed": "2100 MHz",
       "Memory Size": "16 GB",
@@ -131,7 +131,7 @@
       "https://i.imgur.com/Fj8Iy80.jpg",
       "https://i.imgur.com/s3Yxnef.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "PowerColor",
       "Clock Speed": "2620 MHz",
       "Memory Size": "12 GB",
@@ -151,7 +151,7 @@
       "https://i.imgur.com/yAl4C6g.jpg",
       "https://i.imgur.com/xLavS0H.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Clock Speed": "2340 MHz",
       "Memory Size": "16 GB",
@@ -171,7 +171,7 @@
       "https://i.imgur.com/sKZt9Mj.jpg",
       "https://i.imgur.com/08JQs7V.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Clock Speed": "2690 MHz",
       "Memory Size": "8 GB",
@@ -191,7 +191,7 @@
       "https://i.imgur.com/2OHIRpV.jpg",
       "https://i.imgur.com/f9NWve4.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Clock Speed": "2340 MHz",
       "Memory Size": "16 GB",
@@ -211,7 +211,7 @@
       "https://i.imgur.com/TmkmFkH.jpg",
       "https://i.imgur.com/EYpB9vV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Clock Speed": "2640 MHz",
       "Memory Size": "24 GB",
@@ -231,7 +231,7 @@
       "https://i.imgur.com/UtgxOsh.jpg",
       "https://i.imgur.com/1HjLdjh.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Zotac",
       "Clock Speed": "2560 MHz",
       "Memory Size": "16 GB",
@@ -251,7 +251,7 @@
       "https://i.imgur.com/xkGIIgQ.jpg",
       "https://i.imgur.com/hqW7sw8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Clock Speed": "2640 MHz",
       "Memory Size": "12 GB",
@@ -271,7 +271,7 @@
       "https://i.imgur.com/tJDVhtd.jpg",
       "https://i.imgur.com/YUm53oL.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Palit",
       "Clock Speed": "2550 MHz",
       "Memory Size": "12 GB",
@@ -291,7 +291,7 @@
       "https://i.imgur.com/amwKzmj.jpg",
       "https://i.imgur.com/KXUq3oz.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Clock Speed": "2650 MHz",
       "Memory Size": "8 GB",
@@ -311,7 +311,7 @@
       "https://i.imgur.com/OapLKEH.jpg",
       "https://i.imgur.com/3lPMphV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Clock Speed": "2500 MHz",
       "Memory Size": "8 GB",
@@ -331,7 +331,7 @@
       "https://i.imgur.com/QYxGJ0D.jpg",
       "https://i.imgur.com/PcDU2gc.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Zotac",
       "Clock Speed": "1950 MHz",
       "Memory Size": "24 GB",
@@ -351,7 +351,7 @@
       "https://i.imgur.com/EMXYkNn.jpg",
       "https://i.imgur.com/BAEYZwI.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "EVGA",
       "Clock Speed": "1800 MHz",
       "Memory Size": "12 GB",
@@ -371,7 +371,7 @@
       "https://i.imgur.com/lTnYrcc.jpg",
       "https://i.imgur.com/GVNI41T.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Clock Speed": "1850 MHz",
       "Memory Size": "8 GB",
@@ -391,7 +391,7 @@
       "https://i.imgur.com/cxJ0Kfk.jpg",
       "https://i.imgur.com/NF0LZy2.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Sapphire",
       "Clock Speed": "1500 MHz",
       "Memory Size": "8 GB",

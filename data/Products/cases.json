@@ -11,7 +11,7 @@
       "https://i.imgur.com/Wdb1XrF.jpg",
       "https://i.imgur.com/NUZy3pg.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Be Quiet!",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -31,7 +31,7 @@
       "https://i.imgur.com/yNkEkRb.jpg",
       "https://i.imgur.com/OTdQj4K.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -51,7 +51,7 @@
       "https://i.imgur.com/ulSk35h.jpg",
       "https://i.imgur.com/1ud0sTV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -71,7 +71,7 @@
       "https://i.imgur.com/kSrle9H.jpg",
       "https://i.imgur.com/YTP3IKF.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Deepcool",
       "Case Type": "Mini-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
@@ -91,7 +91,7 @@
       "https://i.imgur.com/nqscmWl.jpg",
       "https://i.imgur.com/CJSzlXW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Case Type": "Mini-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
@@ -111,7 +111,7 @@
       "https://i.imgur.com/TTq2fbb.jpg",
       "https://i.imgur.com/8kQYafA.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "NZXT",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -131,7 +131,7 @@
       "https://i.imgur.com/8TbCc4G.jpg",
       "https://i.imgur.com/mk3ULP8.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "NZXT",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -151,7 +151,7 @@
       "https://i.imgur.com/zZyoTYr.jpg",
       "https://i.imgur.com/ZxaBbxe.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Fractal Design",
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
@@ -171,7 +171,7 @@
       "https://i.imgur.com/W5UjzVk.jpg",
       "https://i.imgur.com/tgZdeNt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Thermaltake",
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
@@ -191,7 +191,7 @@
       "https://i.imgur.com/zlcUNXD.jpg",
       "https://i.imgur.com/syC9m2K.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Cooler Master",
       "Case Type": "Cube",
       "Motherboard Support": "Mini-ITX",
@@ -211,7 +211,7 @@
       "https://i.imgur.com/pXFQNkq.jpg",
       "https://i.imgur.com/Z291aRs.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Aerocool",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -231,7 +231,7 @@
       "https://i.imgur.com/UZrPCoC.jpg",
       "https://i.imgur.com/sKeq4qZ.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Silverstone",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
@@ -251,7 +251,7 @@
       "https://i.imgur.com/FTlHKWp.jpg",
       "https://i.imgur.com/7FcGr7R.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
@@ -271,7 +271,7 @@
       "https://i.imgur.com/MQbBpJN.jpg",
       "https://i.imgur.com/SDw3qEb.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Cougar",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
@@ -291,7 +291,7 @@
       "https://i.imgur.com/BGwGU6c.jpg",
       "https://i.imgur.com/fLzYbDb.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Zalman",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
@@ -311,7 +311,7 @@
       "https://i.imgur.com/LGRpwNl.jpg",
       "https://i.imgur.com/e89eKDr.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "NZXT",
       "Case Type": "Midi-Tower",
       "Motherboard Support": "Mini-ITX",

@@ -11,7 +11,7 @@
       "https://i.imgur.com/JQ44UTD.jpg",
       "https://i.imgur.com/WKViypj.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM4",
       "Clock Speed": "3.4-4.5 GHz",
@@ -31,7 +31,7 @@
       "https://i.imgur.com/JQ44UTD.jpg",
       "https://i.imgur.com/WKViypj.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM4",
       "Clock Speed": "3.8-4.7 GHz",
@@ -51,7 +51,7 @@
       "https://i.imgur.com/1Hn8S7Z.jpg",
       "https://i.imgur.com/c0nSkix.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "4.7-5.3 GHz",
@@ -71,7 +71,7 @@
       "https://i.imgur.com/1Hn8S7Z.jpg",
       "https://i.imgur.com/c0nSkix.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "3.8-5.1 GHz",
@@ -91,7 +91,7 @@
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "4.2-5 GHz",
@@ -111,7 +111,7 @@
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "3.8-5.3 GHz",
@@ -131,7 +131,7 @@
       "https://i.imgur.com/c0nSkix.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "4.5-5.4 GHz",
@@ -151,7 +151,7 @@
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "4.2-5.7 GHz",
@@ -171,7 +171,7 @@
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "4.7-5.6 GHz",
@@ -191,7 +191,7 @@
       "https://i.imgur.com/U6f5UV5.jpg",
       "https://i.imgur.com/EefhYlW.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "AMD",
       "Socket": "AM5",
       "Clock Speed": "3.7-5.4 GHz",
@@ -211,7 +211,7 @@
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.6-5 GHz",
@@ -231,7 +231,7 @@
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.6-5 GHz",
@@ -251,7 +251,7 @@
       "https://i.imgur.com/GdFvSBh.jpg",
       "https://i.imgur.com/FbNaeVV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "2.1-4.9 GHz",
@@ -271,7 +271,7 @@
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "2.5-4.6 GHz",
@@ -291,7 +291,7 @@
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.5-5.1 GHz",
@@ -311,7 +311,7 @@
       "https://i.imgur.com/Yc1ocZ6.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "2.5-4.8 GHz",
@@ -331,7 +331,7 @@
       "https://i.imgur.com/VumcfCu.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.4-5.4 GHz",
@@ -351,7 +351,7 @@
       "https://i.imgur.com/VumcfCu.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.4-5.4 GHz",
@@ -371,7 +371,7 @@
       "https://i.imgur.com/VumcfCu.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "2.1-5.2 GHz",
@@ -391,7 +391,7 @@
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.0-5.8 GHz",
@@ -411,7 +411,7 @@
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "3.0-5.8 GHz",
@@ -431,7 +431,7 @@
       "https://i.imgur.com/At0QuJI.jpg",
       "https://i.imgur.com/V8WYpVt.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "Intel",
       "Socket": "1700",
       "Clock Speed": "2.0-5.6 GHz",

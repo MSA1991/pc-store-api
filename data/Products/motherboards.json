@@ -11,12 +11,12 @@
       "https://i.imgur.com/c14BoN7.jpg",
       "https://i.imgur.com/EZPQwCT.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Socket": "AM4",
       "Form Factor": "Micro-ATX",
       "DIMM": "4xDDR4 4733 GHz",
-      "GUI": "1x PCI Express 4.0, 1x PCI Express 3.0 x16"
+      "GUI": "1x PCI-E 4.0, 1x PCI-E 3.0 x16"
     }
   },
   {
@@ -31,12 +31,12 @@
       "https://i.imgur.com/34UucTd.jpg",
       "https://i.imgur.com/2vBCqs3.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Socket": "AM4",
       "Form Factor": "ATX",
       "DIMM": "4xDDR4 5100 GHz",
-      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 3.0 x16"
+      "GUI": "1x PCI-E 4.0 x16, 1x PCI-E 3.0 x16"
     }
   },
   {
@@ -51,12 +51,12 @@
       "https://i.imgur.com/awOXVrd.jpg",
       "https://i.imgur.com/s4kC29e.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Socket": "AM4",
       "Form Factor": "ATX",
       "DIMM": "4xDDR4 5100 GHz",
-      "GUI": "3x PCI Express 4.0 x16"
+      "GUI": "3x PCI-E 4.0 x16"
     }
   },
   {
@@ -71,12 +71,12 @@
       "https://i.imgur.com/W9r51pC.jpg",
       "https://i.imgur.com/KQQlb1w.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASRock",
       "Socket": "AM5",
       "Form Factor": "Micro-ATX",
       "DIMM": "2xDDR5 6400 GHz",
-      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 4.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -91,12 +91,12 @@
       "https://i.imgur.com/2ZpQ15y.jpg",
       "https://i.imgur.com/Pqu6h3Y.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Socket": "AM5",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 6400 GHz",
-      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 4.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -111,12 +111,12 @@
       "https://i.imgur.com/x3JeGhT.jpg",
       "https://i.imgur.com/kR4ivmi.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSi",
       "Socket": "AM5",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 6000 GHz",
-      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 4.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -131,12 +131,12 @@
       "https://i.imgur.com/CL3sR6L.jpg",
       "https://i.imgur.com/EZPQwCT.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Socket": "AM5",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 6400 GHz",
-      "GUI": "1x PCI Express 4.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 4.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -151,12 +151,12 @@
       "https://i.imgur.com/aKH5L5v.jpg",
       "https://i.imgur.com/Pqu6h3Y.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 7200 GHz",
-      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
+      "GUI": "1x PCI-E 5.0 x16, 1x PCI-E 3.0 x16"
     }
   },
   {
@@ -171,12 +171,12 @@
       "https://i.imgur.com/UTHR6r4.jpg",
       "https://i.imgur.com/b09Dcks.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 7800 GHz",
-      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 3.0 x16"
+      "GUI": "1x PCI-E 5.0 x16, 1x PCI-E 3.0 x16"
     }
   },
   {
@@ -191,12 +191,12 @@
       "https://i.imgur.com/6vqtkUX.jpg",
       "https://i.imgur.com/UpKmMT9.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 7600 GHz",
-      "GUI": "1x PCI Express 5.0 x16, 2x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 5.0 x16, 2x PCI-E 4.0 x16"
     }
   },
   {
@@ -211,12 +211,12 @@
       "https://i.imgur.com/Xav2AH1.jpg",
       "https://i.imgur.com/yzfRSw3.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "MSI",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 7200 GHz",
-      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 5.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -231,12 +231,12 @@
       "https://i.imgur.com/qVC4Sba.jpg",
       "https://i.imgur.com/xz1rVba.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASRock",
       "Socket": "1700",
       "Form Factor": "Micro-ATX",
       "DIMM": "2xDDR5 7200 GHz",
-      "GUI": "1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 4.0 x16"
     }
   },
   {
@@ -251,12 +251,12 @@
       "https://i.imgur.com/QbPUNOU.jpg",
       "https://i.imgur.com/mgYDYaV.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "GIGABYTE",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 7600 GHz",
-      "GUI": "1x PCI Express 5.0 x16, 1x PCI Express 4.0 x16"
+      "GUI": "1x PCI-E 5.0 x16, 1x PCI-E 4.0 x16"
     }
   },
   {
@@ -271,12 +271,12 @@
       "https://i.imgur.com/zEH5UvG.jpg",
       "https://i.imgur.com/s4kC29e.jpg"
     ],
-    "characteristics": {
+    "specifications": {
       "Brand": "ASUS",
       "Socket": "1700",
       "Form Factor": "ATX",
       "DIMM": "4xDDR5 8000 GHz",
-      "GUI": "2x PCI Express 5.0 x16"
+      "GUI": "2x PCI-E 5.0 x16"
     }
   }
 ]
