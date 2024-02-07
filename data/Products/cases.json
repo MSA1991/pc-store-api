@@ -16,7 +16,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "450 x 232 x 463 mm",
-      "Max CPU Cooler Clearance": "190 mm"
+      "CPU Cooler Clearance": "190 mm"
     }
   },
   {
@@ -36,7 +36,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "421 x 210 x 499 mm",
-      "Max CPU Cooler Clearance": "160 mm"
+      "CPU Cooler Clearance": "160 mm"
     }
   },
   {
@@ -56,7 +56,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "490 x 474 x 231 mm",
-      "Max CPU Cooler Clearance": "157 mm"
+      "CPU Cooler Clearance": "157 mm"
     }
   },
   {
@@ -76,7 +76,7 @@
       "Case Type": "Mini-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
       "Dimensions": "418 x 215 x 431 mm",
-      "Max CPU Cooler Clearance": "165 mm"
+      "CPU Cooler Clearance": "165 mm"
     }
   },
   {
@@ -96,7 +96,7 @@
       "Case Type": "Mini-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
       "Dimensions": "205 x 350 x 460 mm",
-      "Max CPU Cooler Clearance": "170 mm"
+      "CPU Cooler Clearance": "170 mm"
     }
   },
   {
@@ -116,7 +116,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "505 x 230 x 480 mm",
-      "Max CPU Cooler Clearance": "185 mm"
+      "CPU Cooler Clearance": "185 mm"
     }
   },
   {
@@ -136,7 +136,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "464 x 227 x 446 mm",
-      "Max CPU Cooler Clearance": "165 mm"
+      "CPU Cooler Clearance": "165 mm"
     }
   },
   {
@@ -156,7 +156,7 @@
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "600 x 240 x 566 mm",
-      "Max CPU Cooler Clearance": "185 mm"
+      "CPU Cooler Clearance": "185 mm"
     }
   },
   {
@@ -176,7 +176,7 @@
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "660 x 260 x 626 mm",
-      "Max CPU Cooler Clearance": "180 mm"
+      "CPU Cooler Clearance": "180 mm"
     }
   },
   {
@@ -196,7 +196,7 @@
       "Case Type": "Cube",
       "Motherboard Support": "Mini-ITX",
       "Dimensions": "240 x 205 x 377,5 mm",
-      "Max CPU Cooler Clearance": "65 mm"
+      "CPU Cooler Clearance": "65 mm"
     }
   },
   {
@@ -216,7 +216,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "210 x 520 x 404 mm",
-      "Max CPU Cooler Clearance": "161 mm"
+      "CPU Cooler Clearance": "161 mm"
     }
   },
   {
@@ -236,7 +236,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "210 x 483 x 422 mm",
-      "Max CPU Cooler Clearance": "169 mm"
+      "CPU Cooler Clearance": "169 mm"
     }
   },
   {
@@ -256,7 +256,7 @@
       "Case Type": "Full-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "714 x 301 x 671 mm",
-      "Max CPU Cooler Clearance": "198 mm"
+      "CPU Cooler Clearance": "198 mm"
     }
   },
   {
@@ -276,7 +276,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "E-ATX, ATX, Micro-ATX, Mini-ITX",
       "Dimensions": "496 x 240 x 465 mm",
-      "Max CPU Cooler Clearance": "190 mm"
+      "CPU Cooler Clearance": "190 mm"
     }
   },
   {
@@ -296,7 +296,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "Micro-ATX, Mini-ITX",
       "Dimensions": "407 x 210 x 457 mm",
-      "Max CPU Cooler Clearance": "165 mm"
+      "CPU Cooler Clearance": "165 mm"
     }
   },
   {
@@ -316,7 +316,7 @@
       "Case Type": "Midi-Tower",
       "Motherboard Support": "Mini-ITX",
       "Dimensions": "187 x 387,7 x 187,6 mm",
-      "Max CPU Cooler Clearance": "58 mm"
+      "CPU Cooler Clearance": "58 mm"
     }
   }
 ]
