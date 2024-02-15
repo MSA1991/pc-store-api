@@ -2,43 +2,43 @@
   {
     "id": "cpu",
     "name": "Processors",
-    "image": "https://i.imgur.com/AqQDTh1.png",
+    "image": "https://i.imgur.com/C2p41Do.png",
     "description": "Processors are a key component of modern computers. This category covers a variety of models designed for different needs and purposes, including gaming systems, workstations, servers, and general purpose computers."
   },
   {
     "id": "motherboards",
     "name": "Motherboards",
-    "image": "https://i.imgur.com/QfCPSZC.png",
+    "image": "https://i.imgur.com/Pkxz1fK.png",
     "description": "The motherboard is the base on which other key components such as the processor, RAM, graphics card and other devices are installed. This category offers a variety of models to suit different user needs and types of computer systems."
   },
   {
     "id": "gpu",
     "name": "Graphics Cards",
-    "image": "https://i.imgur.com/REH5dYd.png",
+    "image": "https://i.imgur.com/DYZSxZR.png",
     "description": "We offer a diverse range of graphics accelerators. Video cards are designed for graphics applications including gaming, video processing, professional design, and other tasks that require high visualization performance."
   },
   {
     "id": "ram",
     "name": "Memory",
-    "image": "https://i.imgur.com/TQBGZ2G.png",
+    "image": "https://i.imgur.com/rsGvJXy.png",
     "description": "RAM, or Random Access Memory, plays a key role in computer performance and efficiency because it temporarily stores the data that the operating system and applications are currently working with."
   },
   {
     "id": "drives",
     "name": "Drives",
-    "image": "https://i.imgur.com/jQ7CYh0.png",
+    "image": "https://i.imgur.com/kAxkiGU.png",
     "description": "This category includes hard disk drives (HDDs) and solid state drives (SSDs), which play an important role in storing and quickly accessing information. HDDs offer large capacity and a more affordable price, while SSDs provide faster data read and write speeds"
   },
   {
     "id": "psu",
     "name": "Power Supplies",
-    "image": "https://i.imgur.com/N9FP7yB.png",
+    "image": "https://i.imgur.com/hY1UmVS.png",
     "description": "This product category includes various models and types of devices designed to provide power to computer systems. Power supplies (PSUs) play a key role in converting electricity from standard sources into the necessary voltages to operate computer components."
   },
   {
     "id": "cases",
     "name": "Computer Cases",
-    "image": "https://i.imgur.com/P2I5lMU.png",
+    "image": "https://i.imgur.com/xrzryVZ.png",
     "description": "We stock a diverse selection of Computer Enclosures designed to house and protect the components of a computer system. These enclosures not only provide physical integration of all internal devices, but can also affect the cooling, soundproofing and appearance of the computer."
   }
 ]
