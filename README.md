@@ -7,12 +7,10 @@ This is a simple Express.js application that provides endpoints to retrieve prod
 1. **/categories**
    Method\*\*: GET
    Description: Returns a list of product categories.
-   Delay: Responds after a delay of 2000 milliseconds (2 seconds).
 
 2. **/products**
    Method: GET
    Description: Returns a list of all products.
-   Delay: Responds after a delay of 2000 milliseconds (2 seconds).
 
 3. **/:products/:id**
    Method: GET
@@ -20,7 +18,6 @@ This is a simple Express.js application that provides endpoints to retrieve prod
    Parameters:
    :products - The product category.
    :id - The ID of the specific product within the category.
-   Delay: Responds after a delay of 2000 milliseconds (2 seconds).
    Error Handling: If the specified product is not found, a 404 error with an appropriate message is returned.
 
 ### Configuration
